@@ -3,24 +3,24 @@
 
 @import "{{ site.theme }}";
 
-#3button { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
+#tbutton { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
 
-#3button ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
+#tbutton ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
-#3button li { width: 89px; float: left; border-right: 1px solid #e0e0e0; height: 40px; }
+#tbutton li { width: 89px; float: left; border-right: 1px solid #e0e0e0; height: 40px; }
 
-#3button li:first-child a { border-radius: 5px 0 0 5px; }
+#tbutton li:first-child a { border-radius: 5px 0 0 5px; }
 
-#3button li:last-child a { border-radius: 0 5px 5px 0; }
+#tbutton li:last-child a { border-radius: 0 5px 5px 0; }
 
-#3button ul a { line-height: 1; font-size: 11px; color: #676767; display: block; text-align: center; padding-top: 6px; height: 34px; }
+#tbutton ul a { line-height: 1; font-size: 11px; color: #676767; display: block; text-align: center; padding-top: 6px; height: 34px; }
 
-#3button ul a:hover, header ul a:focus { color: #675C5C; font-weight: bold; }
+#tbutton ul a:hover, header ul a:focus { color: #675C5C; font-weight: bold; }
 
-#3button ul a:active { background-color: #f0f0f0; }
+#tbutton ul a:active { background-color: #f0f0f0; }
 
-#3button strong { color: #222; font-weight: 700; }
+#tbutton strong { color: #222; font-weight: 700; }
 
-#3button ul li + li + li { border-right: none; width: 89px; }
+#tbutton ul li + li + li { border-right: none; width: 89px; }
 
-#3button ul a strong { font-size: 14px; display: block; color: #222; }
+#tbutton ul a strong { font-size: 14px; display: block; color: #222; }
