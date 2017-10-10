@@ -11,4 +11,5 @@ layout: default
           </ul>
 </tbutton>
 <!--<li><a href="https://github.com/pages-themes/minimal/tarball/master">View<strong>3DS</strong></a></li>-->
+
 [back](./)
