@@ -1,8 +1,8 @@
-## Welcome to the Nintendo Tools Repo
+## NDS Repository
 <threebutton>
 <ul>
-            <li><a href="">View<strong>Distribution</strong></a></li>
             <li><a href="">View<strong>Flashcarts</strong></a></li>
+            <li><a href="">View<strong>Distribution</strong></a></li>
             <li><a href="">View<strong>Emulators</strong></a></li>
           </ul>
 </threebutton>
