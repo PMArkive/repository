@@ -1,5 +1,7 @@
 ## NDS Distribution Roms
-Note: Set NDS System date to match the Roms Date
+Note: Set NDS System date to match the Roms Date to make them work.
+
+
 ---------------------------------------
 ### Diamond & Pearl
 <ul>
