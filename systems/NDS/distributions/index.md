@@ -15,7 +15,8 @@ Note: Set NDS System date to match the Roms Date
 </ul>
 <ul>
             <li><a href="">NTR-Y6OE-USA - Toys R Us Shaymin & Regigigas</a></li>
-            <li>Date: Shaymin - February 8th to February 14th 2009 | Regigigas - March 8th to March 21st</li>
+            <li>Date: Shaymin - February 8th to February 14th 2009</li>
+            <li>Date: Regigigas - March 8th to March 21st 2009</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a></li>
@@ -27,7 +28,8 @@ Note: Set NDS System date to match the Roms Date
 </ul>
 <ul>
             <li><a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a></li>
-            <li>Date: Pichu - January 30th to February 14th 2010 | Jirachi - February 27th to March 13th 2010</li>
+            <li>Date: Pichu - January 30th to February 14th 2010</li>
+            <li>Date: Jirachi - February 27th to March 13th 2010</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y6XP-EUR - Michina Arceus</a></li>
