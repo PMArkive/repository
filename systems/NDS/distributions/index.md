@@ -2,7 +2,7 @@
 Note: Date is what the NDS must be set to, to allow distribution.
 
 ### Diamond & Pearl
-* <a href="">NTR-AAQE-USA - Toys R US Darkrai<strong>Date: June 1st 2008 - June 14th 2008</strong></a>
+* <a href="">NTR-AAQE-USA - Toys R US Darkrai<strong> Date: June 1st 2008 - June 14th 2008</strong></a>
 * <a href="">NTR-AARE-USA - GameStop Deoxys</a>
 * <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
 * <a href="">NTR-Y6DE-USA - Toys R Us Dragonite</a>
