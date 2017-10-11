@@ -12,7 +12,7 @@ Guide on how to use this can be found <a href="https://wiki.gbatemp.net/wiki/Fla
 <twobutton>
   <ul>
     <li><a href="./V7/">View<strong>V7</strong></a></li>
-    <li><a href="./V8/">View<strong>V8</strong></></li>
+    <li><a href="./V8/">View<strong>V8</strong></a></li>
   </ul>
   </twobutton>
 
