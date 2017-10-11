@@ -54,17 +54,46 @@ Note: Set NDS System date to match the Roms Date
 
 
 ### Platinum
-* <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
-* <a href="">NTR-Y6XE-USA - Toys R Us Arceus</a>
-* <a href="">NTR-Y6XP-EUR - Michina Arceus</a>
-* <a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a>
-* <a href="">NTR-Y8CE-USA - Winter 2011 Celebi</a>
-* <a href="">NTR-Y8CP-EUR - Winter 2011 Celebi</a>
-* <a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a>
-* <a href="">NTR-Y58E-USA - Toys R Us Secret Key</a>
+<ul>
+            <li><a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a></li>
+            <li>Date: April 4th to June 20th 2009</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y58E-USA - Toys R Us Secret Key</a></li>
+            <li>Date: April 19th to April 26th 2009</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y6XE-USA - Toys R Us Arceus</a></li>
+            <li>Date: November 7th to November 15th 2009</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a></li>
+            <li>Date: Pichu - January 30th to February 14th 2010</li>
+            <li>Date: Jirachi - February 27th to March 13th 2010</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y6XP-EUR - Michina Arceus</a></li>
+            <li>Date: February 20th to April 10th 2010</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a></li>
+            <li>Date: January 30th to February 20th 2011</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8CP-EUR - Winter 2011 Celebi</a></li>
+            <li>Date: February 11th to March 12th 2011</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8CE-USA - Winter 2011 Celebi</a></li>
+            <li>Date: 27th February 2011</li>
+</ul>
 
 
 ### Heart Gold & Soul Silver
+<ul>
+            <li></li>
+            <li></li>
+</ul>
 * <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
 * <a href="">NTR-Y6XP-EUR - Michina Arceus</a>
 * <a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a>
@@ -74,6 +103,10 @@ Note: Set NDS System date to match the Roms Date
 
 
 ### Black & White
+<ul>
+            <li></li>
+            <li></li>
+</ul>
 * <a href="">NTR-Y8KP-EUR - Liberty Pass</a>
 * <a href="">NTR-Y8QP-EUR - Winter 2011 Darkrai</a>
 * <a href="">NTR-Y85P-EUR - Summer 2011 Zoroark</a>
@@ -89,6 +122,10 @@ Note: Set NDS System date to match the Roms Date
 
 
 ### Black 2 & White 2
+<ul>
+            <li></li>
+            <li></li>
+</ul>
 * <a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a>
 * <a href="">NTR-Y9HE-USA - GameStop Meloetta</a>
 * <a href="">NTR-Y9OP-EUR - Summer 2013 Shiny Sinnoh Trio (German WonderCard)</a>
