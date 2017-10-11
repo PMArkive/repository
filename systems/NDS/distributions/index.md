@@ -120,51 +120,55 @@ Note: Set NDS System date to match the Roms Date
 ### Black & White
 <ul>
             <li><a href="">NTR-Y8KP-EUR - Liberty Pass</a></li>
-            <li></li>
+            <li>Date: March 4th to April 27th 2011</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y8QP-EUR - Winter 2011 Darkrai</a></li>
-            <li></li>
+            <li>Date: November 14th to December 31st 2011</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y85P-EUR - Summer 2011 Zoroark</a></li>
-            <li></li>
+            <li>Date: June 24th to August 27th 2011</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9JZ-EUR - Summer 2012 Keldeo</a></li>
-            <li></li>
+            <li>Date: September 1st to October 11th 2012</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9JZ-USA - GameStop Summer 2012 Keldeo</a></li>
-            <li></li>
+            <li>August 27th 2012 to January 31st 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a></li>
-            <li></li>
+            <li>March 22nd to April 19th 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9HE-USA - GameStop Meloetta</a></li>
-            <li></li>
+            <li>Date: March 1st 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9OP-EUR - Summer 2013 Shiny Sinnoh Trio (German WonderCard)</a></li>
-            <li></li>
+            <li>Date: Dialga - August 30th to September 12th 2013</li>
+            <li>Date: Palkia - September 13th to September 26th 2013</li>
+            <li>Date: Giratina - September 27th to October 11th 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9OZ-EUR - Summer 2013 Shiny Sinnoh Trio</a></li>
-            <li></li>
+            <li>Date: Dialga - August 30th to September 12th 2013</li>
+            <li>Date: Palkia - September 13th to September 26th 2013</li>
+            <li>Date: Giratina - September 27th to October 11th 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y82E-USA - Toys R Us Secret Eggs</a></li>
-            <li></li>
+            <li>Date: April 27th to May 31st 2011</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y85Z-USA - Toys R Us Zoroark</a></li>
-            <li></li>
+            <li>Date: September 16th to October 16th 2011</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y86P-EUR - Summer 2011 Shelmet & Karrablast</a></li>
-            <li></li>
+            <li>Date: June 24th to August 27th 2011</li>
 </ul>
 
 
