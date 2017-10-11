@@ -1,11 +1,14 @@
 ## NDS Distribution Roms
 Note: Set NDS date to match the Roms Date
 ### Diamond & Pearl
-* Date: June 1st 2008 to June 14th 2008
-* <a href="">NTR-AAQE-USA - Toys R US Darkrai</a>
-
-* Date: June 20th 2008
-* <a href="">NTR-AARE-USA - GameStop Deoxys</a>
+<ul>
+            <li>Date: June 1st 2008 to June 14th 2008</li>
+            <li><a href="">NTR-AAQE-USA - Toys R US Darkrai</a></li>
+</ul>
+<ul>
+            <li>Date: June 20th 2008</li>
+            <li><a href="">NTR-AARE-USA - GameStop Deoxys</a></li>
+</ul>
 
 <strong> November 8th to November 9th 2008</strong>
 * <a href="">NTR-Y6DE-USA - Toys R Us Dragonite</a>
