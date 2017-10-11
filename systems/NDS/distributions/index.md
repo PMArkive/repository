@@ -91,15 +91,30 @@ Note: Set NDS System date to match the Roms Date
 
 ### Heart Gold & Soul Silver
 <ul>
-            <li></li>
-            <li></li>
+            <li><a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a></li>
+            <li>Date: April 4th to June 20th 2009</li>
 </ul>
-* <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
-* <a href="">NTR-Y6XP-EUR - Michina Arceus</a>
-* <a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a>
-* <a href="">NTR-Y8CE-USA - Winter 2011 Celebi</a>
-* <a href="">NTR-Y8CP-EUR - Winter 2011 Celebi</a>
-* <a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a>
+<ul>
+            <li><a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a></li>
+            <li>Date: Pichu - January 30th to February 14th 2010</li>
+            <li>Date: Jirachi - February 27th to March 13th 2010</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y6XP-EUR - Michina Arceus</a></li>
+            <li>Date: February 20th to April 10th 2010</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a></li>
+            <li>Date: January 30th to February 20th 2011</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8CP-EUR - Winter 2011 Celebi</a></li>
+            <li>Date: February 11th to March 12th 2011</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y8CE-USA - Winter 2011 Celebi</a></li>
+            <li>Date: 27th February 2011</li>
+</ul>
 
 
 ### Black & White
