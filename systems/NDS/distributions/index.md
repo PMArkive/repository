@@ -136,11 +136,11 @@ Note: Set NDS System date to match the Roms Date
 </ul>
 <ul>
             <li><a href="">NTR-Y9JZ-USA - GameStop Summer 2012 Keldeo</a></li>
-            <li>August 27th 2012 to January 31st 2013</li>
+            <li>Date: August 27th 2012 to January 31st 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a></li>
-            <li>March 22nd to April 19th 2013</li>
+            <li>Date: March 22nd to April 19th 2013</li>
 </ul>
 <ul>
             <li><a href="">NTR-Y9HE-USA - GameStop Meloetta</a></li>
@@ -174,13 +174,25 @@ Note: Set NDS System date to match the Roms Date
 
 ### Black 2 & White 2
 <ul>
-            <li></li>
-            <li></li>
+            <li><a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a></li>
+            <li>Date: March 22nd to April 19th 2013</li>
 </ul>
-* <a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a>
-* <a href="">NTR-Y9HE-USA - GameStop Meloetta</a>
-* <a href="">NTR-Y9OP-EUR - Summer 2013 Shiny Sinnoh Trio (German WonderCard)</a>
-* <a href="">NTR-Y9OZ-EUR - Summer 2013 Shiny Sinnoh Trio</a>
+<ul>
+            <li><a href="">NTR-Y9HE-USA - GameStop Meloetta</a></li>
+            <li>Date: March 1st 2013</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y9OP-EUR - Summer 2013 Shiny Sinnoh Trio (German WonderCard)</a></li>
+            <li>Date: Dialga - August 30th to September 12th 2013</li>
+            <li>Date: Palkia - September 13th to September 26th 2013</li>
+            <li>Date: Giratina - September 27th to October 11th 2013</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y9OZ-EUR - Summer 2013 Shiny Sinnoh Trio</a></li>
+            <li>Date: Dialga - August 30th to September 12th 2013</li>
+            <li>Date: Palkia - September 13th to September 26th 2013</li>
+            <li>Date: Giratina - September 27th to October 11th 2013</li>
+</ul>
 
 <onebutton>
 <ul>
