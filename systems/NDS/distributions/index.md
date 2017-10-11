@@ -1,7 +1,8 @@
 ## NDS Distribution Roms
+Note: Date is what the NDS must be set to, to allow distribution.
 
 ### Diamond & Pearl
-* <a href="">NTR-AAQE-USA - Toys R US Darkrai</a>
+* <a href="">NTR-AAQE-USA - Toys R US Darkrai<strong>Date: June 1st 2008 - June 14th 2008</strong></a>
 * <a href="">NTR-AARE-USA - GameStop Deoxys</a>
 * <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
 * <a href="">NTR-Y6DE-USA - Toys R Us Dragonite</a>
@@ -35,7 +36,7 @@
 * <a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a>
 
 
-###Black & White
+### Black & White
 * <a href="">NTR-Y8KP-EUR - Liberty Pass</a>
 * <a href="">NTR-Y8QP-EUR - Winter 2011 Darkrai</a>
 * <a href="">NTR-Y85P-EUR - Summer 2011 Zoroark</a>
@@ -50,7 +51,7 @@
 * <a href="">NTR-Y86P-EUR - Summer 2011 Shelmet & Karrablast</a>
 
 
-###Black 2 & White 2
+### Black 2 & White 2
 * <a href="">NTR-Y9HE-EUR - Spring 2013 Meloetta</a>
 * <a href="">NTR-Y9HE-USA - GameStop Meloetta</a>
 * <a href="">NTR-Y9OP-EUR - Summer 2013 Shiny Sinnoh Trio (German WonderCard)</a>
