@@ -1,17 +1,33 @@
 ## NDS Distribution Roms
-Note: Set NDS date to match the rom.
+Note: Set NDS date to match the Roms Date
 ### Diamond & Pearl
-* <a href="">NTR-AAQE-USA - Toys R US Darkrai<strong> June 1st 2008 - June 14th 2008</strong></a>
+<strong> June 1st 2008 to June 14th 2008</strong>
+* <a href="">NTR-AAQE-USA - Toys R US Darkrai</a>
+
+<strong> June 20th 2008</strong>
 * <a href="">NTR-AARE-USA - GameStop Deoxys</a>
-* <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
+
+<strong> November 8th to November 9th 2008</strong>
 * <a href="">NTR-Y6DE-USA - Toys R Us Dragonite</a>
+
+<strong> April 4th to June 20th 2009</strong>
+* <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
+
+<strong>Shaymin - February 8th to February 14th 2009 | Regigigas - March 8th to March 21st
 * <a href="">NTR-Y6OE-USA - Toys R Us Shaymin & Regigigas</a>
+
 * <a href="">NTR-Y6XE-USA - Toys R Us Arceus</a>
+
 * <a href="">NTR-Y6XP-EUR - Michina Arceus</a>
+
 * <a href="">NTR-Y7YE-USA - GameStop Jirachi & Shiny Pichu</a>
+
 * <a href="">NTR-Y8CE-USA - Winter 2011 Celebi</a>
+
 * <a href="">NTR-Y8CP-EUR - Winter 2011 Celebi</a>
+
 * <a href="">NTR-Y8SE-USA - Toys R Us Ash's Pikachu</a>
+
 * <a href="">NTR-Y44E-USA - Toys R Us Manaphy</a>
 
 
