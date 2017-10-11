@@ -2,12 +2,12 @@
 Note: Set NDS date to match the Roms Date
 ### Diamond & Pearl
 <ul>
-            <li>Date: June 1st 2008 to June 14th 2008</li>
             <li><a href="">NTR-AAQE-USA - Toys R US Darkrai</a></li>
+            <li>Date: June 1st 2008 to June 14th 2008</li>
 </ul>
 <ul>
-            <li>Date: June 20th 2008</li>
             <li><a href="">NTR-AARE-USA - GameStop Deoxys</a></li>
+            <li>Date: June 20th 2008</li>
 </ul>
 
 <strong> November 8th to November 9th 2008</strong>
