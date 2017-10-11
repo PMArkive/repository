@@ -11,12 +11,29 @@ Note: Set NDS System date to match the Roms Date
 </ul>
 <ul>
             <li><a href="">NTR-Y6DE-USA - Toys R Us Dragonite</a></li>
-            <li>November 8th to November 9th 2008</li>
+            <li>Date: November 8th to November 9th 2008</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a></li>
+            <li>Date: April 4th to June 20th 2009</li>
+</ul>
+<ul>
+            <li><a href="">NTR-Y6OE-USA - Toys R Us Shaymin & Regigigas</a></li>
+            <li>Date: Shaymin - February 8th to February 14th 2009 | Regigigas - March 8th to March 21st</li>
+</ul>
+<ul>
+            <li></li>
+            <li></li>
+</ul>
+<ul>
+            <li></li>
+            <li></li>
+</ul>
+<ul>
+            <li></li>
+            <li></li>
 </ul>
 
-
-<strong> April 4th to June 20th 2009</strong>
-* <a href="">NTR-Y5XP-EUR - Movie 11 Shaymin</a>
 
 <strong>Shaymin - February 8th to February 14th 2009 | Regigigas - March 8th to March 21st
 * <a href="">NTR-Y6OE-USA - Toys R Us Shaymin & Regigigas</a>
