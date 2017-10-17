@@ -2,8 +2,8 @@
 
 <twobutton>
 <ul>
-  <li><a href="./DkAdvance/">View<strong>DevKit Advance</strong></a></li>
-  <li><a href="./GBAMusRiper/">View<strong>GBAMusRiper</strong></a></li>
+  <li><a href="./DkAdvance/">View<strong>DKA</strong></a></li>
+  <li><a href="./GBAMusRiper/">View<strong>GMR</strong></a></li>
   </ul>
   
  </twobutton>
