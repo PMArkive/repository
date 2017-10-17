@@ -15,8 +15,6 @@ Guide on how to use this can be found <a href="https://web.archive.org/web/http:
     <li><a href="Release_4.bz2">Download<strong>Release 4</strong></a></li>
   </ul>
 
-
-
 <ul>
             <li><a href="../">Go<strong>Back</strong></a></li>
           </ul>
