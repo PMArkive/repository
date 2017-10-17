@@ -1,6 +1,6 @@
 ## Flashme Tool
 
-Guide on how to use this can be found <a href="https://wiki.gbatemp.net/wiki/FlashMe">Here<a/>
+Guide on how to use this can be found <a href="https://web.archive.org/web/https://wiki.gbatemp.net/wiki/FlashMe">Here<a/>
 
 <threebutton>
   <ul>
