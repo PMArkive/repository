@@ -18,7 +18,7 @@ Note: Some games may not be able to recieve the distributions
             <li><a href="AGB-JPAJ-USA - US Aurora Ticket.gba">AGB-JPAJ-USA - US Aurora Ticket</a></li>
             <li>Games: LeafGreen & FireRed</li>
             <li>Region: Any as long as game is set to English</li>
-            <li>Usage: <a href="https://web.archive.org/web/https://digiex.net/threads/pokemon-aurora-ticket-distribution-usa-gba-cartridge-rom-download-usa.14901/>digiex.net</a></li>
+            <li>Usage: <a href="https://web.archive.org/web/https://digiex.net/threads/pokemon-aurora-ticket-distribution-usa-gba-cartridge-rom-download-usa.14901/">digiex.net</a></li>
 </ul>
             
 
