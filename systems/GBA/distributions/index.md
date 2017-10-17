@@ -1,6 +1,5 @@
 ## GBA Distribution Roms
-Note: Set NDS System date to match the Roms Date to make them work.
-
+Note: Some games may not be able to recieve the distributions
 
 ---------------------------------------
 <ul>
