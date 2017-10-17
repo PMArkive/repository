@@ -6,7 +6,7 @@ Guide on how to use this can be found <a href="https://web.archive.org/web/http:
 <p>Windows</p>
   <ul>
     <li><a href="Release_4.zip">Download<strong>Release 4</strong></a></li>
-    <li><a href="Release_5.zip">Download<strong>V5</strong></a></li>
+    <li><a href="Release_5.zip">Download<strong>Release 5</strong></a></li>
   </ul>
   
 <onebutton>
