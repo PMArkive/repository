@@ -43,6 +43,14 @@
             <li>DSi Compatible: No</li>
             <li>Firmware Version: 1.15</li>
 </ul>
+---------------------------------------
+<ul>
+            <li><a href="CycoloDSEvo.zip">CycloDS Evolution</a></li>
+            <li><a href="http://www.cyclopsds.com">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Firmware Version: 2.3(Stable)|1.59(Beta)|B.4(GUI)</li>
+</ul>
+---------------------------------------
 
 <onebutton>
 <ul>
