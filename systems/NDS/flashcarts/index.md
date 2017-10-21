@@ -1,5 +1,7 @@
 ## NDS Flashcart Firmware/Software
 
+Note: Virus scans might contain False Positives.
+
 
 ---------------------------------------
 <ul>
