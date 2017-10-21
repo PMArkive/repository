@@ -141,6 +141,69 @@
             <li>Version: 3.0 ob8(Kernel)|108a(Firmware)</li>
 </ul>
 ---------------------------------------
+<ul>
+            <li><a href="G6DSReal.zip">G6 DS Real</a></li>
+            <li><a href="http://www.g6flash.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 4.8f</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="G6Flash.zip">G6 Flash</a></li>
+            <li><a href="http://www.g6flash.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 4.8(Kernel)|5.1(Software)</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="G6Flash.zip">G6 Lite</a></li>
+            <li><a href="http://www.g6flash.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 4.8(Kernel)|5.1(Software)</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="GamesNMusic.zip">Games'N'Music</a></li>
+            <li><a href="http://us.codejunkies.com/Products/NDS-Games-n-Music__EF000155.aspx">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: Unknown</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="GEiDS.zip">GEi DS</a></li>
+            <li><a href="http://www.ge.ndsi.in/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 4.2</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="iEDGE.zip">iEDGE</a></li>
+            <li><a href="http://www.edge-ds.cn/">Homepage</a></li>
+            <li>DSi Compatible: Yes(Up to 1.4)</li>
+            <li>Version: 1.11</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="iPlayer.zip">iPlayer</a></li>
+            <li><a href="http://www.dsiplayer.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.06 & 1.41</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="iSmartPremium.zip">iSmart Premium</a></li>
+            <li><a href="http://ismartds.com">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.05</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="iTouch2.zip">iTouch2</a></li>
+            <li><a href="http://www.itouchds.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 3.8e</li>
+</ul>
+---------------------------------------
 
 <onebutton>
 <ul>
