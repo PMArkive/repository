@@ -1,4 +1,4 @@
-## basicGBAinjector Tool
+## Simple 3DS GBA Banner Icon Generator Tool
 
 Guide on how to use this can be found <a href="http://web.archive.org/web/20171021045411/https://github.com/natinusala/Simple-3DS-GBA-Banner-Icon-Generator">Here<a/>
 
