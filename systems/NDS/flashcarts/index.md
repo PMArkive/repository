@@ -17,7 +17,7 @@
 </ul>
 ---------------------------------------
 <ul>
-            <li><a href="">Acekard21.zip</a>Acekard 2.1</li>
+            <li><a href="Acekard21.zip">Acekard 2.1</a></li>
             <li><a href="http://www.acekard.com">Homepage</a></li>
             <li>DSi Compatible: No</li>
             <li>Firmware Version: 1.8.1</li>
