@@ -3,7 +3,7 @@
 <twobutton>
 <ul>
   <li><a href="./basicgbainjector/">View<strong>GBAInjector</strong></a></li>
-  <li><a href="./GBAMusRiper/">View<strong>GMR</strong></a></li>
+  <li><a href="./gbabannergenerator/">View<strong>GBABannerGen</strong></a></li>
   </ul>
   
  </twobutton>
