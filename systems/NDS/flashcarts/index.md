@@ -106,6 +106,41 @@
             <li>Firmware Version: 1.11</li>
 </ul>
 ---------------------------------------
+<ul>
+            <li><a href="eWin2.zip">eWin2</a></li>
+            <li><a href="http://www.ewin2.net/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Firmware Version: 1.96.8</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="EZ-FlashIV.zip">EZ-Flash IV</a></li>
+            <li><a href="http://www.ezflash.cn/">Homepage</a></li>
+            <li>DSi Compatible: No(Requires GBA Slot)</li>
+            <li>Firmware Version: 2.03</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="EZ-FlashV.zip">EZ-Flash V</a></li>
+            <li><a href="http://www.ezflash.cn/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Firmware Version: 2.0 RC20</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="EZ-FlashV.zip">EZ-Flash V+</a></li>
+            <li><a href="http://www.ezflash.cn/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Firmware Version: 2.0 RC20</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="EZ-FlashVi.zip">EZ-Flash Vi</a></li>
+            <li><a href="http://www.ezflash.cn">Homepage</a></li>
+            <li>DSi Compatible: Yes (3DS compatible up to 4.0.0-7)</li>
+            <li>Firmware Version: 3.0 ob8(Kernel)|108a(Firmware)</li>
+</ul>
+---------------------------------------
 
 <onebutton>
 <ul>
