@@ -1,9 +1,12 @@
 ## NDS Tools
 
-
+<twobutton>
 <ul>
-  <li><a href="./Flashme/">Flashme</a></li>
+  <li><a href="./Flashme/">View<strong>Flashme</strong></a></li>
+  <li><a href="./GbaBackuptool/">View<strong>GBABackup</strong></a></li>
   </ul>
+  
+  </twobutton
 
 
 <onebutton>
