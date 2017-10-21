@@ -204,6 +204,137 @@
             <li>Version: 3.8e</li>
 </ul>
 ---------------------------------------
+<ul>
+            <li><a href="iTouch2.zip"></a></li>
+            <li><a href="http://www.itouchds.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 3.8e</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3DS.zip">M3 DS Real</a></li>
+            <li><a href="http://m3adapter.com">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.49X(M3 Sakura)|4.9(TouchPod)</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3DS.zip">M3 Perfect</a></li>
+            <li><a href="http://m3adapter.com">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.49X(M3 Sakura)|4.9(TouchPod)</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3Simply.zip">M3 Simply</a></li>
+            <li><a href="http://www.m3adapter.com">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.62</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3iSDHC.zip">M3i SDHC</a></li>
+            <li><a href="http://m3isdhc.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.4</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3iUpgrade.zip">M3i Upgrade</a></li>
+            <li><a href="">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.45</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3iZero.zip">M3i Zero</a></li>
+            <li><a href="http://m3adapter.com">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 4.5.0(Firmware)|1.49X(M3 Sakura)|4.9(TouchPod)</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="M3lUpgrade.zip">M3l Upgrade</a></li>
+            <li><a href="http://m3iupgrade.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.45</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="MARS.zip">MARS</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.03</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="MaxMediaPlayer.zip">Max Media Player</a></li>
+            <li><a href="http://us.codejunkies.com/mpds/index.htm">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.22</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="MK5.zip">MK5</a></li>
+            <li><a href="http://www.neoflash.com">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 2.56</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="N5.zip">N5</a></li>
+            <li><a href="http://www.dsn5.com/EN-N5/n5-en.htm">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.32</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="N5i.zip">N5i</a></li>
+            <li><a href="http://www.dsn5.com/EN-N5/n5-en.htm">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 2.03</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="N-Card.zip"></a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: v25</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="R43DS.zip">R4 3DS Upgrade SDHC Dual-Core RTS</a></li>
+            <li><a href="http://r4-usas.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes (Also 3DS Compatible)</li>
+            <li>Version: 3.9b</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="R4DS.zip">R4 DS</a></li>
+            <li><a href="http://www.r4ds.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.62</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="R4SDHCUpgrade.zip">R4 SDHC Upgrade</a></li>
+            <li><a href="http://www.r4i-sdhc.com/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.27b</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="R4Ultra.zip">R4 Ultra</a></li>
+            <li><a href="http://www.r4ultra.com">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.56</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="SuperR4i.zip">Super R4i</a></li>
+            <li><a href="http://www.super4i.com/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.20</li>
+</ul>
+---------------------------------------
 
 <onebutton>
 <ul>
