@@ -6,7 +6,7 @@
   <li><a href="./GbaBackuptool/">View<strong>GBABackup</strong></a></li>
   </ul>
   
-  </twobutton
+  </twobutton>
 
 
 <onebutton>
