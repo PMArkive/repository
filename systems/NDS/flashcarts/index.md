@@ -335,6 +335,55 @@
             <li>Version: 1.20</li>
 </ul>
 ---------------------------------------
+<ul>
+            <li><a href="SuperCardDSONE.zip">SuperCard DSONE</a></li>
+            <li><a href="http://eng.supercard.sc/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.0</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="SuperCardDSONE.zip">SuperCard DSONE v3</a></li>
+            <li><a href="http://eng.supercard.sc/">Homepage</a></li>
+            <li>DSi Compatible: No</li>
+            <li>Version: 1.0</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="SuperCardDSONEi.zip">SuperCard DSONEi</a></li>
+            <li><a href="http://eng.supercard.sc/">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.0/1.1(Firmware) + DSI 1.4.1 Patch</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="SuperCardDSTWO.zip">SuperCard DSTWO</a></li>
+            <li><a href="">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.30</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="TTiUpgrade.zip">TTi Upgrade</a></li>
+            <li><a href="http://www.nds-tti.com">Homepage</a></li>
+            <li>DSi Compatible: Yes</li>
+            <li>Version: 1.19</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="U2DS.zip">U2DS</a></li>
+            <li><a href="http://www.u2ds.com/">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.7c</li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="UltraFlashpassEx.zip">Ultra Flashpass Ex</a></li>
+            <li><a href="http://www.ndsgba.net/">Homepage</a></li>
+            <li>DSi Compatible: Unknown</li>
+            <li>Version: 1.45</li>
+</ul>
+---------------------------------------
 
 <onebutton>
 <ul>
