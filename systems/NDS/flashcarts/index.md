@@ -1,5 +1,4 @@
 ## NDS Flashcart Firmware/Software
-Note: 
 
 
 ---------------------------------------
