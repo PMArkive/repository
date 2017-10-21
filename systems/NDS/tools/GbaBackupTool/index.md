@@ -5,6 +5,7 @@ Guide on how to use this can be found <a href="http://web.archive.org/web/201707
 <onebutton>
 <ul>
             <li><a href="GBA_Backup_Tool.zip">Download<strong>Version 0.21</strong></a></li>
+            </ul>
 <ul>
             <li><a href="../">Go<strong>Back</strong></a></li>
           </ul>
