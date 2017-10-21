@@ -32,14 +32,14 @@ Note:
 </ul>
 ---------------------------------------
 <ul>
-            <li><a href="AcekardRPG.zip"></a>Acekard RPG</li>
+            <li><a href="AcekardRPG.zip">Acekard RPG</a></li>
             <li><a href="http://www.acekard.com">Homepage</a></li>
             <li>DSi Compatible: No</li>
             <li>Firmware Version: 1.16</li>
 </ul>
 ---------------------------------------
 <ul>
-            <li><a href="Acekard+.zip"></a>Acekard+</li>
+            <li><a href="Acekard+.zip">Acekard+</a></li>
             <li><a href="http://www.acekard.com">Homepage</a></li>
             <li>DSi Compatible: No</li>
             <li>Firmware Version: 1.15</li>
