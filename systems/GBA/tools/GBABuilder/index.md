@@ -1,8 +1,6 @@
-<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
+<select>
+  <option value="black">Black Shell</option>
+  <option value="red">Red Shell</option>
+  <option value="silver">Silver Shell</option>
+  <option value="indigo">Indigo Shell</option>
+</select>
