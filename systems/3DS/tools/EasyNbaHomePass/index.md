@@ -1,6 +1,6 @@
 ## EasyNbaHomePass - By HDR
 
-This is a re-upload of NbaHomePass.exe & BASE256.txt, but it includes a Batch script to make it easier to run your own Nintendo Zone.
+This is a re-upload of NbaHomePass.exe & BASE256.txt, but it includes a Batch script to make it easier to run your own Nintendo Zone, to use this, simply run "Start Nintendo Zone.bat" as Administrator.
 
 <onebutton>
   <ul>
