@@ -7,7 +7,7 @@ This is a re-upload of NbaHomePass.exe & BASE256.txt, but it includes a Batch sc
     <li><a href="EasyNbaHomePass.zip">Download<strong>EasyNHP.zip</strong></a></li>
   </ul>
   <ul>
-  <li>Virus Scan: <a href="https://www.virustotal.com/#/file/157148c11c485c8a88ae7211c389191a7b8503f0020fe2c1879f9a4ff2053872/detection">View<strong>VirusTotal</strong></a></li>
+  <li><a href="https://www.virustotal.com/#/file/157148c11c485c8a88ae7211c389191a7b8503f0020fe2c1879f9a4ff2053872/detection">View<strong>Virus Scan</strong></a></li>
   </ul>
   
   
