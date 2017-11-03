@@ -5,7 +5,7 @@
   <li><a href="./basicgbainjector/">View<strong>GBAInjector</strong></a></li>
   <li><a href="./gbabannergenerator/">View<strong>GBABanner</strong></a></li>
   <li><a href="./gbavcinjector/">View<strong>VCInjector</strong></a></li>
-  <li><a href="./EasyNbaHomePass/">View<strong>EasyNbaHomePass</strong></a></li>
+  <li><a href="./EasyNbaHomePass/">View<strong>EasyNHP</strong></a></li>
   </ul>
   
  </fourbutton>
