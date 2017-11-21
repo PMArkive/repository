@@ -1,0 +1,5785 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://gbatemp.net/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>AGS-001 Screen/Light Assembly into OG GBA MOD | Page 5 | GBAtemp.net - The Independent Video Game Community</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="../../css.php?css=gbatemp_fonts,xenforo,form,public&amp;style=4&amp;dir=LTR&amp;d=1511275875" />
+	<link rel="stylesheet" href="https://gbatemp.net/css.php?css=attached_files,bb_code,facebook,likes_summary,login_bar,message,message_user_info,share_page,thread_view,xfa_blogs_nav&amp;style=4&amp;dir=LTR&amp;d=1511275875" />
+	
+	
+
+	<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-2061983-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+	<script>
+    var PRINTAD = function() {
+            var o = ["http://www.nds-card.com/ProShow.asp?ProID=135", "http://www.nds-card.com/ProShow.asp?ProID=504", "http://www.nds-card.com/ProShow.asp?ProID=149", "http://www.nds-card.com/ProShow.asp?ProID=271", "http://www.nds-card.com/ProShow.asp?ProID=501", "http://www.nds-card.com/ProShow.asp?ProID=145", "http://www.nds-card.com/ProShow.asp?ProID=143", "http://www.nds-card.com"],
+                r = ["Buy Supercard DSTWO", "Buy EZ-Flash IV", "Buy R4i Gold 3DS RTS", "Buy R4i Save Dongle", "Buy Gateway 3DS", "Buy R4i SDHC 1.4.5", "Buy R4 SDHC", "Help GBAtemp and buy from NDS-Card.com our #1 sponsor!"],
+                t = Math.floor(8 * Math.random()),
+                a = o[t],
+                e = r[t];
+            document.write($(window).width() < 1024 ? "<div style='text-align: center;'><a href='../../../www.nds-card.com/index.html' target=_blank title='Help GBAtemp by supporting our sponsor: make your purchases on NDS-Card.com, Our main site Sponsor!'><img src='../../up/152102/pandandscard.png' alt='NDS-Card.com' /></a><br /><a target='_blank' title='" + e + "' href='../../../www.nds-card.com/index.html'><strong>NDS-Card.com - GBAtemp's #1 Sponsor</strong></a></div>" : "<div style='text-align: center;'><a href='https://gbatemp.net/&quot;&#32;+&#32;a&#32;+&#32;&quot;' target=_blank title='Help GBAtemp by supporting our sponsor: make your purchases on NDS-Card.com, Our main site Sponsor!'><img src='https://gbatemp.net/images/nds&quot;&#32;+&#32;t&#32;+&#32;&quot;.png' alt='NDS-Card.com' width='728' height='90' /></a><br /><a target='_blank' title='" + e + "' href='https://gbatemp.net/&quot;&#32;+&#32;a&#32;+&#32;&quot;'><strong>" + e + "</strong></a></div>")
+        },
+        toggleSpoiler = function(o) {
+            var r = o.parentNode.nextSibling;
+            "none" == r.style.display ? (r.style.display = "", o.value = "Hide") : (r.style.display = "none", o.value = "Show"), o.blur()
+        };
+</script>
+
+
+
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+
+  // Tag IDs set here, must match Tags served in the Body for proper setup
+  freestar.config.enabled_slots = [
+    "gbatemp_728x90_320x50_300x100_ATF",
+    "gbatemp_728x90_970x90_970x250_320x50_300x250_300x100_BTF",
+    "gbatemp_160x600_320x50_300x100_300x250_Sidebar",
+    "gbatemp_300x250_300x600_160x600_320x50_300x100_Sidebar",
+    "gbatemp_Mobile_Interstitial"
+  ];
+
+  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/gbatemp-net";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+</script>
+
+
+	
+
+
+
+<script src="../../js/jquery/jquery-1.11.0.min.js"></script>	
+	
+<script src="../../js/xenforo/xenforo.js?_v=359447a5"></script>
+
+<script>
+try {
+$(document).ready(function(){
+	$('.MobilePageJump').each(function(){
+		this.firstChild.type="number";
+		this.firstChild.addEventListener('keydown', function(evt){
+			if (evt.keyCode == 13 || evt.keyCode == 9) { this.nextSibling.click() }
+		});
+		this.firstChild.nextSibling.addEventListener('click', function(){
+			var s = $('.PageNav').data('sentinel');
+			var b = $('.PageNav').data('baseurl');
+			var v = parseInt(this.previousSibling.value);
+			
+			if(v) window.location = b.replace(s, v).replace(escape(s), v);
+		});
+	});
+});
+} catch(e) {}
+</script>
+	
+	<link rel="manifest" href="../../manifest.json">
+	
+<link rel="apple-touch-icon" href="../../styles/ts2/tempy.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for GBAtemp.net - The Independent Video Game Community" href="../../forums/-/index.rss" />
+	
+	<link rel="prev" href="page-4" /><link rel="next" href="page-6" />
+	<link rel="canonical" href="page-5" />
+	<meta name="description" content="[ATTACH] [ATTACH] [ATTACH] [ATTACH] [ATTACH] I think it will. Not too sure tho. Give it a shot and report back.
+
+Update: Everything worked well. Just..." />	<meta property="og:site_name" content="GBAtemp.net - The Independent Video Game Community" />
+	<meta property="og:image" content="https://gbatemp.net/data/avatars/m/322/322859.jpg?1466385555" />
+	<meta property="og:image" content="https://gbatemp.net/styles/ts2/tempy.png" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/" />
+	<meta property="og:title" content="AGS-001 Screen/Light Assembly into OG GBA MOD" />
+	<meta property="og:description" content="[ATTACH] [ATTACH] [ATTACH] [ATTACH] [ATTACH] I think it will. Not too sure tho. Give it a shot and report back.
+
+Update: Everything worked well. Just..." />
+	
+	<meta property="fb:app_id" content="305495069464531" />
+	<meta property="fb:admins" content="3337119825753" />
+<!-- Tapatalk Detect style start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page
+{
+top:auto;
+}
+</style>
+<!-- Tapatalk Detect banner style end -->
+                
+
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies.","dismiss":"Dismiss","learnMore":"Why?","link":"https://gbatemp.net/dynamic/gbatemp-net-privacy-policy.78/","theme":"dark-bottom"};
+</script>
+<script async src="../../../cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+<!-- Begin svg4everybody plugin -->
+<script src="../../../cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.8/svg4everybody.js"></script>
+<script>svg4everybody();</script>
+<!-- End svg4everybody plugin -->
+
+<!-- Mobile Address bar recolor -->
+<!-- Chrome, Firefox OS, Opera and Vivaldi -->
+<meta name="theme-color" content="rgb(43,79,122)">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="rgb(43,79,122)">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="rgb(43,79,122)">
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1434692143266516');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="../../../www.facebook.com/tr?id=1434692143266516&amp;ev=PageView&amp;noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+<body class="node4 node42 node202 node32 SelectQuotable">
+
+
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="../../login/index.html" class="concealed noOutline"><svg class="ts2icon lr"><use xlink:href="styles/ts2/sprites.svg#user"/></use></svg>Log in or Sign up</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="thread_view">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+						
+			
+			<div class="breadBoxTop ">
+				
+
+<div id="searchBar">
+	
+	<span id="QuickSearchPlaceholder" title="Search" class="OverlayTrigger navLink NoPopupGadget"><svg class="ts2icon topalign"><use xlink:href="styles/ts2/sprites.svg#search"/></use></svg></span>
+	<fieldset id="QuickSearch">
+		<form action="https://gbatemp.net/search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls" style="padding:0">
+				<!-- block: primaryControls -->
+				<div class="searchGlass"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#search"/></use></svg></div><input type="search" name="keywords" value="" class="searchBox textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only AGS-001 Screen/Light Assembly into OG GBA MOD"><input type="checkbox" name="type[post][thread_id]" value="368171"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Search this thread only</label></li>
+								
+									<li><label title="Search only GBA - Console and Game Discussions, Help and Tips"><input type="checkbox" name="nodes[]" value="4"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><svg class="ts2icon icon1"><use xlink:href="styles/ts2/sprites.svg#chevron-circle-down"/></use></svg></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="../../find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="../../search/index.html" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div>
+				
+
+<div id="mob_toolbar">
+	
+	<div class="topscroll"><a title="Scroll to bottom" href="page-5#footer"><svg class="ts2icon topalign"><use xlink:href="styles/ts2/sprites.svg#caret-down"/></use></svg></a></div>
+</div>
+
+<nav>
+	
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+	
+
+	<fieldset class="breadcrumb">
+		<a href="../../misc/quick-navigation-menu?selected=node-4" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#th-list"/></use></svg></a>
+		
+		<div class="boardTitle"><strong>GBAtemp.net - The Independent Video Game Community</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="../../index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+				</span>
+						
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="../../forums/index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+				</span>
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="../../categories/other-systems-discussions.42/index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">Other Systems Discussions</span></a>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="../../forums/other-handhelds.202/index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">Other Handhelds</span></a>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="../../categories/nintendo-gba-discussions.32/index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">Nintendo GBA Discussions</span></a>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="../../forums/gba-console-and-game-discussions-help-and-tips.4/index.html" class="crumb bgfade1" rel="up" itemprop="url"><span itemprop="title">GBA - Console and Game Discussions, Help and Tips</span></a>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+			</div>
+			
+			
+			
+			
+			
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>AGS-001 Screen/Light Assembly into OG GBA MOD</h1>
+								
+								<p id="pageDescription" class="muted ">
+	Discussion in '<a href="../../forums/gba-console-and-game-discussions-help-and-tips.4/index.html">GBA - Console and Game Discussions, Help and Tips</a>' started by <a href="../../members/nusdogg.322859/index.html" class="username" dir="auto">Nusdogg</a>, <a href="../../goto/post?id=5483271"><span class="DateTime" title="Jul 2, 2014 at 3:20 AM">Jul 2, 2014</span></a>.
+</p>
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+						
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	<div class="linkGroup SelectionCountContainer">
+
+		
+		
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="5"
+	data-range="2"
+	data-start="2"
+	data-end="5"
+	data-last="6"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/page-{{sentinel}}">
+	
+	<span class="pageNavDesktop">
+	<span class="pageNavHeader">Page 5 of 6</span>
+	
+	<nav>
+		
+			<a href="page-4" class="text bgfade1">&lt; Prev</a>
+			
+		
+		
+		<a href="../../goto/post?id=5483271" class=" bgfade1" rel="start">1</a>
+		
+		
+		
+		
+			<a href="page-2" class=" bgfade1">2</a>
+		
+			<a href="page-3" class=" bgfade1">3</a>
+		
+			<a href="page-4" class=" bgfade1">4</a>
+		
+			<a href="page-5" class="currentPage  bgfade1">5</a>
+		
+		
+		
+		
+		<a href="page-6" class=" bgfade1">6</a>
+		
+		
+			<a href="page-6" class="text bgfade1">Next &gt;</a>
+			
+		
+	</nav>
+	
+	
+	
+	</span>
+
+	<span class="pageNavMob">	
+	<nav>
+		<!--  -->
+		<div class="pageNavMobButton small">
+		
+			<a class="valid" href="../../goto/post?id=5483271"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#angle-double-left"/></use></svg></a>
+		
+		</div>
+		
+		<div class="pageNavMobButton">
+		
+			<a class="valid" href="page-4" class="text">Prev<br /><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#chevron-left"/></use></svg></a>
+			
+		
+		</div>
+		
+		<div class="pageNavMobButton Popup">
+			<a class="valid" rel="Menu">Page <strong>5</strong><br /><span class="pagetotal">of 6</span></a>
+			<div class="Menu MobilePageJump"><input type="text" class="textCtrl" min="1" max="6" /><input type="button" class="button primary" value="Go" /></div>			
+		</div>
+		
+		<div class="pageNavMobButton">
+		
+			<a class="valid" href="page-6">Next<br /><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#chevron-right"/></use></svg></a>
+			
+		
+		</div>
+		
+		<div class="pageNavMobButton small">
+		
+			<a class="valid" href="page-6" class="text"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#angle-double-right"/></use></svg></a>
+		
+		</div>	
+	</nav>		
+	
+</div>
+
+</div>
+
+<div id="main-title-container">
+	<div id="main-title" >
+		<h1>
+			<a href="../../goto/post?id=5483271" id="threadTitle">AGS-001 Screen/Light Assembly into OG GBA MOD</a>
+		</h1>
+		<span class="postedBy">
+			<span class="posted iconKey">by <a href="../../members/nusdogg.322859/index.html" class="username">Nusdogg</a>
+				<a href="../../goto/post?id=5483271">Jul 2, 2014 at 3:20 AM</a></span>
+			
+		</span>
+		<span class="postedBy thread_data">
+			<span class="views"><svg class="ts2icon t"><use xlink:href="styles/ts2/sprites.svg#eye"/></use></svg>46,179<span id="mob_hide">&nbsp;Views</span></span>
+			<span class="likes"><svg class="ts2icon t"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg>3<span id="mob_hide">&nbsp;Likes</span></span>
+			<span class="comments"><div style="display: none;" class="new"></div><a href="unread"><svg class="ts2icon t"><use xlink:href="styles/ts2/sprites.svg#comments-o"/></use></svg>107<span id="mob_hide">&nbsp;replies</span></a></span>
+		</span>
+	</div>
+	<div id="main-title-right" >
+		
+
+<div class="sharePage_top">
+	<a href="../../../www.facebook.com/sharer/sharer.php?u=https:%252F%252Fgbatemp.net%252Fthreads%252Fags-001-screen-light-assembly-into-og-gba-mod.368171%252F" title="Share this page on Facebook" id="facebook_icon" class="muted share_icon social_icon" target="_blank">
+		<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#facebook"/></use></svg>
+	</a>
+	<a href="http://twitter.com/share?text=AGS-001 Screen/Light Assembly into OG GBA MOD&url=https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/&via=GBAtemp" title="Share this page on Twitter" id="twitter_icon" class="muted share_icon social_icon" target="_blank">
+		<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#twitter"/></use></svg>
+	</a>
+	<a href="http://www.reddit.com/submit?url=https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/&title=AGS-001 Screen/Light Assembly into OG GBA MOD" title="Share this page on Reddit" id="reddit_icon" class="muted share_icon social_icon" target="_blank">
+		<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#reddit-alien"/></use></svg>
+	</a>
+	<div class="Popup sharePopup">
+	<a class="menu" rel="Menu"><span id="mob_show_inline"><svg class="ts2icon lr"><use xlink:href="styles/ts2/sprites.svg#share"/></use></svg></span><span id="mob_show_inline">Share This Page</span></a>
+	<div class="Menu">
+		<div class="primaryContent menuHeader"><h3>Share This Page</h3></div>
+			<ul class="secondaryContent blockLinksList">
+				<li><a href="../../../www.facebook.com/sharer/sharer.php?u=https:%252F%252Fgbatemp.net%252Fthreads%252Fags-001-screen-light-assembly-into-og-gba-mod.368171%252F" id="facebook_icon" target="_blank">
+					<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#facebook"/></use></svg>Facebook
+				<div class="fb-like" data-href="https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+				</a>
+				</li>
+				<li><a href="http://twitter.com/share?text=AGS-001 Screen/Light Assembly into OG GBA MOD&url=https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/&via=GBAtemp" id="twitter_icon" target="_blank">
+					<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#twitter"/></use></svg>Twitter
+				</a></li>
+				<li><a href="http://www.reddit.com/submit?url=https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/&title=AGS-001 Screen/Light Assembly into OG GBA MOD" id="reddit_icon" title="Share this page on Reddit"  target="_blank">
+					<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#reddit-alien"/></use></svg>Reddit
+				</a></li>
+				<li><a href="mailto:?subject=AGS-001 Screen/Light Assembly into OG GBA MOD&body=https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/" target="_blank">
+					<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#envelope-o"/></use></svg>Email
+				</a></li>
+		</ul>
+	</div>
+</div>
+<style>
+.blockLinksList li .fb_iframe_widget { float: right; }
+</style>
+</div>
+	</div>
+</div>
+
+
+
+
+
+<form action="https://gbatemp.net/inline-mod/post/switch" method="post"
+	class="InlineModForm"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+
+	<ol class="messageList" id="messageList">
+
+		
+
+		
+			
+				
+					
+				
+				
+				
+
+
+<li id="post-6222230" class="message    " data-author="MadMod">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/madmod.380580/" class="avatar Av380580m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_m.png" width="114" height="114" alt="MadMod" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/madmod.380580/" class="username" dir="auto" itemprop="name">MadMod</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by MadMod">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=380580" class="concealed" rel="nofollow">7</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>1</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jan 17, 2016</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://gbatemp.net/attachments/20160126_204141_resized-jpg.44302/" alt="20160126_204141_resized.jpg" class="bbCodeImage LbImage" />
+		
+ 
+	
+	<img src="https://gbatemp.net/attachments/20160126_204206_resized-jpg.44303/" alt="20160126_204206_resized.jpg" class="bbCodeImage LbImage" />
+		
+ 
+	
+	<img src="https://gbatemp.net/attachments/20160331_191443_resized-jpg.44305/" alt="20160331_191443_resized.jpg" class="bbCodeImage LbImage" />
+		
+ 
+	
+	<img src="https://gbatemp.net/attachments/20160331_191505_resized-jpg.44306/" alt="20160331_191505_resized.jpg" class="bbCodeImage LbImage" />
+		
+ 
+	
+	<img src="https://gbatemp.net/attachments/20160331_191523_resized-jpg.44307/" alt="20160331_191523_resized.jpg" class="bbCodeImage LbImage" />
+		
+ 
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="Nusdogg">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					Nusdogg said:
+					<a href="https://gbatemp.net/goto/post?id=5984345#post-5984345" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">I think it will. Not too sure tho. Give it a shot and report back.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Update: Everything worked well. Just have to epoxy the battery cover on, swap out the power led, and i&#039;m done. It is REALLY tight though. It was tight enough with a 2000 MAH battery in it but with the screen in there too... lets just say i&#039;m surprised it didn&#039;t blow apart. Next time i try this i&#039;m definitely not going to put the biggest battery possible and a tight screen in the same machine.<br />
+<br />
+edit: my bad, forgot to grind down the screen enough on one side. everything fits good now.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+				<svg class="ts2icon l"><use xlink:href="styles/ts2/sprites.svg#pencil"/></use></svg>Last edited
+				
+					by <a href="https://gbatemp.net/members/madmod.380580/" class="username" dir="auto">MadMod</a>,
+				
+				<span class="DateTime" title="Apr 10, 2016 at 2:20 AM">Apr 10, 2016</span>
+				
+			</div>
+		
+		
+		
+		
+		<div id="likes-post-6222230">
+	
+	<div class="likesSummary secondaryContent">
+		<svg class="ts2icon like_icon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg><span class="LikeText"><a href="../../members/nusdogg.322859/index.html" class="username" dir="auto">Nusdogg</a> likes this.</span>
+	</div>
+</div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6222230" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6222230/permalink">#81</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6222230" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 1, 2016 at 3:17 PM">Apr 1, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+					<div class="" style=""><!-- Freestar nds card -->
+<script>
+if ($(window).width() < 1024) {
+  // Mobile
+  document.write("<!-- gbatemp_728x90_320x50_300x100_ATF --><div align='center' id='gbatemp_728x90_320x50_300x100_ATF'><scr"+"ipt data-cfasync='false' type='text/javascript'>    freestar.queue.push(function () { googletag.display('gbatemp_728x90_320x50_300x100_ATF'); });</scr"+"ipt></div>");
+} else {
+  // Desktop
+  PRINTAD();
+}
+</script></div>
+					
+				
+				
+				
+
+
+<li id="post-6222245" class="message    alt" data-author="nxwing">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/nxwing.332298/" class="avatar Av332298m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/332/332298.jpg?1497106055" width="114" height="114" alt="nxwing" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/nxwing.332298/" class="username" dir="auto" itemprop="name">nxwing</a>
+			<em class="userTitle" itemprop="title">GBAtemp Addict</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Addict' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;background-position: -12px 0px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;background-position: -12px 0px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;background-position: -12px 0px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by nxwing">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=332298" class="concealed" rel="nofollow">2,007</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>4,080</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jul 22, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/ph.png" alt="Philippines" title="Philippines" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>The Capital</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Just a question, what&#039;s the advantage of using this over a front light?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6222245"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6222245" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6222245/permalink">#82</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6222245" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 1, 2016 at 3:22 PM">Apr 1, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6222491" class="message    " data-author="MadMod">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/madmod.380580/" class="avatar Av380580m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_m.png" width="114" height="114" alt="MadMod" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/madmod.380580/" class="username" dir="auto" itemprop="name">MadMod</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by MadMod">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=380580" class="concealed" rel="nofollow">7</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>1</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jan 17, 2016</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="nxwing">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					nxwing said:
+					<a href="https://gbatemp.net/goto/post?id=6222245#post-6222245" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Just a question, what&#039;s the advantage of using this over a front light?</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>This over a 3rd party frontlight?<br />
+<br />
+1. Clarity.<br />
+<br />
+
+	
+	<img src="https://gbatemp.net/attachments/frontlight-png.44314/" alt="frontlight.png" class="bbCodeImage LbImage" />
+		
+<br />
+The SP screen was designed to be frontlit, so it keeps it&#039;s color saturation when lit by leds. The original GBA Screen was not. Attached is a picture of a gba with a handheld legends frontlight. Although they minimized the issues with some clever engineering, the colors still get washed out somewhat and there are little white dots everywhere giving a textured appearance. This mod is free of these issues. What you get is a clear, bright screen.<br />
+<br />
+2. Price<br />
+<br />
+If you already have an SP, then the adapter&#039;s only $13.50 on ebay as of yesterday. If you have to buy an SP, then the two options are equal and you end up spending about $30 dollars for either.<br />
+<br />
+3. Other considerations<br />
+<br />
+For this mod, all you have to do is grind down the frame a bit, pop in the screen+adapter, and solder 1 wire. I did it in 15 mins.  With other frontlights, you have to mess with LOCA (liquid optically clear adhesive). Not that hard from what i&#039;ve heard, but it&#039;ll crack and leave spiderweb like veins if it doesn&#039;t fully cure in the sun. It&#039;s preventable, just watch any of the guides.
+	
+	<img src="https://gbatemp.net/attachments/spidering-jpg.44315/" alt="spidering.jpg" class="bbCodeImage LbImage" />
+		
+<br />
+<br />
+It&#039;ll probably take a couple hours at least though, so i wouldn&#039;t go that route if you&#039;re the impatient type.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6222491"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6222491" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6222491/permalink">#83</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6222491" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 1, 2016 at 4:31 PM">Apr 1, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6236485" class="message    alt" data-author="davorz">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/davorz.388046/" class="avatar Av388046m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_m.png" width="114" height="114" alt="davorz" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/davorz.388046/" class="username" dir="auto" itemprop="name">davorz</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by davorz">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=388046" class="concealed" rel="nofollow">1</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Apr 6, 2016</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/sp.png" alt="" title="" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					I&#039;m quite sure that ribbon made by leechan for 001 is exactly the same that the one for 101 with a resistor on the wire. Can anyone who bought the 001 measure the resistor value please??
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6236485"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6236485" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6236485/permalink">#84</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6236485" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 6, 2016 at 9:13 AM">Apr 6, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6262207" class="message    " data-author="guidob">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/guidob.331517/" class="avatar Av331517m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="guidob" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/guidob.331517/" class="username" dir="auto" itemprop="name">guidob</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by guidob">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=331517" class="concealed" rel="nofollow">7</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jul 4, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/ar.png" alt="Argentina" title="Argentina" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					is it really necesary to solder the cable to the pcb with a 10 1-1 motherboard? i connected the screen and worked really well, and the brightness is fine for me.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6262207"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6262207" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6262207/permalink">#85</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6262207" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 15, 2016 at 11:57 PM">Apr 15, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6264091" class="message    alt" data-author="Lemmy Koopa">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/lemmy-koopa.314593/" class="avatar Av314593m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/314/314593.jpg?1403954499" width="114" height="114" alt="Lemmy Koopa" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/lemmy-koopa.314593/" class="username" dir="auto" itemprop="name">Lemmy Koopa</a>
+			<em class="userTitle" itemprop="title">M3 Perfect fanboy</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Fan' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by Lemmy Koopa">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=314593" class="concealed" rel="nofollow">347</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>279</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Sep 17, 2012</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>Ohio</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					What did you guys do to get the frontlight assembly to fit in right?<br />
+<br />
+I&#039;ve been grinding the back of where the screen sits with a file, is there anything else I need to do?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6264091"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6264091" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6264091/permalink">#86</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6264091" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 16, 2016 at 6:38 PM">Apr 16, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6264593" class="message    " data-author="guidob">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/guidob.331517/" class="avatar Av331517m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="guidob" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/guidob.331517/" class="username" dir="auto" itemprop="name">guidob</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by guidob">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=331517" class="concealed" rel="nofollow">7</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jul 4, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/ar.png" alt="Argentina" title="Argentina" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Lemmy Koopa">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					Lemmy Koopa said:
+					<a href="https://gbatemp.net/goto/post?id=6264091#post-6264091" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">What did you guys do to get the frontlight assembly to fit in right?<br />
+<br />
+I&#039;ve been grinding the back of where the screen sits with a file, is there anything else I need to do?</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Remove the red marks from the image i uploaded. It must fit flush. Use a dremel tool or anything to remove those marks, and if you can, remove a little more to create a groove, so you can put some glue o adhesive joint to prevent the dust from getting between the screen and the housing. If you don&#039;t remove that, the housing will force the screen and there&#039;s a possibility to damage it, specially if the ribbon adapter goes between the screen and the motherboard. I had to remove a lot of plastics and adhesives from the new screen and the housing to make the enough room. Takes time but use the proper tools and be careful with the housing.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+
+<div class="attachedFiles">
+	<h4 class="attachedFilesHeader">Attached Files:</h4>
+	<ul class="attachmentList SquareThumbs"
+		data-thumb-height="60"
+		data-thumb-selector="div.thumbnail > a">
+		
+			<li class="attachment image" title="Captura de pantalla 2016-04-16 18.03.30.png">
+				<div class="boxModelFixer primaryContent">
+					
+					<div class="thumbnail">
+						
+							<a href="https://gbatemp.net/attachments/captura-de-pantalla-2016-04-16-18-03-30-png.45930/" target="_blank" class="LbTrigger"
+								data-href="misc/lightbox"><img 
+								src="https://gbatemp.net/data/attachments/45/45318-a43405b74f5179d5461fff08abd16461.jpg" alt="Captura de pantalla 2016-04-16 18.03.30.png" class="LbImage" /></a>
+						
+					</div>
+					
+					<div class="attachmentInfo pairsJustified">
+						<h6 class="filename"><a href="https://gbatemp.net/attachments/captura-de-pantalla-2016-04-16-18-03-30-png.45930/" target="_blank">Captura de pantalla 2016-04-16 18.03.30.png</a></h6>
+						<dl><dt>File size:</dt> <dd>87.4 KB</dd></dl>
+						<dl><dt>Views:</dt> <dd>181</dd></dl>
+					</div>
+				</div>
+			</li>
+		
+	</ul>
+</div>
+
+
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6264593"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6264593" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6264593/permalink">#87</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6264593" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 16, 2016 at 10:10 PM">Apr 16, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6265529" class="message    alt" data-author="Lemmy Koopa">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/lemmy-koopa.314593/" class="avatar Av314593m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/314/314593.jpg?1403954499" width="114" height="114" alt="Lemmy Koopa" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/lemmy-koopa.314593/" class="username" dir="auto" itemprop="name">Lemmy Koopa</a>
+			<em class="userTitle" itemprop="title">M3 Perfect fanboy</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Fan' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by Lemmy Koopa">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=314593" class="concealed" rel="nofollow">347</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>279</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Sep 17, 2012</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>Ohio</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="guidob">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					guidob said:
+					<a href="https://gbatemp.net/goto/post?id=6264593#post-6264593" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Remove the red marks from the image i uploaded. It must fit flush. Use a dremel tool or anything to remove those marks, and if you can, remove a little more to create a groove, so you can put some glue o adhesive joint to prevent the dust from getting between the screen and the housing. If you don&#039;t remove that, the housing will force the screen and there&#039;s a possibility to damage it, specially if the ribbon adapter goes between the screen and the motherboard. I had to remove a lot of plastics and adhesives from the new screen and the housing to make the enough room. Takes time but use the proper tools and be careful with the housing.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Well I&#039;ve gotten rid of those parts and it still didn&#039;t fit, so I kept digging into the shell with a file. It helped a lot but there&#039;s still a bit of work to be done.<br />
+<br />
+I removed the foam on the back of the screen assembly, as well as even filed down the plastic casing of the screen assembly, but all I can really do now is work away more of the GBA case.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6265529"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6265529" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6265529/permalink">#88</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6265529" title="Permalink" class="datePermalink item"><span class="DateTime" title="Apr 17, 2016 at 6:53 AM">Apr 17, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6496458" class="message    " data-author="xIRONCHEFx">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/xironchefx.394493/" class="avatar Av394493m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="xIRONCHEFx" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/xironchefx.394493/" class="username" dir="auto" itemprop="name">xIRONCHEFx</a>
+			<em class="userTitle" itemprop="title">Newbie</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by xIRONCHEFx">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=394493" class="concealed" rel="nofollow">1</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jul 2, 2016</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Nusdogg or anybody I am interested in paying someone who has done gameboy mods to do one to my gameboy advance. Either a front light or a backlight. There are plenty of resources showing how but I would rather just pay someone who has done it successfully multiple times. Cheers!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6496458"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6496458" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6496458/permalink">#89</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6496458" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 2, 2016 at 1:08 AM">Jul 2, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6507257" class="message    alt" data-author="RealPetChicken">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="avatar Av355807m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="RealPetChicken" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="username" dir="auto" itemprop="name">RealPetChicken</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by RealPetChicken">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=355807" class="concealed" rel="nofollow">21</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Nov 5, 2014</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Skops">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					Skops said:
+					<a href="https://gbatemp.net/goto/post?id=5565907#post-5565907" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hi! I finally recibed my ribbon cable for AGS 001 for 40 pin.<br />
+<br />
+<a href="http://www.ebay.es/itm/181712654148?_trksid=p2060353.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT" target="_blank" class="externalLink" rel="nofollow">http://www.ebay.es/itm/181712654148?_trksid=p2060353.m2749.l2649&amp;ssPageName=STRK:MEBIDX:IT</a><br />
+<br />
+(I only buy the cable)<br />
+<br />
+I doing the mod with the repaired screen AGS 001, I repaired first the break flex cable, you can see it in this video:<br />
+<br />
+<iframe width="500" height="300" src="https://www.youtube.com/embed/6w0_GEUeidY?wmode=opaque" style="border:none;" allowfullscreen></iframe><br />
+<br />
+But I have two questions to continue:<br />
+<br />
+1. Wich is the correct point in C56 for the soldering the red whire, the pad 1 or 2? and why is it necessary to solder this cable?<br />
+<br />
+<img src="http://thumbs.subefotos.com/2323361c3b1d6280cc0c6f046c589144o.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://thumbs.subefotos.com/2323361c3b1d6280cc0c6f046c589144o.jpg" /><br />
+<br />
+2. I can&#039;t close the full shell, apparently one condensor is very big and the screen AGS 001 too<br />
+<br />
+<br />
+<img src="http://thumbs.subefotos.com/d2a7d5ed1cc06dd4d8e14c5ed0fff4c8o.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://thumbs.subefotos.com/d2a7d5ed1cc06dd4d8e14c5ed0fff4c8o.jpg" /> <img src="http://thumbs.subefotos.com/95554eb1741a7a2d864d5c67116085ado.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://thumbs.subefotos.com/95554eb1741a7a2d864d5c67116085ado.jpg" /><br />
+<br />
+How you can close the case correctly?<br />
+<br />
+<br />
+Thank you!! <img src="https://gbatemp.net/styles/default/gbatemp/smileys/gbasp2.gif" class="mceSmilie" alt=":sp:" title="gbasp2    :sp:" /><img src="https://gbatemp.net/styles/default/gbatemp/smileys/hrth.gif" class="mceSmilie" alt=":hrth:" title="hrth    :hrth:" /></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>I am having the same problem you had. What did you do to fit your screen better? I&#039;ve removed the foam padding from my screen, grinded down the necessary plastic to fit it in the first place but it still sticks out like your picture. If I end up tightening the screw it will produce pressure points on the screen. I cannot understand why it won&#039;t fit flush.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6507257"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6507257" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6507257/permalink">#90</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6507257" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 6, 2016 at 6:53 AM">Jul 6, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6536027" class="message    " data-author="Nusdogg">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="../../members/nusdogg.322859/index.html" class="avatar Av322859m" data-avatarhtml="true"><img src="../../data/avatars/m/322/322859.jpg?1466385555" width="114" height="114" alt="Nusdogg" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+	<span class="Tooltip prefix prefixPrimary" 
+		style='font-weight: bold; position: absolute; top: 103px; right: 1px;'
+		title="This user is the original poster (the user who started the thread)">OP</span>
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="../../members/nusdogg.322859/index.html" class="username" dir="auto" itemprop="name">Nusdogg</a>
+			<em class="userTitle" itemprop="title">GBAtemp Fan</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Fan' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by Nusdogg">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="../../search/member?user_id=322859" class="concealed" rel="nofollow">369</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>45</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Feb 3, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>St. Paul, MN</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="RealPetChicken">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					RealPetChicken said:
+					<a href="https://gbatemp.net/goto/post?id=6507257#post-6507257" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">I am having the same problem you had. What did you do to fit your screen better? I&#039;ve removed the foam padding from my screen, grinded down the necessary plastic to fit it in the first place but it still sticks out like your picture. If I end up tightening the screw it will produce pressure points on the screen. I cannot understand why it won&#039;t fit flush.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Try bending the cable the other way. So the connector where it hooks up to the screen sits in a different spot  than right now.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6536027"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6536027" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6536027/permalink">#91</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6536027" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 17, 2016 at 10:34 PM">Jul 17, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6540508" class="message    alt" data-author="RealPetChicken">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="avatar Av355807m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="RealPetChicken" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="username" dir="auto" itemprop="name">RealPetChicken</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by RealPetChicken">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=355807" class="concealed" rel="nofollow">21</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Nov 5, 2014</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Nusdogg">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					Nusdogg said:
+					<a href="https://gbatemp.net/goto/post?id=6536027#post-6536027" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Try bending the cable the other way. So the connector where it hooks up to the screen sits in a different spot  than right now.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Is there a way you can take a picture of the way you have it set up? I will try what you recommended anyways.<br />
+<br />
+Edit: i tried moving, and still nothing. I tried at an angle too, and still doesn&#039;t close all the way. Here is some pictures:<br />
+<br />
+<img src="https://i.imgur.com/sYsQ8XA.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.imgur.com/sYsQ8XA.jpg" /> <img src="https://i.imgur.com/ji2Oxx2.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.imgur.com/ji2Oxx2.jpg" /> <img src="https://imgur.com/a/YPBL6" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://imgur.com/a/YPBL6" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+				<svg class="ts2icon l"><use xlink:href="styles/ts2/sprites.svg#pencil"/></use></svg>Last edited
+				
+					by <a href="https://gbatemp.net/members/realpetchicken.355807/" class="username" dir="auto">RealPetChicken</a>,
+				
+				<span class="DateTime" title="Jul 19, 2016 at 11:50 PM">Jul 19, 2016</span>
+				
+			</div>
+		
+		
+		
+		
+		<div id="likes-post-6540508"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6540508" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6540508/permalink">#92</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6540508" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 19, 2016 at 11:15 PM">Jul 19, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6550505" class="message    " data-author="Nusdogg">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="../../members/nusdogg.322859/index.html" class="avatar Av322859m" data-avatarhtml="true"><img src="../../data/avatars/m/322/322859.jpg?1466385555" width="114" height="114" alt="Nusdogg" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+	<span class="Tooltip prefix prefixPrimary" 
+		style='font-weight: bold; position: absolute; top: 103px; right: 1px;'
+		title="This user is the original poster (the user who started the thread)">OP</span>
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="../../members/nusdogg.322859/index.html" class="username" dir="auto" itemprop="name">Nusdogg</a>
+			<em class="userTitle" itemprop="title">GBAtemp Fan</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Fan' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by Nusdogg">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="../../search/member?user_id=322859" class="concealed" rel="nofollow">369</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>45</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Feb 3, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>St. Paul, MN</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="RealPetChicken">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					RealPetChicken said:
+					<a href="https://gbatemp.net/goto/post?id=6540508#post-6540508" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Is there a way you can take a picture of the way you have it set up? I will try what you recommended anyways.<br />
+<br />
+Edit: i tried moving, and still nothing. I tried at an angle too, and still doesn&#039;t close all the way. Here is some pictures:</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>I had mine like this <br />
+<br />
+<img src="http://i299.photobucket.com/albums/mm297/nus_dogg/DSC_0065_zpsyndcatgk.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i299.photobucket.com/albums/mm297/nus_dogg/DSC_0065_zpsyndcatgk.jpg" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6550505"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6550505" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6550505/permalink">#93</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6550505" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 24, 2016 at 2:50 AM">Jul 24, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6559334" class="message    alt" data-author="RealPetChicken">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="avatar Av355807m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="RealPetChicken" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="username" dir="auto" itemprop="name">RealPetChicken</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by RealPetChicken">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=355807" class="concealed" rel="nofollow">21</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Nov 5, 2014</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Nusdogg">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					Nusdogg said:
+					<a href="https://gbatemp.net/goto/post?id=6550505#post-6550505" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">I had mine like this<br />
+<br />
+<img src="http://i299.photobucket.com/albums/mm297/nus_dogg/DSC_0065_zpsyndcatgk.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i299.photobucket.com/albums/mm297/nus_dogg/DSC_0065_zpsyndcatgk.jpg" /></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Same way I have it. Is your gba 38 or 40 pin? Anyway you  can take pics of the inside. I know I am asking too much, thanks.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6559334"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6559334" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6559334/permalink">#94</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6559334" title="Permalink" class="datePermalink item"><span class="DateTime" title="Jul 27, 2016 at 7:02 PM">Jul 27, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6593330" class="message    " data-author="chomel">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/chomel.374018/" class="avatar Av374018m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/374/374018.jpg?1445906462" width="114" height="114" alt="chomel" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/chomel.374018/" class="username" dir="auto" itemprop="name">chomel</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by chomel">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=374018" class="concealed" rel="nofollow">10</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>4</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Oct 20, 2015</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/fr.png" alt="France" title="France" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hey, Real Pet Chicken !!!<br />
+<br />
+I figured out your problem as I had almost the same. The way the cable is taped on the ribbon can make it difficult because it directs the cable on the component you put black foam on. I wish I could show you on a photo, but I don&#039;t know how to insert a photo on my post. If you check your photo, you can see the cable is flattened close to 40 of the ribbon. You need to pull the cable down close to the G1 of the ribbon.<br />
+<br />
+Hope it&#039;s clear.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6593330"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6593330" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6593330/permalink">#95</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6593330" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 10, 2016 at 4:08 PM">Aug 10, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6593345" class="message    alt" data-author="ShadowOne333">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock online">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/shadowone333.321711/" class="avatar Av321711m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/321/321711.jpg?1491428181" width="114" height="114" alt="ShadowOne333" /></a>
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/shadowone333.321711/" class="username" dir="auto" itemprop="name">ShadowOne333</a>
+			<em class="userTitle" itemprop="title">GBAtemp Guru</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Guru' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:14px;height:24px;background-position: -25px 0px;'></span><span class='rank-sprite rank-sprite-main' style='width:14px;height:24px;background-position: -25px 0px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by ShadowOne333">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=321711" class="concealed" rel="nofollow">7,282</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>4,720</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Jan 17, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/mx.png" alt="Mexico" title="Mexico" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Man I would have loved to mod my GBA to have the lit screen.<br />
+I hated the GBA SP&#039;s design so bad, it was in no way comfortable for the hands, while the normal GBA fits just right and feels really nice on the hands.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6593345"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6593345" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6593345/permalink">#96</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6593345" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 10, 2016 at 4:15 PM">Aug 10, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6609978" class="message    " data-author="chomel">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/chomel.374018/" class="avatar Av374018m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/374/374018.jpg?1445906462" width="114" height="114" alt="chomel" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/chomel.374018/" class="username" dir="auto" itemprop="name">chomel</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by chomel">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=374018" class="concealed" rel="nofollow">10</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>4</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Oct 20, 2015</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/fr.png" alt="France" title="France" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					New message for REALPETCHICKEN.<br />
+<br />
+I try to frontlight a second GBA and I had the same problem (that didn&#039;t occur for the first GBA I modded).<br />
+After lots of testings, different motherboards, mixing the one without problem... I figured out there was two problems.<br />
+<br />
+The first one comes from the frequency oscillator. there are 2 kinds of oscillator: one with a metal shell, the other one with kind of black platic shell.<br />
+<br />
+<img src="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-36078400-1471472471.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-36078400-1471472471.jpg" /> <br />
+<img src="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-50871800-1471472493.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-50871800-1471472493.jpg" /> <br />
+<br />
+The black oscillator is thicker than the metal one, so &quot;it pushes more&quot; on the screen.<br />
+<br />
+The other problem comes from the GBA shell itself. Any mother board fits in the first GBA I modded even the ones with the black oscillator. But not on the second GBA shell. I had sand it down  where you have to put the screen.<br />
+<br />
+Another thing could be the thickness of the screen, but I didn&#039;t find anything about it.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6609978"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6609978" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6609978/permalink">#97</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6609978" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 18, 2016 at 12:07 AM">Aug 18, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6614798" class="message    alt" data-author="RealPetChicken">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="avatar Av355807m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="114" height="114" alt="RealPetChicken" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/realpetchicken.355807/" class="username" dir="auto" itemprop="name">RealPetChicken</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by RealPetChicken">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=355807" class="concealed" rel="nofollow">21</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>0</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Nov 5, 2014</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="chomel">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					chomel said:
+					<a href="https://gbatemp.net/goto/post?id=6609978#post-6609978" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">New message for REALPETCHICKEN.<br />
+<br />
+I try to frontlight a second GBA and I had the same problem (that didn&#039;t occur for the first GBA I modded).<br />
+After lots of testings, different motherboards, mixing the one without problem... I figured out there was two problems.<br />
+<br />
+The first one comes from the frequency oscillator. there are 2 kinds of oscillator: one with a metal shell, the other one with kind of black platic shell.<br />
+<br />
+<img src="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-36078400-1471472471.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-36078400-1471472471.jpg" /><br />
+<img src="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-50871800-1471472493.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://www.ultimate-consoles.fr/uploads/monthly_08_2016/post-6078-0-50871800-1471472493.jpg" /><br />
+<br />
+The black oscillator is thicker than the metal one, so &quot;it pushes more&quot; on the screen.<br />
+<br />
+The other problem comes from the GBA shell itself. Any mother board fits in the first GBA I modded even the ones with the black oscillator. But not on the second GBA shell. I had sand it down  where you have to put the screen.<br />
+<br />
+Another thing could be the thickness of the screen, but I didn&#039;t find anything about it.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Thanks, mine is the metal oscillator, and it does not fit with the screen I am using, mine is a ags001 original screen from a GBA sp.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6614798"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6614798" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6614798/permalink">#98</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6614798" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 20, 2016 at 4:41 AM">Aug 20, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6615099" class="message    " data-author="chomel">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="https://gbatemp.net/members/chomel.374018/" class="avatar Av374018m" data-avatarhtml="true"><img src="https://gbatemp.net/data/avatars/m/374/374018.jpg?1445906462" width="114" height="114" alt="chomel" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="https://gbatemp.net/members/chomel.374018/" class="username" dir="auto" itemprop="name">chomel</a>
+			<em class="userTitle" itemprop="title">Member</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='Member' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb2 wrapped" itemprop="title"><span class="before"></span><strong>Newcomer</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by chomel">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="https://gbatemp.net/search/member?user_id=374018" class="concealed" rel="nofollow">10</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>4</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Oct 20, 2015</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="https://gbatemp.net/styles/ts2/flags/fr.png" alt="France" title="France" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					So I guess, the only option is to sand down the shell. <br />
+<br />
+I did it with sand paper. It took me forever, but it fits well now. I can close the gameboy, the black spot on the screen is gone (where the oscillator use to push)... The only problem is that I screwed the light of the screen by putting and removing the screen on and on, so I have to get another one <img src="../../styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie55" alt=":D" title="big grin    :D" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6615099">
+	
+	<div class="likesSummary secondaryContent">
+		<svg class="ts2icon like_icon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg><span class="LikeText"><a href="../../members/nusdogg.322859/index.html" class="username" dir="auto">Nusdogg</a> likes this.</span>
+	</div>
+</div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6615099" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6615099/permalink">#99</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6615099" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 20, 2016 at 9:30 AM">Aug 20, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+			
+				
+				
+				
+
+
+<li id="post-6630879" class="message    alt" data-author="Nusdogg">
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="../../members/nusdogg.322859/index.html" class="avatar Av322859m" data-avatarhtml="true"><img src="../../data/avatars/m/322/322859.jpg?1466385555" width="114" height="114" alt="Nusdogg" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+
+<!-- costello modification to display OP -->
+
+	<span class="Tooltip prefix prefixPrimary" 
+		style='font-weight: bold; position: absolute; top: 103px; right: 1px;'
+		title="This user is the original poster (the user who started the thread)">OP</span>
+
+
+	
+
+			
+		<h3 class="userText">
+			<a href="../../members/nusdogg.322859/index.html" class="username" dir="auto" itemprop="name">Nusdogg</a>
+			<em class="userTitle" itemprop="title">GBAtemp Fan</em>
+			<!-- slot: message_user_info_text -->
+		</h3>
+
+		<span title='GBAtemp Fan' class='user-rank-pips'><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span><span class='rank-sprite rank-sprite-main' style='width:12px;height:24px;'></span></span>
+		<em class="userBanner gb21 wrapped" itemprop="title"><span class="before"></span><strong>Member</strong><span class="after"></span></em>
+
+		
+
+	
+	
+	<div class="uiOverlay">
+	
+		<div class="UserInfo">
+			
+			
+				<div class="mlBlock">
+					
+						<dl class="MsgsLikes pairsInline" title="Total messages posted by Nusdogg">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#comment-o"/></use></svg></dt>
+							<dd><a href="../../search/member?user_id=322859" class="concealed" rel="nofollow">369</a></dd>
+						</dl>
+					
+					
+					
+						<dl class="MsgsLikes pairsInline" title="Likes Received">
+							<dt><svg class="ts2icon MsgsLikesIcon"><use xlink:href="styles/ts2/sprites.svg#thumbsup"/></use></svg></dt>
+							<dd>45</dd>
+						</dl>
+					
+				</div>
+		</div>
+		
+		<div class="extraUserInfo">
+				
+					<dl class="pairsInline">
+						<dt><svg class="ts2icon eui"><use xlink:href="styles/ts2/sprites.svg#calendar-o"/></use></svg></dt>
+						<dd>Feb 3, 2013</dd>
+					</dl>
+				
+				
+				
+			
+				
+				
+				
+			
+				
+				
+				
+				
+				<dl class="pairsInline userField_patreonBannerGloss">
+					
+						
+							
+								<dt><img src="../../styles/ts2/flags/us.png" alt="United States" title="United States" /></dt>
+							
+							
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+					
+						
+						<dd>St. Paul, MN</dd>
+					
+					
+				</dl>
+				
+				
+						
+			
+			
+			
+			</div>
+		</div>
+	
+		
+
+
+	<span class="arrow"></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="chomel">
+	<aside>
+		
+			<div class="attribution type">
+				
+	
+		
+					chomel said:
+					<a href="https://gbatemp.net/goto/post?id=6615099#post-6615099" class="AttributionLink">&uarr;</a>
+				
+	
+
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">So I guess, the only option is to sand down the shell.<br />
+<br />
+I did it with sand paper. It took me forever, but it fits well now. I can close the gameboy, the black spot on the screen is gone (where the oscillator use to push)... The only problem is that I screwed the light of the screen by putting and removing the screen on and on, so I have to get another one <img src="../../styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie55" alt=":D" title="big grin    :D" /></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Glad you got it figured out. You can use a dremel to get it done faster as well. <img src="../../styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie55" alt=":D" title="big grin    :D" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		<div id="likes-post-6630879"></div>
+
+		
+
+		<div class="messageMeta ToggleTriggerAnchor">
+			<div class="publicControls">
+				
+
+				
+
+				
+				
+			</div>
+			
+			<div class="privateControls Popup">
+				
+					<a href="page-5#post-6630879" title="Permalink" class="item postNumber hashPermalink OverlayTrigger" data-href="posts/6630879/permalink">#100</a>
+						<span class="item dimmed">
+							
+							<a href="page-5#post-6630879" title="Permalink" class="datePermalink item"><span class="DateTime" title="Aug 26, 2016 at 1:32 PM">Aug 26, 2016</span></a>
+						</span>
+
+				
+			</div>
+		</div>
+	
+		
+	</div>
+
+	
+	
+	
+	
+</li>
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				<div class="linkGroup">
+					
+						<label for="LoginControl"><a href="../../login/index.html" class="concealed element">(You must log in or sign up to reply here.)</a></label>
+					
+				</div>
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+
+			
+
+
+<div class="PageNav"
+	data-page="5"
+	data-range="2"
+	data-start="2"
+	data-end="5"
+	data-last="6"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/page-{{sentinel}}">
+	
+	<span class="pageNavDesktop">
+	<span class="pageNavHeader">Page 5 of 6</span>
+	
+	<nav>
+		
+			<a href="page-4" class="text bgfade1">&lt; Prev</a>
+			
+		
+		
+		<a href="../../goto/post?id=5483271" class=" bgfade1" rel="start">1</a>
+		
+		
+		
+		
+			<a href="page-2" class=" bgfade1">2</a>
+		
+			<a href="page-3" class=" bgfade1">3</a>
+		
+			<a href="page-4" class=" bgfade1">4</a>
+		
+			<a href="page-5" class="currentPage  bgfade1">5</a>
+		
+		
+		
+		
+		<a href="page-6" class=" bgfade1">6</a>
+		
+		
+			<a href="page-6" class="text bgfade1">Next &gt;</a>
+			
+		
+	</nav>
+	
+	
+	
+	</span>
+
+	<span class="pageNavMob">	
+	<nav>
+		<!--  -->
+		<div class="pageNavMobButton small">
+		
+			<a class="valid" href="../../goto/post?id=5483271"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#angle-double-left"/></use></svg></a>
+		
+		</div>
+		
+		<div class="pageNavMobButton">
+		
+			<a class="valid" href="page-4" class="text">Prev<br /><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#chevron-left"/></use></svg></a>
+			
+		
+		</div>
+		
+		<div class="pageNavMobButton Popup">
+			<a class="valid" rel="Menu">Page <strong>5</strong><br /><span class="pagetotal">of 6</span></a>
+			<div class="Menu MobilePageJump"><input type="text" class="textCtrl" min="1" max="6" /><input type="button" class="button primary" value="Go" /></div>			
+		</div>
+		
+		<div class="pageNavMobButton">
+		
+			<a class="valid" href="page-6">Next<br /><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#chevron-right"/></use></svg></a>
+			
+		
+		</div>
+		
+		<div class="pageNavMobButton small">
+		
+			<a class="valid" href="page-6" class="text"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#angle-double-right"/></use></svg></a>
+		
+		</div>	
+	</nav>		
+	
+</div>
+
+	</div>
+
+<div class="" style=""><!-- Freestar bottom forum ask gbatemp_728x90_970x90_970x250_320x50_300x250_300x100_BTF -->
+<div align="center" id="gbatemp_728x90_970x90_970x250_320x50_300x250_300x100_BTF">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('gbatemp_728x90_970x90_970x250_320x50_300x250_300x100_BTF'); });
+</script>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+	<div class="sharePage">
+		<div class="sharePage_pad">
+			
+			
+				
+				
+					<div class="tweet shareControl">
+						<a href="../../../twitter.com/share" class="twitter-share-button"
+							data-count="horizontal"
+							data-lang="en-US"
+							data-url="https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/"
+							data-text="AGS-001 Screen/Light Assembly into OG GBA MOD"
+							data-via="GBAtemp"
+							>Tweet</a>
+					</div>
+				
+				
+					<div class="plusone shareControl">
+						<div class="g-plusone" data-size="medium" data-count="true" data-href="https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/"></div>
+					</div>
+				
+				
+					<div class="facebookLike shareControl">
+						
+						<div class="fb-like" data-href="https://gbatemp.net/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/" data-width="400" data-layout="standard" data-action="like" data-show-faces="true" data-colorscheme="light"></div>
+					</div>
+				
+				
+			
+		</div>
+	</div>
+
+
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="https://gbatemp.net/login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+        
+				
+					
+					<li><a href="../../register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
+				
+				
+				
+				
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="../../lost-password/index.html" class="OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/threads/ags-001-screen-light-assembly-into-og-gba-mod.368171/page-5" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					
+			
+						
+			<div class="breadBoxBottom">
+
+<div id="mob_toolbar">
+	
+	<div class="topscroll"><a title="Scroll to bottom" href="page-5#footer"><svg class="ts2icon topalign"><use xlink:href="styles/ts2/sprites.svg#caret-down"/></use></svg></a></div>
+</div>
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="../../misc/quick-navigation-menu?selected=node-4" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#th-list"/></use></svg></a>
+		
+		<div class="boardTitle"><strong>GBAtemp.net - The Independent Video Game Community</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="../../index.html" class="crumb bgfade1"><span>Home</span></a>
+				</span>
+						
+			
+				<span class="crust selectedTabCrumb">
+					<a href="../../forums/index.html" class="crumb bgfade1"><span>Forums</span></a>
+				</span>
+			
+			
+				
+					<span class="crust">
+						<a href="../../categories/other-systems-discussions.42/index.html" class="crumb bgfade1"><span>Other Systems Discussions</span></a>
+					</span>
+				
+					<span class="crust">
+						<a href="../../forums/other-handhelds.202/index.html" class="crumb bgfade1"><span>Other Handhelds</span></a>
+					</span>
+				
+					<span class="crust">
+						<a href="../../categories/nintendo-gba-discussions.32/index.html" class="crumb bgfade1"><span>Nintendo GBA Discussions</span></a>
+					</span>
+				
+					<span class="crust">
+						<a href="../../forums/gba-console-and-game-discussions-help-and-tips.4/index.html" class="crumb bgfade1"><span>GBA - Console and Game Discussions, Help and Tips</span></a>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth" style="position:relative;">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="../../index.html" title="GBAtemp.net - The Independent Video Game Community">
+				<span></span>
+				<img id="tempy" src="../../styles/ts2/tempy.svg" onerror="this.src='styles/ts2/tempy.png'; this.onerror=null;" alt="GBAtemp.net - The Independent Video Game Community"/><img id="text" src="../../styles/ts2/logo_text.svg" onerror="this.src='styles/ts2/logo_text.png'; this.onerror=null;" alt="GBAtemp.net - The Independent Video Game Community"/>
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+		
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+		<!-- home -->
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+			
+				<li class="navTab home PopupClosed">
+					<a href="../../index.html" class="navLink">Home</a>
+					
+				</li>
+			
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab bgfade1 forums PopupClosed">
+			
+				<a href="../../forums/index.html" title="Browse our forums and join the discussion" class="navLink NoPopupGadget" rel="Menu">Forums</a>
+				
+				<div class="Menu JsOnly tabMenu forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="../../search/index.html?type=post">Search Forums</a></li>
+						
+						
+							<li><a href="../../new/index.html" rel="nofollow">New Content (BETA)</a></li>
+						
+						
+							<li><a href="../../find-new/posts" rel="nofollow">Recent Posts</a></li>
+						
+						<li style="float:right;"><a href="../../help/terms">Forum Rules</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+				<li class="navTab bgfade1 reviews PopupClosed">
+			
+				<a href="../../reviews/index.html" title="Reviews" class="navLink NoPopupGadget" rel="Menu">Reviews</a>
+				
+				<div class="Menu JsOnly tabMenu reviewsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Reviews</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="../../reviews/index.html">Overview</a></li>
+	
+	
+	
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab bgfade1 ask PopupClosed">
+			
+				<a href="../../ask/index.html" title="Ask!" class="navLink NoPopupGadget" rel="Menu">Ask!</a>
+				
+				<div class="Menu JsOnly tabMenu askTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Ask!</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="../../ask/index.html">Overview</a></li>
+	
+	<li><a href="../../ask/unanswered-questions">Unanswered Questions</a></li>
+	
+</ul>
+				</div>
+			</li>
+			
+		
+			
+				<li class="navTab bgfade1 xfa-blogs PopupClosed">
+			
+				<a href="../../blogs/index.html" title="Blogs" class="navLink NoPopupGadget" rel="Menu">Blogs</a>
+				
+				<div class="Menu JsOnly tabMenu xfa-blogsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Blogs</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="../../blogs/index.html">Blogs Home Page</a></li>
+	
+</ul>
+				</div>
+			</li>
+			
+		
+		
+
+		<!-- twitch -->
+		<li class="navTab bgfade1 PopupClosed"><a href="../../dynamic/gbatemptv.97/index.html" class="navLink" title="Watch GBAtempTV on Twitch">Twitch</a><a href="../../index.html#" class="twitch-widget" id="twitch-widget" target="_blank"></a></li>
+		
+		<!-- GBAtemp -->
+		<li class="navTab bgfade1 PopupClosed"><a href="../../new/index.html" class="navLink" title="What's new on GBAtemp?" rel="nofollow">New Content</a></li>
+		<li class="navTab bgfade1 PopupClosed"><a href="../../dynamic/gbatemp-tutorials-and-guides.82/index.html" class="navLink" title="All GBAtemp tutorials and guides">Tutorials</a></li>
+
+		
+
+		
+
+		<!-- extra tabs: end -->
+		
+
+		<li class="navTab bgfade1 PopupClosed"><a href="../../dynamic/gbatemp-chatroom.93/index.html" class="navLink" title="Join other tempers on our 24/7 chatrooms">Chat</a></li>		
+		<li class="navTab bgfade1 PopupClosed"><a href="../../../wiki.gbatemp.net/wiki/Main_Page" class="navLink" title="Visit WikiTemp, the GBAtemp Wiki">Wiki</a></li>
+		<li class="navTab bgfade1 PopupClosed"><a href="../../../filetrip.net/index.html" class="navLink" title="Visit Filetrip.net, our download center">FileTrip</a></li>
+		
+		
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display: none;">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList secondaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+	</ul>
+	
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+<script>
+(function() {
+
+  var user_name, api_key, twitch_widget;
+  
+  user_name = "gbatemptv";
+  api_key = "c7fxl6i9icybv0qt2rvpavlxssirqc";
+  twitch_widget = $("#twitch-widget");
+
+  twitch_widget.attr("href","https://twitch.tv/" + user_name);
+
+  $.getJSON('https://api.twitch.tv/kraken/streams/' + user_name + '?client_id=' + api_key + '&callback=?', function(data) {	
+	  if (data.stream) {
+		  twitch_widget.html("<span class='twitch_online' title='Playing " + data.stream.game + " for " + data.stream.viewers + " viewers'>Live</span>");
+	  }
+  });
+
+})();
+</script>
+	</div>
+</div>
+	
+
+<div id="mobile_nav">
+
+	<div class="logo">
+		<a href="../../index.html" title="GBAtemp.net - The Independent Video Game Community"><img id="tempymob" src="../../styles/ts2/tempy.svg" onerror="this.src='styles/ts2/tempy.png'; this.onerror=null;" alt="GBAtemp.net - The Independent Video Game Community"/></a>
+	</div>
+	
+	<div id="hamburger_helper" style="width: 92px !important;">
+		
+			<li class="mob_login">
+				<a href="../../login/index.html">
+					<svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#user"/></use></svg>
+				</a>
+			</li>
+		
+		
+		<li class="Popup PopupControl PopupClosed">	
+			<a class="hamburger NoPopupGadget" rel="Menu"><svg class="ts2icon null"><use xlink:href="styles/ts2/sprites.svg#bars"/></use></svg></a>			
+			<div class="Menu JsOnly" id="HamburgerMenu">
+				<ul id="HamburgerPanes">
+					<ul class="primaryContent menuHeader blockLinksList Popup PopupControl PopupClosed">
+						<h3>Site index</h3>
+					</ul>						
+					<div class="menuColumns secondaryContent">
+						<ul class="col1 blockLinksList">					
+							<li><a href="../../index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#home"/></use></svg>
+								GBAtemp Portal
+							</a></li>
+							<li><a href="../../reviews/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#check"/></use></svg>
+								Reviews
+							</a></li>
+							<li><a href="../../blogs/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#book"/></use></svg>
+								Blogs
+							</a></li>
+							<li><a href="../../dynamic/gbatemp-tutorials-and-guides.82/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#map-signs"/></use></svg>
+								Tutorials
+							</a></li>
+							<li><a href="../../dynamic/gbatemp-chatroom.93/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#comments"/></use></svg>
+								Chatroom
+							</a></li>
+						</ul>
+						<ul class="col2 blockLinksList">
+							<li><a href="../../forums/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#th-list"/></use></svg>
+								Forum Index
+							</a></li>
+							<li><a href="../../ask/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#question"/></use></svg>
+								Ask GBAtemp!
+							</a></li>
+							<li><a href="../../new/index.html">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#star"/></use></svg>
+								New Content
+							</a></li>
+							
+							<li><a href="../../../wiki.gbatemp.net/wiki/Main_Page" target="_blank">
+								<svg class="ts2icon float-l"><use xlink:href="styles/ts2/sprites.svg#external-link"/></use></svg>
+								WikiTemp
+							</a></li>
+						</ul>
+					</div>
+					
+					<ul class="primaryContent menuHeader blockLinksList Popup PopupControl PopupClosed">
+						<h3>Discussion Areas</h3>
+					</ul>
+
+					<div class="menuColumns secondaryContent">
+						<ul class="col1 blockLinksList">
+							<li><a href="../../categories/gbatemp-news-featured-content.35/index.html"><span class="forum_icon" style="background-position:-224px -0px;"></span>
+								GBAtemp News & Featured Content
+							</a></li>
+							<li><a href="../../categories/gbatemp-network-discussions.31/index.html"><span class="forum_icon" style="background-position:0px 0px;"></span>
+								GBAtemp Network Discussions
+							</a></li>
+							<li><a href="../../forums/general-off-topic-chat.7/index.html"><span class="forum_icon" style="background-position:-128px 0px;"></span>
+								General Off-Topic Chat
+							</a></li>
+							<li><a href="../../categories/other-discussions.33/index.html"><span class="forum_icon" style="background-position:-144px 0px;"></span>
+								Other Discussions
+							</a></li>
+						</ul>
+						<ul class="col2 blockLinksList">
+							<li><a href="../../categories/nintendo-3ds-discussions.198/index.html"><span class="forum_icon" style="background-position:-208px -16px;"></span>
+								Nintendo 3DS
+							</a></li>
+							<li><a href="../../categories/nintendo-wii-u-discussions.244/index.html"><span class="forum_icon" style="background-position:-256px -16px;"></span>
+								Nintendo Wii U
+							</a></li>
+							<li><a href="../../categories/nintendo-switch-discussions.282/index.html"><span class="forum_icon" style="background-position:-128px -32px;"></span>
+								Nintendo Switch
+							</a></li>
+							<li><a href="../../categories/pc-console-handheld-discussions.213/index.html"><span class="forum_icon" style="background-position:-272px -0px;"></span>
+								All systems...
+							</a></li>
+							
+						</ul>
+					</div>
+				</ul>		
+				
+				<div class="sectionFooter">
+					<a href="../../index.html#rc">Recent Content</a><a href="../../misc/quick-navigation-menu?selected=node-4" class="floatLink">Show entire site index</a>
+				</div>
+			</div>
+		</li>
+	</div>
+
+	<div class="title">
+		<input type="checkbox" id="btnControl"/><label class="showtitle" for="btnControl"><span title="AGS-001 Screen/Light Assembly into OG GBA MOD | Page 5">AGS-001 Screen/Light Assembly into OG GBA MOD | Page 5</span><br /><span class="subtitle">GBA - Console and Game Discussions, Help and Tips</span></label>
+	</div>
+</div>
+	
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+
+			
+			<ul class="footerLinks">
+					<li><a href="../../index.html" class="homeLink">Home</a></li>
+					<li><a href="../../help/terms">Terms and Rules</a></li>
+					<li><a href="../../members/index.html" data-overlayOptions="{&quot;fixed&quot;:false}"'}>Members</a></li>
+					<li><a href="../../help/index.html">Help</a></li>
+					<li><a href="../../staff/index.html" data-overlayOptions="{&quot;fixed&quot;:false}"'}>Contact Us</a></li>
+			
+			</ul>
+			
+			<ul class="socialMedia">
+				<li class="follow_us">Find us on:</li>
+				<li><a href="../../../www.facebook.com/GBAtemp" id="facebook_icon" class="social_icon" rel="alternate" target="_blank" title="Like us on Facebook"><svg class="ts2icon social"><use xlink:href="styles/ts2/sprites.svg#facebook"/></use></svg></a></li>
+				<li><a href="../../../twitter.com/GBAtemp" id="twitter_icon" class="social_icon" rel="alternate" target="_blank" title="Tweet us on Twitter"><svg class="ts2icon social"><use xlink:href="styles/ts2/sprites.svg#twitter"/></use></svg></a></li>
+				<li><a href="../../../patreon.com/GBAtemp" id="patreon_icon" class="social_icon" rel="alternate" target="_blank" title="Support us on Patreon"><svg class="ts2icon social"><use xlink:href="styles/ts2/sprites.svg#patreon"/></use></svg></a></li>
+				<li><a href="../../forums/-/index.rss" rel="alternate" class="social_icon" target="_blank" title="RSS feed for GBAtemp.net - The Independent Video Game Community"><svg class="ts2icon social"><use xlink:href="styles/ts2/sprites.svg#feed"/></use></svg></a></li>
+			</ul>
+			
+		</div>
+		
+		<div class="pageContent">
+
+			
+			<ul class="styleChange">
+				
+					<li><a href="https://gbatemp.net/misc/style?redirect=%2Fthreads%2Fags-001-screen-light-assembly-into-og-gba-mod.368171%2Fpage-5" class="OverlayTrigger Tooltip" title="Style Chooser" rel="nofollow"><svg class="ts2icon styleChange"><use xlink:href="styles/ts2/sprites.svg#desktop"/></use></svg><span>tempStyle 2</span></a></li>
+				
+				
+			</ul>
+			
+
+			<ul class="backToTop">
+				<li><a name="footer" href="page-5#" title="Lazy, eh?"><svg class="ts2icon chevron-up"><use xlink:href="styles/ts2/sprites.svg#caret-up"/></use></svg> Back to top</a></li>
+			</ul>
+		
+		</div>
+
+		<div class="footerLegal">
+			<div id="copyright"><a href="../../../xenforo.com/index.html" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2016 XenForo Ltd.</span></a> </div>
+				
+				
+	
+			<ul id="legal">
+			
+			
+				<li><a href="../../help/about">&copy;GBAtemp 2002-2017</a></li>
+				
+			
+			</ul>
+	
+			<span class="helper"></span>	
+		</div>
+	</div>
+</div>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-92JFtSYw8j06V"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="../../../pixel.quantserve.com/pixel/p-92JFtSYw8j06V.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1511292728,
+		today: 1511222400,
+		todayDow: 2
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "15%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(7, 18, 31)",
+			opacity: "0.5",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"xfa_blogs_nav":true,"thread_view":true,"share_page":true,"message":true,"bb_code":true,"message_user_info":true,"likes_summary":true,"attached_files":true,"login_bar":true,"facebook":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "359447a5",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "305495069464531";
+XenForo.Facebook.forceInit = true;
+
+
+</script>
+
+<script>$('#togglelinkGroup').click(function(e){e.preventDefault();$('.topCtrl, .linkGroup, .InlineModCheck, .secondRow .controls, #main-title .editThread, .PanelScroller.Notices').slideToggle("fast")})</script>
+
+
+
+
+
+<div class="" style=""><!-- gbatemp_Mobile_Interstitial -->
+<div align="center" id="gbatemp_Mobile_Interstitial">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('gbatemp_Mobile_Interstitial'); });
+</script>
+</div></div>
+
+</body>
+</html>
