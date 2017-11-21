@@ -4,7 +4,6 @@
 <ul>
             <li><a href="./ags-001-screen-light-assembly-into-og-gba-mod.368171/">View<strong>Front Light</strong></a></li>
             <li><a href="./schematics/">View<strong>Schematics</strong></a></li>
-            <li><a href="">View<strong>Emulators</strong></a></li>
             <li><a href="techinfo.html">View<strong>TechInfo</strong></a></li>
           </ul>
 </threebutton>
