@@ -1,4 +1,3 @@
-##GBATemp Clone
+## Cloned From GBATemp
 
-
-Backed up because photobucket sucks.
+Because Photobucket is the worst.
