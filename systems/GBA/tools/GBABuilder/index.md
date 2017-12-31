@@ -1,6 +1,459 @@
-<select>
-  <option value="black">Black Shell</option>
-  <option value="red">Red Shell</option>
-  <option value="silver">Silver Shell</option>
-  <option value="indigo">Indigo Shell</option>
-</select>
+<!DOCTYPE html>
+<html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths uk-notouch" lang="" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>GBA Shell Configurator</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="http://franciscopedroso.com/gba-color-config/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="http://franciscopedroso.com/gba-color-config/favicon.png">
+    <link rel="stylesheet" href="./GBA Shell Configurator_files/styles.min.css">
+
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="./GBA Shell Configurator_files/modernizr-2.8.3.min.js"></script>
+  </head>
+  <body class="shell-purple d-pad-grey up-left-grey up-right-grey power-led-original a-btn-grey b-btn-grey start-btn-grey screen-frame-black left-protection-grey right-protection-grey">
+
+    <div id="showcase">
+      <div class="background"></div>
+      <div class="gba-container">
+        <img class="gba-size" src="./GBA Shell Configurator_files/gba-size.gif" width="100%" alt="">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1500pt" height="828pt" viewBox="0 0 1500 828" version="1.1" class="svg replaced-svg">
+<g id="shell-container">
+<path class="shell" fill="#7054C8" opacity="1.00" d=" M 412.06 6.81 C 422.01 6.40 431.94 5.28 441.91 5.70 C 633.62 5.73 825.33 5.71 1017.04 5.72 C 1048.36 5.93 1079.90 4.36 1110.93 9.57 C 1121.52 11.41 1132.16 13.86 1141.87 18.60 C 1158.57 27.11 1175.95 34.22 1193.10 41.77 C 1212.45 50.23 1231.94 58.39 1251.40 66.61 C 1261.83 70.83 1272.10 75.49 1282.71 79.25 C 1304.72 86.09 1327.36 90.77 1350.12 94.31 C 1359.70 95.86 1369.39 96.57 1379.09 97.01 C 1389.68 99.26 1400.83 101.59 1409.58 108.40 C 1419.47 115.79 1425.58 127.11 1429.24 138.69 C 1431.71 146.23 1433.06 154.07 1434.24 161.90 C 1437.10 183.55 1438.96 205.33 1441.14 227.06 C 1446.16 281.03 1450.98 335.02 1455.57 389.03 C 1457.98 416.02 1459.80 443.07 1462.85 469.99 C 1466.99 515.26 1468.64 561.01 1463.15 606.23 C 1460.31 627.38 1455.98 648.79 1445.98 667.83 C 1440.75 677.86 1432.99 686.54 1423.25 692.34 C 1417.18 695.44 1410.32 696.47 1403.88 698.54 C 1341.48 716.16 1279.17 734.07 1216.92 752.23 C 1200.32 760.30 1183.05 767.03 1165.44 772.61 C 1121.12 786.79 1075.39 796.06 1029.46 803.23 C 953.18 814.80 876.05 819.99 798.95 821.57 C 790.29 821.80 781.62 821.53 772.98 822.27 C 754.33 822.25 735.65 822.75 717.02 821.78 C 649.25 821.02 581.47 817.25 514.15 809.22 C 467.90 803.68 421.84 795.96 376.61 784.72 C 348.14 777.42 319.79 769.07 292.91 757.05 C 288.76 755.30 284.94 752.77 280.56 751.58 C 216.33 732.99 152.10 714.41 87.73 696.31 C 84.03 695.28 80.29 694.29 76.79 692.68 C 63.50 685.58 54.91 672.33 49.29 658.75 C 40.84 638.22 37.39 616.06 35.20 594.10 C 31.92 557.95 32.82 521.53 35.51 485.37 C 36.67 468.17 39.17 451.10 40.35 433.91 C 47.80 346.92 54.95 259.89 64.05 173.05 C 64.41 169.32 64.89 165.59 65.61 161.92 C 68.33 145.02 72.31 127.19 84.14 114.12 C 90.23 107.35 98.43 102.64 107.22 100.32 C 113.09 98.85 118.92 96.75 125.04 96.71 C 134.76 96.52 144.40 95.16 153.98 93.68 C 174.02 90.40 193.93 86.22 213.41 80.45 C 221.37 78.18 228.90 74.68 236.57 71.61 C 274.96 55.58 313.29 39.40 351.16 22.18 C 353.50 21.15 355.74 19.91 357.92 18.58 C 374.74 10.49 393.69 8.45 412.06 6.81 M 744.51 92.72 C 704.54 94.85 664.56 96.82 624.59 98.95 C 570.46 102.06 516.27 104.45 462.26 109.31 C 447.24 110.42 431.26 110.90 417.99 118.90 C 406.43 125.71 399.42 137.94 395.23 150.32 C 387.85 172.22 387.38 195.56 385.54 218.38 C 377.31 348.19 371.41 478.12 365.26 608.03 C 365.26 627.04 371.30 646.11 382.60 661.44 C 390.70 672.63 401.50 681.66 413.40 688.58 C 427.55 696.63 443.14 701.90 459.04 705.22 C 486.32 711.00 513.57 716.91 540.99 721.98 C 578.19 728.87 615.74 734.01 653.49 736.72 C 680.61 738.89 707.81 739.51 735.00 740.14 C 797.26 740.66 859.70 739.04 921.46 730.53 C 967.05 724.42 1012.05 714.70 1057.01 705.12 C 1080.44 700.14 1103.71 690.94 1121.47 674.42 C 1142.02 655.54 1152.86 626.74 1149.80 598.99 C 1146.64 527.65 1143.12 456.33 1139.51 385.01 C 1136.64 332.03 1133.96 279.04 1130.48 226.10 C 1128.60 201.79 1128.36 177.02 1121.35 153.47 C 1117.28 140.06 1110.21 126.64 1097.92 119.10 C 1083.89 110.57 1066.92 110.35 1051.04 109.14 C 1014.09 105.69 977.02 103.81 939.98 101.65 C 890.65 98.86 841.30 96.37 791.96 93.81 C 776.15 93.22 760.33 91.50 744.51 92.72 M 1222.40 147.11 C 1221.91 149.27 1223.52 150.96 1224.61 152.62 C 1226.51 152.61 1228.41 152.60 1230.34 152.60 C 1231.80 150.70 1233.46 148.29 1232.18 145.82 C 1231.48 143.48 1228.81 143.20 1226.93 142.31 C 1225.00 143.38 1222.52 144.57 1222.40 147.11 M 1306.48 193.59 C 1300.59 194.70 1295.08 197.60 1290.76 201.73 C 1279.45 212.05 1277.77 230.84 1287.04 243.02 C 1295.61 255.29 1313.37 259.63 1326.62 252.64 C 1339.86 246.29 1347.06 230.03 1342.82 215.95 C 1338.82 200.60 1322.01 190.17 1306.48 193.59 M 1167.43 242.60 C 1161.08 243.81 1155.19 247.09 1150.74 251.76 C 1139.93 262.56 1139.10 281.38 1148.87 293.11 C 1157.99 305.05 1176.04 308.58 1188.97 300.92 C 1201.42 294.17 1207.88 278.48 1203.80 264.91 C 1199.79 249.56 1182.96 239.15 1167.43 242.60 M 186.03 257.23 C 186.40 276.98 185.95 296.74 186.31 316.49 C 166.65 316.13 146.98 316.36 127.32 316.32 C 127.53 337.40 127.35 358.49 127.41 379.57 C 147.01 379.57 166.62 379.54 186.22 379.20 C 186.07 398.90 186.41 418.62 186.01 438.33 C 207.20 437.90 228.40 438.05 249.59 438.25 C 249.17 418.60 249.59 398.94 249.35 379.28 C 252.89 379.18 256.44 379.15 260.00 379.22 C 276.17 379.83 292.37 379.38 308.56 379.57 C 308.57 358.49 308.43 337.40 308.62 316.32 C 288.82 316.28 269.01 316.30 249.21 316.37 C 249.67 296.64 249.36 276.90 249.54 257.16 C 239.34 257.20 229.14 257.25 218.94 257.49 C 207.97 257.33 197.00 257.10 186.03 257.23 M 1355.46 275.70 C 1341.52 277.92 1328.85 286.51 1321.47 298.51 C 1311.43 314.39 1311.70 336.07 1322.33 351.59 C 1332.55 367.48 1352.57 376.42 1371.21 373.16 C 1385.71 370.89 1398.94 361.80 1406.20 349.03 C 1415.69 333.16 1414.92 311.88 1404.29 296.75 C 1393.96 281.03 1373.99 272.38 1355.46 275.70 M 1216.51 324.70 C 1204.46 326.63 1193.26 333.26 1185.75 342.87 C 1176.65 354.22 1173.03 369.77 1176.27 383.97 C 1180.14 402.61 1195.78 418.05 1214.46 421.74 C 1233.72 426.08 1254.96 417.14 1265.61 400.58 C 1276.50 384.70 1276.56 362.33 1265.73 346.42 C 1255.52 330.32 1235.30 321.34 1216.51 324.70 M 1310.64 493.42 C 1274.41 501.64 1238.18 509.86 1201.96 518.12 C 1193.15 520.38 1184.01 522.73 1176.62 528.29 C 1177.74 531.33 1181.34 531.10 1184.02 531.23 C 1196.29 530.94 1208.15 527.51 1220.07 524.96 C 1253.67 517.24 1287.32 509.74 1320.91 501.97 C 1329.05 499.63 1337.76 497.59 1344.32 491.89 C 1342.87 490.49 1341.03 489.53 1338.99 489.60 C 1329.40 489.18 1319.93 491.29 1310.64 493.42 M 202.45 499.67 C 195.08 500.78 187.95 504.62 183.79 510.93 C 179.41 517.29 178.84 525.99 182.23 532.92 C 186.09 541.27 194.18 547.15 203.03 549.23 C 237.92 557.64 272.87 565.81 307.77 574.19 C 313.24 575.60 319.06 575.92 324.54 574.38 C 333.09 572.25 340.66 565.70 342.91 557.04 C 344.88 550.28 342.78 542.92 338.71 537.36 C 334.33 531.01 327.18 527.10 319.80 525.33 C 285.17 517.05 250.50 508.90 215.88 500.58 C 211.51 499.44 206.93 499.01 202.45 499.67 M 1303.74 527.65 C 1268.86 535.59 1233.95 543.40 1199.10 551.48 C 1191.19 554.05 1181.97 555.48 1176.27 562.09 C 1178.38 563.08 1180.63 563.87 1183.02 563.76 C 1195.29 563.91 1207.15 560.36 1219.05 557.83 C 1253.38 549.89 1287.80 542.36 1322.11 534.31 C 1329.65 532.00 1338.01 530.21 1343.90 524.62 C 1343.53 522.56 1340.77 522.59 1339.16 522.29 C 1327.12 521.73 1315.39 525.07 1303.74 527.65 M 1298.66 559.59 C 1265.43 567.19 1232.15 574.62 1198.95 582.33 C 1191.09 584.84 1181.91 586.34 1176.27 592.88 C 1178.67 594.00 1181.26 594.78 1183.96 594.65 C 1195.19 594.46 1206.11 591.53 1217.01 589.10 C 1251.47 581.19 1285.98 573.52 1320.42 565.55 C 1328.70 563.23 1337.45 561.12 1344.23 555.51 C 1343.14 554.23 1341.80 553.12 1340.04 553.21 C 1325.93 552.22 1312.31 556.82 1298.66 559.59 M 200.40 580.44 C 192.96 581.94 186.17 586.65 182.54 593.37 C 178.75 600.42 179.38 609.47 183.80 616.10 C 188.02 623.04 195.28 627.77 203.10 629.66 C 238.43 638.10 273.79 646.42 309.12 654.88 C 317.42 656.73 326.65 655.62 333.64 650.53 C 341.06 645.51 345.36 635.78 343.02 626.98 C 340.88 618.04 333.84 610.81 325.40 607.46 C 319.75 605.33 313.74 604.41 307.92 602.90 C 280.81 596.38 253.66 590.01 226.54 583.52 C 217.99 581.65 209.24 578.26 200.40 580.44 M 1307.97 587.94 C 1271.55 596.23 1235.11 604.42 1198.72 612.83 C 1190.88 615.25 1182.05 616.96 1176.18 623.14 C 1178.25 624.33 1180.54 625.16 1182.97 625.13 C 1191.24 625.08 1199.42 623.55 1207.46 621.70 C 1240.35 614.21 1273.25 606.77 1306.14 599.29 C 1315.15 597.18 1324.30 595.43 1332.99 592.13 C 1337.13 590.52 1341.71 588.93 1344.30 585.07 C 1342.28 584.21 1340.19 583.35 1337.97 583.43 C 1327.79 583.23 1317.81 585.63 1307.97 587.94 M 1299.12 619.64 C 1265.77 627.26 1232.39 634.72 1199.08 642.45 C 1191.15 644.77 1182.60 646.70 1176.33 652.42 C 1178.79 655.20 1182.73 654.78 1186.11 654.74 C 1196.29 654.28 1206.21 651.69 1216.11 649.44 C 1250.75 641.59 1285.39 633.72 1320.02 625.83 C 1327.20 623.90 1334.54 621.94 1340.97 618.09 C 1341.94 617.10 1344.32 616.24 1343.59 614.54 C 1341.02 612.99 1337.88 613.13 1335.01 613.13 C 1322.79 613.61 1311.00 617.09 1299.12 619.64 Z"></path>
+<path class="shell" fill="#7054C8" opacity="1.00" d=" M 187.90 511.95 C 192.23 506.52 199.21 503.58 206.07 503.43 C 211.90 503.22 217.47 505.23 223.09 506.47 C 253.99 513.72 284.82 521.22 315.73 528.43 C 316.67 528.73 317.55 529.19 318.37 529.79 C 310.20 530.53 302.20 535.40 299.41 543.38 C 295.23 553.17 300.16 565.08 309.43 569.93 C 304.85 569.73 300.50 568.23 296.07 567.24 C 265.28 559.97 234.50 552.63 203.73 545.28 C 196.57 543.52 189.94 538.99 186.42 532.41 C 182.89 526.10 183.32 517.63 187.90 511.95 Z"></path>
+<path class="shell" fill="#7054C8" opacity="1.00" d=" M 188.10 592.07 C 193.99 584.87 204.28 582.43 213.13 584.44 C 244.29 591.90 275.47 599.24 306.62 606.72 C 310.57 607.68 314.60 608.35 318.42 609.80 C 310.27 610.60 302.21 615.37 299.43 623.38 C 294.94 633.79 300.80 646.61 311.19 650.74 C 307.04 650.55 303.07 649.24 299.05 648.33 C 267.34 640.87 235.67 633.23 203.97 625.76 C 196.91 624.03 190.25 619.74 186.68 613.29 C 182.83 606.82 183.19 597.90 188.10 592.07 Z"></path>
+<path class="shell" fill="#7054C8" opacity="1.00" d=" M 1306.48 193.59 C 1322.01 190.17 1338.82 200.60 1342.82 215.95 C 1347.06 230.03 1339.86 246.29 1326.62 252.64 C 1313.37 259.63 1295.61 255.29 1287.04 243.02 C 1277.77 230.84 1279.45 212.05 1290.76 201.73 C 1295.08 197.60 1300.59 194.70 1306.48 193.59 Z"></path>
+<path class="shell" fill="#7054C8" opacity="1.00" d=" M 1167.43 242.60 C 1182.96 239.15 1199.79 249.56 1203.80 264.91 C 1207.88 278.48 1201.42 294.17 1188.97 300.92 C 1176.04 308.58 1157.99 305.05 1148.87 293.11 C 1139.10 281.38 1139.93 262.56 1150.74 251.76 C 1155.19 247.09 1161.08 243.81 1167.43 242.60 Z"></path>
+</g>
+<g id="upper-buttons-container">
+<path class="up-left" fill="#929a9d" opacity="1.00" d=" M 187.60 38.84 C 243.61 30.84 299.90 24.76 356.10 18.45 L 357.92 18.58 C 355.74 19.91 353.50 21.15 351.16 22.18 C 313.29 39.40 274.96 55.58 236.57 71.61 C 228.90 74.68 221.37 78.18 213.41 80.45 C 193.93 86.22 174.02 90.40 153.98 93.68 C 144.40 95.16 134.76 96.52 125.04 96.71 C 118.92 96.75 113.09 98.85 107.22 100.32 C 98.43 102.64 90.23 107.35 84.14 114.12 C 72.31 127.19 68.33 145.02 65.61 161.92 C 62.49 161.89 59.37 161.84 56.26 161.56 C 56.00 151.33 55.43 141.11 55.28 130.87 C 53.35 131.72 51.43 132.58 49.50 133.45 C 50.25 121.94 53.54 110.54 59.84 100.83 C 71.05 83.31 88.77 71.20 107.12 62.10 C 132.36 49.81 159.85 42.63 187.60 38.84 Z"></path>
+<path class="up-right" fill="#929a9d" opacity="1.00" d=" M 1141.87 18.60 C 1145.28 18.02 1148.66 19.03 1152.04 19.40 C 1198.03 24.41 1243.99 29.68 1289.86 35.69 C 1312.11 38.75 1334.55 41.45 1356.11 48.02 C 1377.07 54.23 1397.62 62.75 1415.48 75.52 C 1428.66 85.04 1440.39 97.46 1446.20 112.88 C 1448.79 119.44 1449.88 126.46 1450.50 133.45 C 1448.55 132.58 1446.64 131.71 1444.72 130.84 C 1444.57 141.09 1443.99 151.32 1443.74 161.56 C 1440.57 161.84 1437.40 161.89 1434.24 161.90 C 1433.06 154.07 1431.71 146.23 1429.24 138.69 C 1425.58 127.11 1419.47 115.79 1409.58 108.40 C 1400.83 101.59 1389.68 99.26 1379.09 97.01 C 1369.39 96.57 1359.70 95.86 1350.12 94.31 C 1327.36 90.77 1304.72 86.09 1282.71 79.25 C 1272.10 75.49 1261.83 70.83 1251.40 66.61 C 1231.94 58.39 1212.45 50.23 1193.10 41.77 C 1175.95 34.22 1158.57 27.11 1141.87 18.60 Z"></path>
+</g>
+<g id="screen-container">
+<path class="screen-frame" fill="#000000" opacity="1.00" d=" M 744.51 92.72 C 760.33 91.50 776.15 93.22 791.96 93.81 C 841.30 96.37 890.65 98.86 939.98 101.65 C 977.02 103.81 1014.09 105.69 1051.04 109.14 C 1066.92 110.35 1083.89 110.57 1097.92 119.10 C 1110.21 126.64 1117.28 140.06 1121.35 153.47 C 1128.36 177.02 1128.60 201.79 1130.48 226.10 C 1133.96 279.04 1136.64 332.03 1139.51 385.01 C 1143.12 456.33 1146.64 527.65 1149.80 598.99 C 1152.86 626.74 1142.02 655.54 1121.47 674.42 C 1103.71 690.94 1080.44 700.14 1057.01 705.12 C 1012.05 714.70 967.05 724.42 921.46 730.53 C 859.70 739.04 797.26 740.66 735.00 740.14 C 707.81 739.51 680.61 738.89 653.49 736.72 C 615.74 734.01 578.19 728.87 540.99 721.98 C 513.57 716.91 486.32 711.00 459.04 705.22 C 443.14 701.90 427.55 696.63 413.40 688.58 C 401.50 681.66 390.70 672.63 382.60 661.44 C 371.30 646.11 365.26 627.04 365.26 608.03 C 371.41 478.12 377.31 348.19 385.54 218.38 C 387.38 195.56 387.85 172.22 395.23 150.32 C 399.42 137.94 406.43 125.71 417.99 118.90 C 431.26 110.90 447.24 110.42 462.26 109.31 C 516.27 104.45 570.46 102.06 624.59 98.95 C 664.56 96.82 704.54 94.85 744.51 92.72 M 435.33 178.29 C 436.07 202.15 435.51 226.14 435.68 250.05 C 435.73 362.69 435.59 475.34 435.76 587.98 C 507.49 587.80 579.23 587.95 650.97 587.90 C 794.41 587.97 937.86 587.76 1081.30 588.01 C 1081.55 475.67 1081.34 363.33 1081.41 251.00 C 1081.53 226.77 1081.13 202.48 1081.68 178.28 C 1076.50 177.66 1071.21 178.49 1066.00 178.19 C 858.68 178.19 651.37 178.19 444.05 178.19 C 441.15 178.27 438.18 177.64 435.33 178.29 Z"></path>
+<path class="open-sound" fill="#000000" opacity="1.00" d=" M 1310.64 493.42 C 1319.93 491.29 1329.40 489.18 1338.99 489.60 C 1341.03 489.53 1342.87 490.49 1344.32 491.89 C 1337.76 497.59 1329.05 499.63 1320.91 501.97 C 1287.32 509.74 1253.67 517.24 1220.07 524.96 C 1208.15 527.51 1196.29 530.94 1184.02 531.23 C 1181.34 531.10 1177.74 531.33 1176.62 528.29 C 1184.01 522.73 1193.15 520.38 1201.96 518.12 C 1238.18 509.86 1274.41 501.64 1310.64 493.42 Z"></path>
+<path class="shell shell-dark" fill="#000000" opacity="1.00" d=" M 202.45 499.67 C 206.93 499.01 211.51 499.44 215.88 500.58 C 250.50 508.90 285.17 517.05 319.80 525.33 C 327.18 527.10 334.33 531.01 338.71 537.36 C 342.78 542.92 344.88 550.28 342.91 557.04 C 340.66 565.70 333.09 572.25 324.54 574.38 C 319.06 575.92 313.24 575.60 307.77 574.19 C 272.87 565.81 237.92 557.64 203.03 549.23 C 194.18 547.15 186.09 541.27 182.23 532.92 C 178.84 525.99 179.41 517.29 183.79 510.93 C 187.95 504.62 195.08 500.78 202.45 499.67 M 187.90 511.95 C 183.32 517.63 182.89 526.10 186.42 532.41 C 189.94 538.99 196.57 543.52 203.73 545.28 C 234.50 552.63 265.28 559.97 296.07 567.24 C 300.50 568.23 304.85 569.73 309.43 569.93 C 319.14 574.75 332.19 571.02 337.28 561.30 C 341.47 554.02 340.40 544.75 335.70 537.97 L 335.05 538.14 C 334.86 536.64 333.35 535.16 331.88 534.94 L 332.02 534.28 C 327.92 531.68 323.26 529.92 318.37 529.79 C 317.55 529.19 316.67 528.73 315.73 528.43 C 284.82 521.22 253.99 513.72 223.09 506.47 C 217.47 505.23 211.90 503.22 206.07 503.43 C 199.21 503.58 192.23 506.52 187.90 511.95 Z"></path>
+<path class="open-sound" fill="#000000" opacity="1.00" d=" M 1303.74 527.65 C 1315.39 525.07 1327.12 521.73 1339.16 522.29 C 1340.77 522.59 1343.53 522.56 1343.90 524.62 C 1338.01 530.21 1329.65 532.00 1322.11 534.31 C 1287.80 542.36 1253.38 549.89 1219.05 557.83 C 1207.15 560.36 1195.29 563.91 1183.02 563.76 C 1180.63 563.87 1178.38 563.08 1176.27 562.09 C 1181.97 555.48 1191.19 554.05 1199.10 551.48 C 1233.95 543.40 1268.86 535.59 1303.74 527.65 Z"></path>
+<path class="open-sound" fill="#000000" opacity="1.00" d=" M 1298.66 559.59 C 1312.31 556.82 1325.93 552.22 1340.04 553.21 C 1341.80 553.12 1343.14 554.23 1344.23 555.51 C 1337.45 561.12 1328.70 563.23 1320.42 565.55 C 1285.98 573.52 1251.47 581.19 1217.01 589.10 C 1206.11 591.53 1195.19 594.46 1183.96 594.65 C 1181.26 594.78 1178.67 594.00 1176.27 592.88 C 1181.91 586.34 1191.09 584.84 1198.95 582.33 C 1232.15 574.62 1265.43 567.19 1298.66 559.59 Z"></path>
+<path class="shell shell-dark" fill="#000000" opacity="1.00" d=" M 200.40 580.44 C 209.24 578.26 217.99 581.65 226.54 583.52 C 253.66 590.01 280.81 596.38 307.92 602.90 C 313.74 604.41 319.75 605.33 325.40 607.46 C 333.84 610.81 340.88 618.04 343.02 626.98 C 345.36 635.78 341.06 645.51 333.64 650.53 C 326.65 655.62 317.42 656.73 309.12 654.88 C 273.79 646.42 238.43 638.10 203.10 629.66 C 195.28 627.77 188.02 623.04 183.80 616.10 C 179.38 609.47 178.75 600.42 182.54 593.37 C 186.17 586.65 192.96 581.94 200.40 580.44 M 188.10 592.07 C 183.19 597.90 182.83 606.82 186.68 613.29 C 190.25 619.74 196.91 624.03 203.97 625.76 C 235.67 633.23 267.34 640.87 299.05 648.33 C 303.07 649.24 307.04 650.55 311.19 650.74 C 321.65 654.88 334.88 649.34 338.56 638.56 C 341.39 631.63 339.61 623.76 335.52 617.73 L 334.99 618.13 C 334.93 616.62 333.30 615.16 331.87 614.96 L 332.03 614.34 C 327.96 611.69 323.27 610.04 318.42 609.80 C 314.60 608.35 310.57 607.68 306.62 606.72 C 275.47 599.24 244.29 591.90 213.13 584.44 C 204.28 582.43 193.99 584.87 188.10 592.07 Z"></path>
+<path class="open-sound" fill="#000000" opacity="1.00" d=" M 1307.97 587.94 C 1317.81 585.63 1327.79 583.23 1337.97 583.43 C 1340.19 583.35 1342.28 584.21 1344.30 585.07 C 1341.71 588.93 1337.13 590.52 1332.99 592.13 C 1324.30 595.43 1315.15 597.18 1306.14 599.29 C 1273.25 606.77 1240.35 614.21 1207.46 621.70 C 1199.42 623.55 1191.24 625.08 1182.97 625.13 C 1180.54 625.16 1178.25 624.33 1176.18 623.14 C 1182.05 616.96 1190.88 615.25 1198.72 612.83 C 1235.11 604.42 1271.55 596.23 1307.97 587.94 Z"></path>
+<path class="open-sound" fill="#000000" opacity="1.00" d=" M 1299.12 619.64 C 1311.00 617.09 1322.79 613.61 1335.01 613.13 C 1337.88 613.13 1341.02 612.99 1343.59 614.54 C 1344.32 616.24 1341.94 617.10 1340.97 618.09 C 1334.54 621.94 1327.20 623.90 1320.02 625.83 C 1285.39 633.72 1250.75 641.59 1216.11 649.44 C 1206.21 651.69 1196.29 654.28 1186.11 654.74 C 1182.73 654.78 1178.79 655.20 1176.33 652.42 C 1182.60 646.70 1191.15 644.77 1199.08 642.45 C 1232.39 634.72 1265.77 627.26 1299.12 619.64 Z"></path>
+</g>
+<g id="led">
+<path class="power-led" fill="#c0f00b" opacity="1.00" d=" M 1222.40 147.11 C 1222.52 144.57 1225.00 143.38 1226.93 142.31 C 1228.81 143.20 1231.48 143.48 1232.18 145.82 C 1233.46 148.29 1231.80 150.70 1230.34 152.60 C 1228.41 152.60 1226.51 152.61 1224.61 152.62 C 1223.52 150.96 1221.91 149.27 1222.40 147.11 Z"></path>
+</g>
+<g id="buttons-container">
+<path class="left-protection" fill="#929a9d" opacity="1.00" d=" M 52.04 161.45 C 53.45 161.39 54.86 161.43 56.26 161.56 C 59.37 161.84 62.49 161.89 65.61 161.92 C 64.89 165.59 64.41 169.32 64.05 173.05 C 54.95 259.89 47.80 346.92 40.35 433.91 C 39.17 451.10 36.67 468.17 35.51 485.37 C 32.82 521.53 31.92 557.95 35.20 594.10 C 37.39 616.06 40.84 638.22 49.29 658.75 C 54.91 672.33 63.50 685.58 76.79 692.68 C 73.86 692.22 71.44 690.37 68.85 689.05 C 56.47 682.37 46.06 672.39 38.16 660.80 C 26.38 643.78 19.42 623.95 14.58 603.97 C 7.02 570.94 5.05 536.87 5.64 503.08 C 6.63 484.36 7.55 465.60 10.04 447.00 C 16.39 387.03 22.48 327.03 27.98 266.98 C 30.08 246.32 31.12 225.55 33.61 204.92 C 35.46 192.82 37.53 180.31 43.78 169.58 C 45.67 166.08 48.97 163.81 52.04 161.45 Z"></path>
+<path class="right-protection" fill="#929a9d" opacity="1.00" d=" M 1434.24 161.90 C 1437.40 161.89 1440.57 161.84 1443.74 161.56 C 1445.12 161.43 1446.53 161.39 1447.96 161.44 C 1454.74 165.48 1458.58 172.63 1460.93 179.94 C 1467.36 199.61 1467.90 220.50 1469.71 240.95 C 1476.32 316.04 1483.95 391.04 1492.03 465.99 C 1494.09 491.56 1495.54 517.29 1493.60 542.92 C 1492.10 570.74 1488.35 598.70 1479.32 625.16 C 1471.91 646.76 1460.38 667.90 1441.97 682.03 C 1436.85 686.18 1430.90 689.04 1425.24 692.33 C 1424.75 692.33 1423.75 692.34 1423.25 692.34 C 1432.99 686.54 1440.75 677.86 1445.98 667.83 C 1455.98 648.79 1460.31 627.38 1463.15 606.23 C 1468.64 561.01 1466.99 515.26 1462.85 469.99 C 1459.80 443.07 1457.98 416.02 1455.57 389.03 C 1450.98 335.02 1446.16 281.03 1441.14 227.06 C 1438.96 205.33 1437.10 183.55 1434.24 161.90 Z"></path>
+<path class="b-btn" fill="#929a9d" opacity="1.00" d=" M 1355.46 275.70 C 1373.99 272.38 1393.96 281.03 1404.29 296.75 C 1414.92 311.88 1415.69 333.16 1406.20 349.03 C 1398.94 361.80 1385.71 370.89 1371.21 373.16 C 1352.57 376.42 1332.55 367.48 1322.33 351.59 C 1311.70 336.07 1311.43 314.39 1321.47 298.51 C 1328.85 286.51 1341.52 277.92 1355.46 275.70 Z"></path>
+<path class="a-btn" fill="#929a9d" opacity="1.00" d=" M 1216.51 324.70 C 1235.30 321.34 1255.52 330.32 1265.73 346.42 C 1276.56 362.33 1276.50 384.70 1265.61 400.58 C 1254.96 417.14 1233.72 426.08 1214.46 421.74 C 1195.78 418.05 1180.14 402.61 1176.27 383.97 C 1173.03 369.77 1176.65 354.22 1185.75 342.87 C 1193.26 333.26 1204.46 326.63 1216.51 324.70 Z"></path>
+<path class="start-btn" opacity="1.00" d=" M 299.41 543.38 C 302.20 535.40 310.20 530.53 318.37 529.79 C 323.26 529.92 327.92 531.68 332.02 534.28 L 331.88 534.94 C 331.00 536.83 333.11 539.10 335.05 538.14 L 335.70 537.97 C 340.40 544.75 341.47 554.02 337.28 561.30 C 332.19 571.02 319.14 574.75 309.43 569.93 C 300.16 565.08 295.23 553.17 299.41 543.38 Z"></path>
+<path class="start-btn" opacity="1.00" d=" M 299.43 623.38 C 302.21 615.37 310.27 610.60 318.42 609.80 C 323.27 610.04 327.96 611.69 332.03 614.34 L 331.87 614.96 C 331.01 616.72 332.86 617.96 334.20 618.70 C 334.40 618.56 334.79 618.27 334.99 618.13 L 335.52 617.73 C 339.61 623.76 341.39 631.63 338.56 638.56 C 334.88 649.34 321.65 654.88 311.19 650.74 C 300.80 646.61 294.94 633.79 299.43 623.38 Z"></path>
+</g>
+<g id="screen-inside-container">
+<path class="screen-inside" fill="#d0d2d3" opacity="1.00" d=" M 435.73 182.79 C 435.78 181.32 436.05 179.87 436.49 178.47 C 449.98 179.11 463.51 178.59 477.02 178.76 C 665.99 178.76 854.96 178.76 1043.93 178.76 C 1056.12 178.60 1068.32 179.11 1080.50 178.47 C 1082.05 183.50 1081.00 188.83 1081.27 194.00 C 1081.30 325.34 1081.24 456.67 1081.30 588.01 C 937.86 587.76 794.41 587.97 650.97 587.90 C 579.23 587.95 507.49 587.80 435.76 587.98 C 435.77 452.92 435.81 317.85 435.73 182.79 Z"></path>
+<path class="start-btn" fill="#d0d2d3" opacity="1.00" d=" M 335.05 538.14 C 333.11 539.10 331.00 536.83 331.88 534.94 C 333.35 535.16 334.86 536.64 335.05 538.14 Z"></path>
+<path class="start-btn" fill="#d0d2d3" opacity="1.00" d=" M 334.20 618.70 C 332.86 617.96 331.01 616.72 331.87 614.96 C 333.30 615.16 334.93 616.62 334.99 618.13 C 334.79 618.27 334.40 618.56 334.20 618.70 Z"></path>
+</g>
+<g id="d-pad-container">
+<path class="d-pad" fill="#929a9d" opacity="1.00" d=" M 186.03 257.23 C 197.00 257.10 207.97 257.33 218.94 257.49 C 229.14 257.25 239.34 257.20 249.54 257.16 C 249.36 276.90 249.67 296.64 249.21 316.37 C 269.01 316.30 288.82 316.28 308.62 316.32 C 308.43 337.40 308.57 358.49 308.56 379.57 C 292.37 379.38 276.17 379.83 260.00 379.22 C 256.44 379.15 252.89 379.18 249.35 379.28 C 249.59 398.94 249.17 418.60 249.59 438.25 C 228.40 438.05 207.20 437.90 186.01 438.33 C 186.41 418.62 186.07 398.90 186.22 379.20 C 166.62 379.54 147.01 379.57 127.41 379.57 C 127.35 358.49 127.53 337.40 127.32 316.32 C 146.98 316.36 166.65 316.13 186.31 316.49 C 185.95 296.74 186.40 276.98 186.03 257.23 Z"></path>
+</g>
+</svg>
+        <div class="game"></div>
+      </div>
+    </div>
+
+    <div id="setbar">
+      <div class="uk-accordion" data-uk-accordion="">
+
+        <div class="uk-accordion-title uk-active">Body Shell</div>
+        <div data-wrapper="true" style="height: auto; position: relative;" aria-expanded="true"><div class="uk-accordion-content uk-active">
+          <form id="shell-form">
+            <input id="shell-orange" type="radio" name="shell" value="orange">
+            <label class="orange" for="shell-orange"> </label>
+            <input id="shell-black" type="radio" name="shell" value="black">
+            <label class="black" for="shell-black"> </label>
+            <input id="shell-light-blue" type="radio" name="shell" value="light-blue">
+            <label class="light-blue" for="shell-light-blue"> </label>
+            <input id="shell-blue" type="radio" name="shell" value="blue">
+            <label class="blue" for="shell-blue"> </label>
+            <input id="shell-light-green" type="radio" name="shell" value="light-green">
+            <label class="light-green" for="shell-light-green"> </label>
+            <input id="shell-green" type="radio" name="shell" value="green">
+            <label class="green" for="shell-green"> </label>
+            <input id="shell-yellow" type="radio" name="shell" value="yellow">
+            <label class="yellow" for="shell-yellow"> </label>
+            <input id="shell-red" type="radio" name="shell" value="red">
+            <label class="red" for="shell-red"> </label>
+            <input id="shell-light-purple" type="radio" name="shell" value="light-purple">
+            <label class="light-purple" for="shell-light-purple"> </label>
+            <input id="shell-purple" type="radio" name="shell" value="purple">
+            <label class="purple" for="shell-purple"> </label>
+            <input id="shell-retro-white" type="radio" name="shell" value="retro-white">
+            <label class="retro-white" for="shell-retro-white"> </label>
+            <input id="shell-white" type="radio" name="shell" value="white">
+            <label class="white" for="shell-white"> </label>
+            <input id="shell-retro-purple" type="radio" name="shell" value="retro-purple">
+            <label class="retro-purple" for="shell-retro-purple"> </label>
+            <input id="shell-grey" type="radio" name="shell" value="grey">
+            <label class="grey" for="shell-grey"> </label>
+            <input id="shell-pink" type="radio" name="shell" value="pink">
+            <label class="pink" for="shell-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Upper Left Button</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="up-left-form">
+            <input id="up-left-orange" type="radio" name="up-left" value="orange">
+            <label class="orange" for="up-left-orange"> </label>
+            <input id="up-left-black" type="radio" name="up-left" value="black">
+            <label class="black" for="up-left-black"> </label>
+            <input id="up-left-light-blue" type="radio" name="up-left" value="light-blue">
+            <label class="light-blue" for="up-left-light-blue"> </label>
+            <input id="up-left-blue" type="radio" name="up-left" value="blue">
+            <label class="blue" for="up-left-blue"> </label>
+            <input id="up-left-light-green" type="radio" name="up-left" value="light-green">
+            <label class="light-green" for="up-left-light-green"> </label>
+            <input id="up-left-green" type="radio" name="up-left" value="green">
+            <label class="green" for="up-left-green"> </label>
+            <input id="up-left-yellow" type="radio" name="up-left" value="yellow">
+            <label class="yellow" for="up-left-yellow"> </label>
+            <input id="up-left-red" type="radio" name="up-left" value="red">
+            <label class="red" for="up-left-red"> </label>
+            <input id="up-left-light-purple" type="radio" name="up-left" value="light-purple">
+            <label class="light-purple" for="up-left-light-purple"> </label>
+            <input id="up-left-purple" type="radio" name="up-left" value="purple">
+            <label class="purple" for="up-left-purple"> </label>
+            <input id="up-left-retro-white" type="radio" name="up-left" value="retro-white">
+            <label class="retro-white" for="up-left-retro-white"> </label>
+            <input id="up-left-white" type="radio" name="up-left" value="white">
+            <label class="white" for="up-left-white"> </label>
+            <input id="up-left-retro-purple" type="radio" name="up-left" value="retro-purple">
+            <label class="retro-purple" for="up-left-retro-purple"> </label>
+            <input id="up-left-grey" type="radio" name="up-left" value="grey">
+            <label class="grey" for="up-left-grey"> </label>
+            <input id="up-left-pink" type="radio" name="up-left" value="pink">
+            <label class="pink" for="up-left-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Upper Right Button</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="up-right-form">
+            <input id="up-right-orange" type="radio" name="up-right" value="orange">
+            <label class="orange" for="up-right-orange"> </label>
+            <input id="up-right-black" type="radio" name="up-right" value="black">
+            <label class="black" for="up-right-black"> </label>
+            <input id="up-right-light-blue" type="radio" name="up-right" value="light-blue">
+            <label class="light-blue" for="up-right-light-blue"> </label>
+            <input id="up-right-blue" type="radio" name="up-right" value="blue">
+            <label class="blue" for="up-right-blue"> </label>
+            <input id="up-right-light-green" type="radio" name="up-right" value="light-green">
+            <label class="light-green" for="up-right-light-green"> </label>
+            <input id="up-right-green" type="radio" name="up-right" value="green">
+            <label class="green" for="up-right-green"> </label>
+            <input id="up-right-yellow" type="radio" name="up-right" value="yellow">
+            <label class="yellow" for="up-right-yellow"> </label>
+            <input id="up-right-red" type="radio" name="up-right" value="red">
+            <label class="red" for="up-right-red"> </label>
+            <input id="up-right-light-purple" type="radio" name="up-right" value="light-purple">
+            <label class="light-purple" for="up-right-light-purple"> </label>
+            <input id="up-right-purple" type="radio" name="up-right" value="purple">
+            <label class="purple" for="up-right-purple"> </label>
+            <input id="up-right-retro-white" type="radio" name="up-right" value="retro-white">
+            <label class="retro-white" for="up-right-retro-white"> </label>
+            <input id="up-right-white" type="radio" name="up-right" value="white">
+            <label class="white" for="up-right-white"> </label>
+            <input id="up-right-retro-purple" type="radio" name="up-right" value="retro-purple">
+            <label class="retro-purple" for="up-right-retro-purple"> </label>
+            <input id="up-right-grey" type="radio" name="up-right" value="grey">
+            <label class="grey" for="up-right-grey"> </label>
+            <input id="up-right-pink" type="radio" name="up-right" value="pink">
+            <label class="pink" for="up-right-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">D-Pad Button</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="d-pad-form">
+            <input id="d-pad-orange" type="radio" name="d-pad" value="orange">
+            <label class="orange" for="d-pad-orange"> </label>
+            <input id="d-pad-black" type="radio" name="d-pad" value="black">
+            <label class="black" for="d-pad-black"> </label>
+            <input id="d-pad-light-blue" type="radio" name="d-pad" value="light-blue">
+            <label class="light-blue" for="d-pad-light-blue"> </label>
+            <input id="d-pad-blue" type="radio" name="d-pad" value="blue">
+            <label class="blue" for="d-pad-blue"> </label>
+            <input id="d-pad-light-green" type="radio" name="d-pad" value="light-green">
+            <label class="light-green" for="d-pad-light-green"> </label>
+            <input id="d-pad-green" type="radio" name="d-pad" value="green">
+            <label class="green" for="d-pad-green"> </label>
+            <input id="d-pad-yellow" type="radio" name="d-pad" value="yellow">
+            <label class="yellow" for="d-pad-yellow"> </label>
+            <input id="d-pad-red" type="radio" name="d-pad" value="red">
+            <label class="red" for="d-pad-red"> </label>
+            <input id="d-pad-light-purple" type="radio" name="d-pad" value="light-purple">
+            <label class="light-purple" for="d-pad-light-purple"> </label>
+            <input id="d-pad-purple" type="radio" name="d-pad" value="purple">
+            <label class="purple" for="d-pad-purple"> </label>
+            <input id="d-pad-retro-white" type="radio" name="d-pad" value="retro-white">
+            <label class="retro-white" for="d-pad-retro-white"> </label>
+            <input id="d-pad-white" type="radio" name="d-pad" value="white">
+            <label class="white" for="d-pad-white"> </label>
+            <input id="d-pad-retro-purple" type="radio" name="d-pad" value="retro-purple">
+            <label class="retro-purple" for="d-pad-retro-purple"> </label>
+            <input id="d-pad-grey" type="radio" name="d-pad" value="grey">
+            <label class="grey" for="d-pad-grey"> </label>
+            <input id="d-pad-pink" type="radio" name="d-pad" value="pink">
+            <label class="pink" for="d-pad-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">A Button</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="a-btn-form">
+            <input id="a-btn-orange" type="radio" name="a-btn" value="orange">
+            <label class="orange" for="a-btn-orange"> </label>
+            <input id="a-btn-black" type="radio" name="a-btn" value="black">
+            <label class="black" for="a-btn-black"> </label>
+            <input id="a-btn-light-blue" type="radio" name="a-btn" value="light-blue">
+            <label class="light-blue" for="a-btn-light-blue"> </label>
+            <input id="a-btn-blue" type="radio" name="a-btn" value="blue">
+            <label class="blue" for="a-btn-blue"> </label>
+            <input id="a-btn-light-green" type="radio" name="a-btn" value="light-green">
+            <label class="light-green" for="a-btn-light-green"> </label>
+            <input id="a-btn-green" type="radio" name="a-btn" value="green">
+            <label class="green" for="a-btn-green"> </label>
+            <input id="a-btn-yellow" type="radio" name="a-btn" value="yellow">
+            <label class="yellow" for="a-btn-yellow"> </label>
+            <input id="a-btn-red" type="radio" name="a-btn" value="red">
+            <label class="red" for="a-btn-red"> </label>
+            <input id="a-btn-light-purple" type="radio" name="a-btn" value="light-purple">
+            <label class="light-purple" for="a-btn-light-purple"> </label>
+            <input id="a-btn-purple" type="radio" name="a-btn" value="purple">
+            <label class="purple" for="a-btn-purple"> </label>
+            <input id="a-btn-retro-white" type="radio" name="a-btn" value="retro-white">
+            <label class="retro-white" for="a-btn-retro-white"> </label>
+            <input id="a-btn-white" type="radio" name="a-btn" value="white">
+            <label class="white" for="a-btn-white"> </label>
+            <input id="a-btn-retro-purple" type="radio" name="a-btn" value="retro-purple">
+            <label class="retro-purple" for="a-btn-retro-purple"> </label>
+            <input id="a-btn-grey" type="radio" name="a-btn" value="grey">
+            <label class="grey" for="a-btn-grey"> </label>
+            <input id="a-btn-pink" type="radio" name="a-btn" value="pink">
+            <label class="pink" for="a-btn-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">B Button</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="b-btn-form">
+            <input id="b-btn-orange" type="radio" name="b-btn" value="orange">
+            <label class="orange" for="b-btn-orange"> </label>
+            <input id="b-btn-black" type="radio" name="b-btn" value="black">
+            <label class="black" for="b-btn-black"> </label>
+            <input id="b-btn-light-blue" type="radio" name="b-btn" value="light-blue">
+            <label class="light-blue" for="b-btn-light-blue"> </label>
+            <input id="b-btn-blue" type="radio" name="b-btn" value="blue">
+            <label class="blue" for="b-btn-blue"> </label>
+            <input id="b-btn-light-green" type="radio" name="b-btn" value="light-green">
+            <label class="light-green" for="b-btn-light-green"> </label>
+            <input id="b-btn-green" type="radio" name="b-btn" value="green">
+            <label class="green" for="b-btn-green"> </label>
+            <input id="b-btn-yellow" type="radio" name="b-btn" value="yellow">
+            <label class="yellow" for="b-btn-yellow"> </label>
+            <input id="b-btn-red" type="radio" name="b-btn" value="red">
+            <label class="red" for="b-btn-red"> </label>
+            <input id="b-btn-light-purple" type="radio" name="b-btn" value="light-purple">
+            <label class="light-purple" for="b-btn-light-purple"> </label>
+            <input id="b-btn-purple" type="radio" name="b-btn" value="purple">
+            <label class="purple" for="b-btn-purple"> </label>
+            <input id="b-btn-retro-white" type="radio" name="b-btn" value="retro-white">
+            <label class="retro-white" for="b-btn-retro-white"> </label>
+            <input id="b-btn-white" type="radio" name="b-btn" value="white">
+            <label class="white" for="b-btn-white"> </label>
+            <input id="b-btn-retro-purple" type="radio" name="b-btn" value="retro-purple">
+            <label class="retro-purple" for="b-btn-retro-purple"> </label>
+            <input id="b-btn-grey" type="radio" name="b-btn" value="grey">
+            <label class="grey" for="b-btn-grey"> </label>
+            <input id="b-btn-pink" type="radio" name="b-btn" value="pink">
+            <label class="pink" for="b-btn-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Power Led</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="power-led-form">
+		    <input id="power-led-original" type="radio" name="power-led" value="light-green">
+			<label class="light-green" for="power-led-original"> </label>
+            <input id="power-led-red" type="radio" name="power-led" value="red">
+            <label class="red" for="power-led-red"> </label>
+			<input id="power-led-blue" type="radio" name="power-led" value="blue">
+			<label class="blue" for="power-led-blue"> </label>
+		    <input id="power-led-green" type="radio" name="power-led" value="green">
+			<label class="green" for="power-led-green"> </label>
+			<input id="power-led-yellow" type="radio" name="power-led" value="yellow">
+			<label class="yellow" for="power-led-yellow"> </label>
+			<input id="power-led-white" type="radio" name="power-led" value="white">
+			<label class="white" for="power-led-white"> </label>
+			<input id="power-led-orange" type="radio" name="power-led" value="orange">
+			<label class="orange" for="power-led-orange"> </label>
+			<input id="power-led-purple" type="radio" name="power-led" value="purple">
+			<label class="purple" for="power-led-purple"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Start/Select Buttons</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="start-btn-form">
+            <input id="start-btn-orange" type="radio" name="start-btn" value="orange">
+            <label class="orange" for="start-btn-orange"> </label>
+            <input id="start-btn-black" type="radio" name="start-btn" value="black">
+            <label class="black" for="start-btn-black"> </label>
+            <input id="start-btn-light-blue" type="radio" name="start-btn" value="light-blue">
+            <label class="light-blue" for="start-btn-light-blue"> </label>
+            <input id="start-btn-blue" type="radio" name="start-btn" value="blue">
+            <label class="blue" for="start-btn-blue"> </label>
+            <input id="start-btn-light-green" type="radio" name="start-btn" value="light-green">
+            <label class="light-green" for="start-btn-light-green"> </label>
+            <input id="start-btn-green" type="radio" name="start-btn" value="green">
+            <label class="green" for="start-btn-green"> </label>
+            <input id="start-btn-yellow" type="radio" name="start-btn" value="yellow">
+            <label class="yellow" for="start-btn-yellow"> </label>
+            <input id="start-btn-red" type="radio" name="start-btn" value="red">
+            <label class="red" for="start-btn-red"> </label>
+            <input id="start-btn-light-purple" type="radio" name="start-btn" value="light-purple">
+            <label class="light-purple" for="start-btn-light-purple"> </label>
+            <input id="start-btn-purple" type="radio" name="start-btn" value="purple">
+            <label class="purple" for="start-btn-purple"> </label>
+            <input id="start-btn-retro-white" type="radio" name="start-btn" value="retro-white">
+            <label class="retro-white" for="start-btn-retro-white"> </label>
+            <input id="start-btn-white" type="radio" name="start-btn" value="white">
+            <label class="white" for="start-btn-white"> </label>
+            <input id="start-btn-retro-purple" type="radio" name="start-btn" value="retro-purple">
+            <label class="retro-purple" for="start-btn-retro-purple"> </label>
+            <input id="start-btn-grey" type="radio" name="start-btn" value="grey">
+            <label class="grey" for="start-btn-grey"> </label>
+            <input id="start-btn-pink" type="radio" name="start-btn" value="pink">
+            <label class="pink" for="start-btn-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Screen Frame</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="screen-frame-form">
+            <input id="screen-frame-orange" type="radio" name="screen-frame" value="orange">
+            <label class="orange" for="screen-frame-orange"> </label>
+            <input id="screen-frame-black" type="radio" name="screen-frame" value="black">
+            <label class="black" for="screen-frame-black"> </label>
+            <input id="screen-frame-light-blue" type="radio" name="screen-frame" value="light-blue">
+            <label class="light-blue" for="screen-frame-light-blue"> </label>
+            <input id="screen-frame-blue" type="radio" name="screen-frame" value="blue">
+            <label class="blue" for="screen-frame-blue"> </label>
+            <input id="screen-frame-light-green" type="radio" name="screen-frame" value="light-green">
+            <label class="light-green" for="screen-frame-light-green"> </label>
+            <input id="screen-frame-green" type="radio" name="screen-frame" value="green">
+            <label class="green" for="screen-frame-green"> </label>
+            <input id="screen-frame-yellow" type="radio" name="screen-frame" value="yellow">
+            <label class="yellow" for="screen-frame-yellow"> </label>
+            <input id="screen-frame-red" type="radio" name="screen-frame" value="red">
+            <label class="red" for="screen-frame-red"> </label>
+            <input id="screen-frame-light-purple" type="radio" name="screen-frame" value="light-purple">
+            <label class="light-purple" for="screen-frame-light-purple"> </label>
+            <input id="screen-frame-purple" type="radio" name="screen-frame" value="purple">
+            <label class="purple" for="screen-frame-purple"> </label>
+            <input id="screen-frame-retro-white" type="radio" name="screen-frame" value="retro-white">
+            <label class="retro-white" for="screen-frame-retro-white"> </label>
+            <input id="screen-frame-white" type="radio" name="screen-frame" value="white">
+            <label class="white" for="screen-frame-white"> </label>
+            <input id="screen-frame-retro-purple" type="radio" name="screen-frame" value="retro-purple">
+            <label class="retro-purple" for="screen-frame-retro-purple"> </label>
+            <input id="screen-frame-grey" type="radio" name="screen-frame" value="grey">
+            <label class="grey" for="screen-frame-grey"> </label>
+            <input id="screen-frame-pink" type="radio" name="screen-frame" value="pink">
+            <label class="pink" for="screen-frame-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Left Protection</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content">
+          <form id="left-protection-form">
+            <input id="left-protection-orange" type="radio" name="left-protection" value="orange">
+            <label class="orange" for="left-protection-orange"> </label>
+            <input id="left-protection-black" type="radio" name="left-protection" value="black">
+            <label class="black" for="left-protection-black"> </label>
+            <input id="left-protection-light-blue" type="radio" name="left-protection" value="light-blue">
+            <label class="light-blue" for="left-protection-light-blue"> </label>
+            <input id="left-protection-blue" type="radio" name="left-protection" value="blue">
+            <label class="blue" for="left-protection-blue"> </label>
+            <input id="left-protection-light-green" type="radio" name="left-protection" value="light-green">
+            <label class="light-green" for="left-protection-light-green"> </label>
+            <input id="left-protection-green" type="radio" name="left-protection" value="green">
+            <label class="green" for="left-protection-green"> </label>
+            <input id="left-protection-yellow" type="radio" name="left-protection" value="yellow">
+            <label class="yellow" for="left-protection-yellow"> </label>
+            <input id="left-protection-red" type="radio" name="left-protection" value="red">
+            <label class="red" for="left-protection-red"> </label>
+            <input id="left-protection-light-purple" type="radio" name="left-protection" value="light-purple">
+            <label class="light-purple" for="left-protection-light-purple"> </label>
+            <input id="left-protection-purple" type="radio" name="left-protection" value="purple">
+            <label class="purple" for="left-protection-purple"> </label>
+            <input id="left-protection-retro-white" type="radio" name="left-protection" value="retro-white">
+            <label class="retro-white" for="left-protection-retro-white"> </label>
+            <input id="left-protection-white" type="radio" name="left-protection" value="white">
+            <label class="white" for="left-protection-white"> </label>
+            <input id="left-protection-retro-purple" type="radio" name="left-protection" value="retro-purple">
+            <label class="retro-purple" for="left-protection-retro-purple"> </label>
+            <input id="left-protection-grey" type="radio" name="left-protection" value="grey">
+            <label class="grey" for="left-protection-grey"> </label>
+            <input id="left-protection-pink" type="radio" name="left-protection" value="pink">
+            <label class="pink" for="left-protection-pink"> </label>
+          </form>
+        </div></div>
+
+        <div class="uk-accordion-title">Right Protection</div>
+        <div data-wrapper="true" style="overflow:hidden;height:0;position:relative;" aria-expanded="false"><div class="uk-accordion-content"><form id="right-protection-form">
+          <input id="right-protection-orange" type="radio" name="right-protection" value="orange">
+          <label class="orange" for="right-protection-orange"> </label>
+          <input id="right-protection-black" type="radio" name="right-protection" value="black">
+          <label class="black" for="right-protection-black"> </label>
+          <input id="right-protection-light-blue" type="radio" name="right-protection" value="light-blue">
+          <label class="light-blue" for="right-protection-light-blue"> </label>
+          <input id="right-protection-blue" type="radio" name="right-protection" value="blue">
+          <label class="blue" for="right-protection-blue"> </label>
+          <input id="right-protection-light-green" type="radio" name="right-protection" value="light-green">
+          <label class="light-green" for="right-protection-light-green"> </label>
+          <input id="right-protection-green" type="radio" name="right-protection" value="green">
+          <label class="green" for="right-protection-green"> </label>
+          <input id="right-protection-yellow" type="radio" name="right-protection" value="yellow">
+          <label class="yellow" for="right-protection-yellow"> </label>
+          <input id="right-protection-red" type="radio" name="right-protection" value="red">
+          <label class="red" for="right-protection-red"> </label>
+          <input id="right-protection-light-purple" type="radio" name="right-protection" value="light-purple">
+          <label class="light-purple" for="right-protection-light-purple"> </label>
+          <input id="right-protection-purple" type="radio" name="right-protection" value="purple">
+          <label class="purple" for="right-protection-purple"> </label>
+          <input id="right-protection-retro-white" type="radio" name="right-protection" value="retro-white">
+          <label class="retro-white" for="right-protection-retro-white"> </label>
+          <input id="right-protection-white" type="radio" name="right-protection" value="white">
+          <label class="white" for="right-protection-white"> </label>
+          <input id="right-protection-retro-purple" type="radio" name="right-protection" value="retro-purple">
+          <label class="retro-purple" for="right-protection-retro-purple"> </label>
+          <input id="right-protection-grey" type="radio" name="right-protection" value="grey">
+          <label class="grey" for="right-protection-grey"> </label>
+          <input id="right-protection-pink" type="radio" name="right-protection" value="pink">
+          <label class="pink" for="right-protection-pink"> </label>
+        </form></div></div>
+
+      </div>
+        <div class="uk-accordion-title"><a href="../">Back</a></div>
+    </div>
+
+    <script src="./GBA Shell Configurator_files/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+    <script src="./GBA Shell Configurator_files/scripts.min.js"></script>
+  
+
+</body></html>
