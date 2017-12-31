@@ -4,7 +4,7 @@
 <ul>
   <li><a href="./DkAdvance/">View<strong>DKA</strong></a></li>
   <li><a href="./GBAMusRiper/">View<strong>GMR</strong></a></li>
-  <li><a href="./GBABuilder/">View<strong>Builder</strong></a></li>
+  <li><a href="./GBABuilder/index.html">View<strong>Builder</strong></a></li>
   </ul>
   
  </threebutton>
