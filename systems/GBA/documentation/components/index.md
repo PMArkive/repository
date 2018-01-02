@@ -6,7 +6,6 @@ $(document).ready( function () {
     $('#AGBTable').DataTable( {
         paging: false,
 		searching: true,
-		dom: 'tpri'
     } );
 } );
 </script>
@@ -475,6 +474,50 @@ $('#AGBInput').on( 'keyup', function () {
   <tr>
     <td>U7</td>
 	<td>AGB-LCD</td>
+  </tr>
+  <tr>
+    <td>D4</td>
+	<td>Ma112 or ISS355</td>
+  </tr>
+  <tr>
+    <td>C28</td>
+	<td>F105Z/10V(1608)</td>
+  </tr>
+  <tr>
+    <td>R27</td>
+	<td>Resistor 200kΩ</td>
+  </tr>
+  <tr>
+    <td>R28</td>
+	<td>Resistor 56kΩ</td>
+  </tr>
+  <tr>
+    <td>R17</td>
+	<td>Resistor 100kΩ</td>
+  </tr>
+  <tr>
+    <td>R16</td>
+	<td>Resistor 33kΩ</td>
+  </tr>
+  <tr>
+    <td>C58</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C32</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
   </tr>
   <tr>
     <td></td>
