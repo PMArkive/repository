@@ -10,6 +10,7 @@ $(document).ready( function () {
 $(document).ready(function() {
     $('#AGBTable').DataTable( {
         "paging":   false,
+		"searching: false
     } );
 } );
 </script>
