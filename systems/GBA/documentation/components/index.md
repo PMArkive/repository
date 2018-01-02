@@ -5,7 +5,7 @@
 $(document).ready( function () {
     $('#AGBTable').DataTable( {
         paging: false,
-		dom: f
+		dom: 'tpri'
     } );
 } );
 </script>
@@ -436,20 +436,20 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>AGB-REG</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C42</td>
+	<td>F105Z/10V(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C54</td>
+	<td>B475K/6.3V(2125)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>U5</td>
+	<td>DMD2N</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C33</td>
+	<td>F105Z/15V(2125)</td>
   </tr>
   <tr>
     <td></td>
