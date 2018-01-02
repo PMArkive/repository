@@ -605,52 +605,40 @@ function searchFunction() {
 	<td>BLM11B252SD(1608)</td>
   </tr>
   <tr>
-    <td>CP</td>
-	<td></td>
+    <td>CP4</td>
+	<td>100uF/4V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C9</td>
+	<td>B102K/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R20</td>
+	<td>Resistor 15Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R19</td>
+	<td>Resistor 15Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C10</td>
+	<td>CH101J/50V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R4</td>
+	<td>Resistor 47kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R3</td>
+	<td>Resistor 47kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C38</td>
+	<td>F105Z/10V(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
-  </tr>
-  <tr>
-    <td></td>
-	<td></td>
-  </tr>
-  <tr>
-    <td></td>
-	<td></td>
-  </tr>
-  <tr>
-    <td></td>
-	<td></td>
+    <td>U6</td>
+	<td>AGB-AMP</td>
   </tr>
  </tbody>
 </table>
