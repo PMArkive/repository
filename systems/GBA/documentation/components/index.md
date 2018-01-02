@@ -18,14 +18,14 @@ $('#AGBInput').keyup(function(){
 <input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
 
 <table id="AGBTable" class="display">
- <thread>
-     <tr>
-	     <th>Component</th>
-		 <th>Part Number</th>
-	 </tr>
- </thread>
- <tbody>
-  <tr>
+    <thead>
+        <tr>
+            <th>Component</th>
+            <th>Part Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
     <td>DA1</td>
     <td>DA204U</td>
   </tr>
