@@ -6,6 +6,14 @@ $(document).ready( function () {
     $('#AGBTable').DataTable();
 } );
 </script>
+<script>
+$(document).ready(function() {
+    $('#AGBTable').DataTable( {
+        "paging":   false,
+    } );
+} );
+</script>
+
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
 <input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
