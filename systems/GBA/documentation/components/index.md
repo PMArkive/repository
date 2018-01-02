@@ -14,7 +14,7 @@ $(document).ready( function () {
 var table = $('#AGBTable').DataTable();
 function searchMe() {
     table.search( this.value ).draw();
-} );
+};
 </script>
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
@@ -258,32 +258,32 @@ function searchMe() {
 	<td>CH101J/50V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>P4</td>
+	<td>AGB 6 Pin Connector</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R29</td>
+	<td>Resistor 18kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R35</td>
+	<td>Resistor 100kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R21</td>
+	<td>Resistor 330Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R22</td>
+	<td>Resistor 330Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R23</td>
+	<td>Resistor 330Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R24</td>
+	<td>Resistor 330Ω</td>
   </tr>
   <tr>
     <td></td>
