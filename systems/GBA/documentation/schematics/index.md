@@ -1,4 +1,5 @@
 <link href="css/zoom.css" rel="stylesheet">
+<script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/zoom.js"></script>
 <script src="js/transition.js"></script>
 
