@@ -5,6 +5,7 @@
 $(document).ready( function () {
     $('#AGBTable').DataTable( {
         paging: false,
+		searching: true,
 		dom: 'tpri'
     } );
 } );
@@ -452,28 +453,28 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>F105Z/15V(2125)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R15</td>
+	<td>Resistor 33kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>VR1</td>
+	<td>50K(VR)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>P2</td>
+	<td>LCD Connector</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C13</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C14</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>U7</td>
+	<td>AGB-LCD</td>
   </tr>
   <tr>
     <td></td>
