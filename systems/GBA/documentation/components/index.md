@@ -1,14 +1,22 @@
 <link href="table.css" rel="stylesheet">
-<script src="table.js"></script>
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+<script>
+$(document).ready( function () {
+    $('#AGBTable').DataTable();
+} );
+</script>
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
 <input type="text" id="AGBInput" onkeyup="AGBFunction()" placeholder="Search for Component/Part Number">
 
-<table id="AGBTable">
-  <tr class="header">
-    <th style="width:60%;">Component</th>
-    <th style="width:40%;">Part number</th>
-  </tr>
+<table id="AGBTable" class="display">
+ <thread>
+     <tr>
+	     <th>Component</th>
+		 <th>Part Number</th>
+	 </tr>
+ </thread>
+ <tbody>
   <tr>
     <td>DA1</td>
     <td>DA204U</td>
@@ -229,6 +237,7 @@
     <td></td>
 	<td></td>
   </tr>
+ </tbody>
 </table>
 
 <onebutton>
