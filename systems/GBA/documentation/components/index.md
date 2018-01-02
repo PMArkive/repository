@@ -18,8 +18,6 @@ $('#AGBInput').on( 'keyup', function () {
 } );
 </script>
 
-</script>
-
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
 <input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
@@ -309,40 +307,40 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>AGB-CPU</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R38</td>
+	<td>Resistor 47Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R39</td>
+	<td>Resistor 47Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C7</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C2</td>
+	<td>Unknown</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C1</td>
+	<td>Unknown</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R40</td>
+	<td>Resistor 15Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R6</td>
+	<td>Resistor 100kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R2</td>
+	<td>Resistor 10kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R1</td>
+	<td>Resistor 1.5MΩ</td>
   </tr>
   <tr>
     <td></td>
