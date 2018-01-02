@@ -4,8 +4,8 @@
 <script>
 $(document).ready( function () {
     $('#AGBTable').DataTable();
-        "paging":   false,
-		"searching: false
+        paging:   false,
+		searching: false
 } );
 </script>
 
