@@ -1,11 +1,6 @@
 var input = document.getElementById("AGBInput");
 var table = document.getElementById("AGBTable");
 
-// Do event binding in JavaScript, not HTML
-input.addEventListener("keyup", filter);
-input.addEventListener("search", filter);
-
-// Get all rows, except the header and convert to array so .forEach() can be used to loop
 var rows = Array.prototype.slice.call(table.querySelectorAll("tr:not(.header)"));  
 
 function AGBFunction() {
