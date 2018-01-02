@@ -4,8 +4,8 @@
 <script>
 $(document).ready( function () {
     $('#AGBTable').DataTable( {
-        searching: false,
-        paging: false
+        paging: false,
+		dom: 'lrtip'
     } );
 } );
 </script>
@@ -384,40 +384,40 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>KSS Oscillator 4.194304MHz</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C52</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C53</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C15</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C16</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C5</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C34</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C6</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>U2</td>
+	<td>AGB-SRAM</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C8</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
     <td></td>
