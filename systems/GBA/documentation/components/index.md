@@ -5,7 +5,7 @@
 $(document).ready( function () {
     $('#AGBTable').DataTable( {
         paging: false,
-		dom: 'lrtip'
+		dom: f
     } );
 } );
 </script>
@@ -420,20 +420,20 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C1</td>
+	<td>F103Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C2</td>
+	<td>F105Z/10V(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R36</td>
+	<td>Resistor 270Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>U3</td>
+	<td>AGB-REG</td>
   </tr>
   <tr>
     <td></td>
