@@ -593,19 +593,19 @@ function searchFunction() {
 	<td>Headphone Jack</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM4</td>
+	<td>BLM11B252SD(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM5</td>
+	<td>BLM11B252SD(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM6</td>
+	<td>BLM11B252SD(1608)</td>
   </tr>
   <tr>
-    <td></td>
+    <td>CP</td>
 	<td></td>
   </tr>
   <tr>
