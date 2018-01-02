@@ -11,15 +11,18 @@ $(document).ready( function () {
 </script>
 
 <script>
-function searchMe() {
-    var table = $('#AGBTable').DataTable();
+var table = $('#AGBTable').DataTable();
+
+$('#AGBInput').on( 'keyup', function () {
     table.search( this.value ).draw();
-};
+} );
+</script>
+
 </script>
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
-<input type="text" id="AGBInput" onkeyup="searchMe()" placeholder="Search for Component/Part Number">
+<input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
 
 <table id="AGBTable" class="display">
     <thead>
@@ -292,6 +295,86 @@ function searchMe() {
   <tr>
     <td>C30</td>
 	<td>F105Z/10V(1608)</td>
+  </tr>
+  <tr>
+    <td>C61</td>
+	<td>F105Z/10V(1608)</td>
+  </tr>
+  <tr>
+    <td>Q11</td>
+	<td>DTC114YUA(10k/47k)</td>
+  </tr>
+  <tr>
+    <td>U1</td>
+	<td>AGB-CPU</td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
   </tr>
   <tr>
     <td></td>
