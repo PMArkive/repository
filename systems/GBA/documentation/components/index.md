@@ -321,14 +321,6 @@ function searchFunction() {
 	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td>C2</td>
-	<td>Unknown</td>
-  </tr>
-  <tr>
-    <td>C1</td>
-	<td>Unknown</td>
-  </tr>
-  <tr>
     <td>R40</td>
 	<td>Resistor 15Ω</td>
   </tr>
