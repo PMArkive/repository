@@ -11,10 +11,12 @@ $(document).ready( function () {
 </script>
 
 <script>
-oTable = $('#AGBTable').DataTable();
-$('#AGBInput').keyup(function(){
-      oTable.search($(this).val()).draw() ;
-})
+var table = $('#AGBTable').DataTable();
+ 
+// #AGBInput is a <input type="text"> element
+$('#AGBInput').on( 'keyup', function () {
+    table.search( this.value ).draw();
+} );
 </script>
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
@@ -378,8 +380,8 @@ $('#AGBInput').keyup(function(){
 	<td>CH330J/50V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>X1</td>
+	<td>KSS Oscillator 4.194304MHz</td>
   </tr>
   <tr>
     <td></td>
