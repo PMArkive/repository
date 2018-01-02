@@ -228,20 +228,20 @@ $('#AGBInput').keyup(function(){
 	<td>IC</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C17</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM3</td>
+	<td>HW601(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM1</td>
+	<td>ACM4532-102-3P</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM2</td>
+	<td>ACM4532-102-3P</td>
   </tr>
   <tr>
     <td></td>
