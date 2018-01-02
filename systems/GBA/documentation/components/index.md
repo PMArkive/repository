@@ -70,12 +70,64 @@
 	<td>470uF/6.3V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>DL1</td>
+	<td>SML311UT</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>DL2</td>
+	<td>SML310MT</td>
+  </tr>
+  <tr>
+    <td>D1</td>
+	<td>MA112</td>
+  </tr>
+  <tr>
+    <td>D2</td>
+	<td>RB411D</td>
+  </tr>
+  <tr>
+    <td>D3</td>
+	<td>RB491D</td>
+  </tr>
+  <tr>
+    <td>F1</td>
+	<td>4341.25</td>
+  </tr>
+  <tr>
+    <td>R13</td>
+	<td>Resistor 150Ω</td>
+  </tr>
+  <tr>
+    <td>R33</td>
+	<td>Resistor 5.1Ω</td>
+  </tr>
+  <tr>
+    <td>C25</td>
+	<td>B474K/6.3V(1608)</td>
+  </tr>
+  <tr>
+    <td>C23</td>
+	<td>B104K/6.3V</td>
+  </tr>
+  <tr>
+    <td>C22</td>
+	<td>B104K/6.3V</td>
+  </tr>
+  <tr>
+    <td>C26</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C24</td>
+	<td>B105K/6.3V(1608)</td>
+  </tr>
+  <tr>
+    <td>C27</td>
+	<td>F475Z/10V(2125)</td>
+  </tr>
+  <tr>
+    <td>C40</td>
+	<td>F104Z/16V</td>
   </tr>
   <tr>
     <td></td>
