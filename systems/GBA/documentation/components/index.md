@@ -25,7 +25,7 @@ $('#AGBInput').keyup(function(){
         </tr>
     </thead>
     <tbody>
-        <tr>
+  <tr>
     <td>DA1</td>
     <td>DA204U</td>
   </tr>
