@@ -11,8 +11,8 @@ $(document).ready( function () {
 </script>
 
 <script>
-var table = $('#AGBTable').DataTable();
 function searchMe() {
+    var table = $('#AGBTable').DataTable();
     table.search( this.value ).draw();
 };
 </script>
@@ -286,12 +286,12 @@ function searchMe() {
 	<td>Resistor 330Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>EM7</td>
+	<td>HW601(1608)</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C30</td>
+	<td>F105Z/10V(1608)</td>
   </tr>
   <tr>
     <td></td>
