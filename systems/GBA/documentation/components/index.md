@@ -11,16 +11,17 @@ $(document).ready( function () {
 </script>
 
 <script>
-var table = $('#AGBTable').DataTable();
+function searchFunction() {
 
-$('#AGBInput').on( 'keyup', function () {
-    table.search( this.value ).draw();
+    var table = $('#AGBTable').DataTable();
+	var input = document.getElementById("AGBInput");
+    table.search( input.value ).draw();
 } );
 </script>
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
-<input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
+<input type="text" id="AGBInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
 
 <table id="AGBTable" class="display">
     <thead>
@@ -343,28 +344,28 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>Resistor 1.5MΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R5</td>
+	<td>Resistor 100kΩ</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C62</td>
+	<td>F103Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R43</td>
+	<td>Resistor 15Ω</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C63</td>
+	<td>F103Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>C64</td>
+	<td>F103Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>R44</td>
+	<td>Resistor 15Ω</td>
   </tr>
   <tr>
     <td></td>
