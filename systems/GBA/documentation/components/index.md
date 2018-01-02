@@ -99,7 +99,7 @@ $(document).ready( function () {
   </tr>
   <tr>
     <td>F1</td>
-	<td>4341.25</td>
+	<td>Fuse 4341.25</td>
   </tr>
   <tr>
     <td>R13</td>
