@@ -203,7 +203,27 @@
   </tr>
   <tr>
     <td>C55</td>
-	<td>F104>/16V</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>U4</td>
+	<td>IC</td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
   </tr>
   <tr>
     <td></td>
