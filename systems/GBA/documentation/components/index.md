@@ -6,6 +6,7 @@ $(document).ready( function () {
     $('#AGBTable').DataTable( {
         paging: false,
 		searching: true,
+		dom: 'tpri'
     } );
 } );
 </script>
@@ -570,6 +571,70 @@ function searchFunction() {
   <tr>
     <td>C50</td>
 	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C47</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C46</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C45</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>SP1</td>
+	<td>Speaker</td>
+  </tr>
+  <tr>
+    <td>P3</td>
+	<td>Headphone Jack</td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td></td>
   </tr>
   <tr>
     <td></td>
