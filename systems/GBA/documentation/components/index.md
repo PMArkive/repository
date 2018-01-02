@@ -10,14 +10,6 @@ $(document).ready( function () {
 
 <input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
 
-
-<script>
-AGBDataTable = $('#AGBTable').DataTable();
-$('#AGBInput').keyup(function(){
-      AGBDataTable.search($(this).val()).draw() ;
-})
-</script>
-
 <table id="AGBTable" class="display">
     <thead>
         <tr>
