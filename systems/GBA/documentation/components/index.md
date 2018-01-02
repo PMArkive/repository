@@ -20,7 +20,7 @@ function searchFunction() {
 };
 </script>
 
-## A Searchable table of components that the Gameboy Advance(AGB) uses.
+## A full table of every AGB component and their part names.
 
 <input type="text" id="AGBInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
 
