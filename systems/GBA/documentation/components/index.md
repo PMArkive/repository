@@ -21,7 +21,7 @@ $('#AGBInput').on( 'keyup', function () {
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
-<input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
+<input type="search" id="AGBInput" placeholder="Search for Component/Part Number">
 
 <table id="AGBTable" class="display">
     <thead>
@@ -508,8 +508,8 @@ $('#AGBInput').on( 'keyup', function () {
 	<td>F104Z/16V</td>
   </tr>
   <tr>
-    <td></td>
-	<td></td>
+    <td>DZ1</td>
+	<td>RD4.7S B1</td>
   </tr>
   <tr>
     <td></td>
