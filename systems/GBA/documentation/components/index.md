@@ -175,63 +175,39 @@
   </tr>
   <tr>
     <td>R32</td>
-	<td>Resistor 1M Ω</td>
+	<td>Resistor 1MΩ</td>
   </tr>
   <tr>
     <td>C44</td>
-	<tr>B225K/6.3V(2125)</td>
+	<td>B225K/6.3V(2125)</td>
+  </tr>
+  <tr>
+    <td>R25</td>
+	<td>Resistor 47Ω</td>
+  </tr>
+  <tr>
+    <td>R26</td>
+	<td>Resistor 15kΩ</td>
+  </tr>
+  <tr>
+    <td>R10</td>
+	<td>Resistor 470Ω</td>
+  </tr>
+  <tr>
+    <td>R18</td>
+	<td>Resistor 33kΩ</td>
+  </tr>
+  <tr>
+    <td>U10</td>
+	<td>UMG3N(4.7K/-)</td>
+  </tr>
+  <tr>
+    <td>C55</td>
+	<td>F104>/16V</td>
   </tr>
   <tr>
     <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
-  </tr>
-  <tr>
-    <td></td>
-	<tr></td>
+	<td></td>
   </tr>
 </table>
 
