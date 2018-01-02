@@ -3,10 +3,10 @@
 <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
 <script>
 $(document).ready( function () {
-    $('#AGBTable').DataTable();
-        "paging": false,
-		"searching": false
-} );
+    $('#example').dataTable( {
+	    searching: false,
+        paging: false
+    } );
 </script>
 
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
