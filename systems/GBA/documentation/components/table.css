@@ -26,7 +26,7 @@
     border-bottom: 1px solid #ddd; 
 }
 
-#AGBTable tr.header, #myTable tr:hover {
+#AGBTable tr.header, #AGBTable tr:hover {
     /* Add a grey background color to the table header and on hover */
     background-color: #f1f1f1;
 }
