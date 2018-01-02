@@ -4,7 +4,7 @@
 <script>
 $(document).ready( function () {
     $('#AGBTable').DataTable();
-        paging:   false,
+        paging: false,
 		searching: false
 } );
 </script>
