@@ -1,6 +1,6 @@
-<link href="assets/css/zoom.css" rel="stylesheet">
-<script src="assets/js/zoom.js"></script>
-<script src="assets/js/transition.js"></script>
+<link href="css/zoom.css" rel="stylesheet">
+<script src="js/zoom.js"></script>
+<script src="js/transition.js"></script>
 
 ## AGB Circuit
 <img src="circuit.bmp" alt="Main Circuit">
