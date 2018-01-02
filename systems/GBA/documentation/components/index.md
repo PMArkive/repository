@@ -130,8 +130,108 @@
 	<td>F104Z/16V</td>
   </tr>
   <tr>
+    <td>C41</td>
+	<td>F104Z/16V</td>
+  </tr>
+  <tr>
+    <td>C36</td>
+	<td>F105Z/16V(2125)</td>
+  </tr>
+  <tr>
+    <td>C35</td>
+	<td>F105Z/16V(2125)</td>
+  </tr>
+  <tr>
+    <td>C56</td>
+	<td>B225K/6.3V(2125)</td>
+  </tr>
+  <tr>
+    <td>C57</td>
+	<td>F105Z/10V(1608)</td>
+  </tr>
+  <tr>
+    <td>R34</td>
+	<td>Resistor 15kΩ</td>
+  </tr>
+  <tr>
+    <td>R11</td>
+	<td>Resistor 150Ω</td>
+  </tr>
+  <tr>
+    <td>R12</td>
+	<td>Resistor 150Ω</td>
+  </tr>
+  <tr>
+    <td>L1</td>
+	<td>SLF7045T/100uH</td>
+  </tr>
+  <tr>
+    <td>C43</td>
+	<td>B475K/6.3V(2125)</td>
+  </tr>
+  <tr>
+    <td>C37</td>
+	<td>F103Z/16V</td>
+  </tr>
+  <tr>
+    <td>R32</td>
+	<td>Resistor 1M Ω</td>
+  </tr>
+  <tr>
+    <td>C44</td>
+	<tr>B225K/6.3V(2125)</td>
+  </tr>
+  <tr>
     <td></td>
-	<td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
+  </tr>
+  <tr>
+    <td></td>
+	<tr></td>
   </tr>
 </table>
 
