@@ -6,9 +6,16 @@ $(document).ready( function () {
     $('#AGBTable').DataTable();
 } );
 </script>
+<script>
+AGBDataTable = $('#AGBTable').DataTable();
+$('#AGBInput').keyup(function(){
+      AGBDataTable.search($(this).val()).draw() ;
+})
+</script>
+
 ## A Searchable table of components that the Gameboy Advance(AGB) uses.
 
-<input type="text" id="AGBInput" onkeyup="AGBFunction()" placeholder="Search for Component/Part Number">
+<input type="text" id="AGBInput" placeholder="Search for Component/Part Number">
 
 <table id="AGBTable" class="display">
  <thread>
