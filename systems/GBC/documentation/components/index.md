@@ -1,0 +1,478 @@
+<link href="table.css" rel="stylesheet">
+<script src="jquery-3.2.1.min.js"></script>
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+<script>
+$(document).ready( function () {
+    $('#GBCTable').DataTable( {
+        paging: false,
+		searching: true,
+		dom: 'tpri'
+    } );
+} );
+</script>
+
+<script>
+function searchFunction() {
+
+    var table = $('#GBCTable').DataTable();
+	var input = document.getElementById("GBCInput");
+    table.search( input.value ).draw();
+};
+</script>
+
+## A full table of every GBC component and their part numbers.
+
+<input type="text" id="GBCInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
+
+<table id="GBCTable" class="display">
+    <thead>
+        <tr>
+            <th>Component</th>
+            <th>Part Number</th>
+        </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>P3</td>
+    <td>EXT Connector</td>
+  </tr>
+  <tr>
+    <td>EM9</td>
+    <td>BLM11B102S(1608)</td>
+  </tr>
+  <tr>
+    <td>FB1</td>
+    <td>4W601</td>
+  </tr>
+  <tr>
+    <td>C9</td>
+    <td>0.01µF/50V</td>
+  </tr>
+  <tr>
+    <td>R9</td>
+    <td>Resistor 150Ω(1/10W)</td>
+  </tr>
+  <tr>
+    <td>D3</td>
+    <td>GL381J2</td>
+  </tr>
+  <tr>
+    <td>R10</td>
+    <td>Resistor 1kΩ</td>
+  </tr>
+  <tr>
+    <td>C3</td>
+    <td>0.47µF/10V</td>
+  </tr>
+  <tr>
+    <td>Q3</td>
+    <td>2SC4081</td>
+  </tr>
+  <tr>
+    <td>C4</td>
+    <td>22pF/50V</td>
+  </tr>
+  <tr>
+    <td>C5</td>
+    <td>100pF/50V</td>
+  </tr>
+  <tr>
+    <td>C6</td>
+    <td>100pF/50V</td>
+  </tr>
+  <tr>
+    <td>C7</td>
+    <td>100pF/50V</td>
+  </tr>
+  <tr>
+    <td>RA3</td>
+    <td>Resistor 270Ω</td>
+  </tr>
+  <tr>
+    <td>R26</td>
+    <td>Resistor 5.6kΩ</td>
+  </tr>
+  <tr>
+    <td>R0</td>
+    <td>Resistor 45Ω</td>
+  </tr>
+  <tr>
+    <td>R1</td>
+    <td>Resistor 46Ω</td>
+  </tr>
+  <tr>
+    <td>R2</td>
+    <td>Resistor 47Ω</td>
+  </tr>
+  <tr>
+    <td>R3</td>
+    <td>Resistor 48Ω</td>
+  </tr>
+  <tr>
+    <td>R4</td>
+    <td>Resistor 96Ω</td>
+  </tr>
+  <tr>
+    <td>R15</td>
+    <td>Resistor 1MΩ</td>
+  </tr>
+  <tr>
+    <td>C12</td>
+    <td>33pF/50V</td>
+  </tr>
+  <tr>
+    <td>R13</td>
+    <td>Resistor 200kΩ</td>
+  </tr>
+  <tr>
+    <td>R12</td>
+    <td>Resistor 4.7kΩ</td>
+  </tr>
+  <tr>
+    <td>Q5</td>
+    <td>PT38DF</td>
+  </tr>
+  <tr>
+    <td>Q4</td>
+    <td>2SC40B1</td>
+  </tr>
+  <tr>
+    <td>C11</td>
+    <td>0.015µF/25V</td>
+  </tr>
+  <tr>
+    <td>R14</td>
+    <td>Resistor 2kΩ</td>
+  </tr>
+  <tr>
+    <td>R23</td>
+    <td>Resistor 33kΩ</td>
+  </tr>
+  <tr>
+    <td>C42</td>
+    <td>1µF/10V</td>
+  </tr>
+  <tr>
+    <td>R24</td>
+    <td>Resistor 33kΩ</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+ </tbody>
+</table>
+
+<onebutton>
+<ul>
+            <li><a href="../">Go<strong>Back</strong></a></li>
+          </ul>
+</onebutton>
