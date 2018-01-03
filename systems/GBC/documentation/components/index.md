@@ -20,15 +20,15 @@ function searchFunction() {
 };
 </script>
 
-## A full table of every GBC component and their part numbers.
+## A full table of every GBC component and their part numbers/specification.
 
-<input type="text" id="GBCInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
+<input type="text" id="GBCInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number/Spesification">
 
 <table id="GBCTable" class="display">
     <thead>
         <tr>
             <th>Component</th>
-            <th>Part Number</th>
+            <th>Part Number/Spesification</th>
         </tr>
     </thead>
     <tbody>

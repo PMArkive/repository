@@ -20,15 +20,15 @@ function searchFunction() {
 };
 </script>
 
-## A full table of every AGB component and their part numbers.
+## A full table of every AGB component and their part numbers/specification.
 
-<input type="text" id="AGBInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
+<input type="text" id="AGBInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number/Specification">
 
 <table id="AGBTable" class="display">
     <thead>
         <tr>
             <th>Component</th>
-            <th>Part Number</th>
+            <th>Part Number/Specification</th>
         </tr>
     </thead>
     <tbody>
