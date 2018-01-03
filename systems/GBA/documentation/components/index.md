@@ -20,7 +20,7 @@ function searchFunction() {
 };
 </script>
 
-## A full table of every AGB component and their part names.
+## A full table of every AGB component and their part numbers.
 
 <input type="text" id="AGBInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number">
 
