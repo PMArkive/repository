@@ -117,64 +117,104 @@ function searchFunction() {
     <td>DMG Link Port</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C2</td>
+    <td>100µ/10V</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C21</td>
+    <td>27µF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C22</td>
+    <td>27µF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C20</td>
+    <td>100pF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C10</td>
+    <td>0.1µ</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C16</td>
+    <td>100pF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C17</td>
+    <td>100pF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C18</td>
+    <td>100pF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C19</td>
+    <td>100pF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C1</td>
+    <td>100µ/10V</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C11</td>
+    <td>0.01µ</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C12</td>
+    <td>0.01µF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C13</td>
+    <td>0.01µF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C14</td>
+    <td>0.01µF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>C15</td>
+    <td>0.01µ</td>
+  </tr>
+  <tr>
+    <td>C4</td>
+	<td>1µ/50V</td>
+  </tr>
+  <tr>
+    <td>C3</td>
+	<td>1µ/50V</td>
+  </tr>
+  <tr>
+    <td>VR1</td>
+	<td>10Kx2</td>
+  </tr>
+  <tr>
+    <td>C9</td>
+	<td>0.047µF</td>
+  </tr>
+  <tr>
+    <td>C7</td>
+	<td>0.047µF</td>
+  </tr>
+  <tr>
+    <td>C6</td>
+	<td>10µF/15V</td>
+  </tr>
+  <tr>
+    <td>C5</td>
+	<td>10µF/16V</td>
+  </tr>
+  <tr>
+    <td>C8</td>
+	<td>0.047µF</td>
+  </tr>
+  <tr>
+    <td>D1</td>
+	<td>Unsure/Diode</td>
+  </tr>
+  <tr>
+    <td>D2</td>
+	<td>Unsure/Diode</td>
   </tr>
  </tbody>
 </table>
