@@ -2,9 +2,9 @@
 ## GBA Repository
 <threebutton>
 <ul>
-            <li><a href="./components/">View<strong>Components</strong></a></li>
+            <li><a href="./ags-001-screen-light-assembly-into-og-gba-mod.368171/">View<strong>Front Light</strong></a></li>
             <li><a href="./schematics/">View<strong>Schematics</strong></a></li>
-            <li><a href="./WebMirrors/">View<strong>Web Mirrors</strong></a></li>
+            <li><a href="./gbamp3/index.html">View<strong>GBAmp3</strong></a></li>
           </ul>
 </threebutton>
 <onebutton>
