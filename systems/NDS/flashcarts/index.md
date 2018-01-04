@@ -135,7 +135,7 @@ Note: Virus scans might contain False Positives.
             <li><a href="EZ-FlashIV.zip">EZ-Flash IV</a></li>
             <li><a href="http://www.ezflash.cn/">Homepage</a></li>
             <li>DSi Compatible: No(Requires GBA Slot)</li>
-            <li>Version: 2.03</li>
+            <li>Version: 2.05</li>
 			<li><a href="https://www.virustotal.com/#/file/8881506392478848b57c7726924ea8437c6b0cd5b51715577682b563333523c5/detection">Virus Scan</a></li>
 </ul>
 ---------------------------------------
