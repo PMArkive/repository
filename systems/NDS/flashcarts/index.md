@@ -339,7 +339,7 @@ Note: Virus scans might contain False Positives.
 </ul>
 ---------------------------------------
 <ul>
-            <li><a href="N-Card.zip"></a></li>
+            <li><a href="N-Card.zip">N-Card</a></li>
             <li>DSi Compatible: No</li>
             <li>Version: v25</li>
 			<li><a href="https://www.virustotal.com/#/file/e88ae06f7ea692aae7814d2b5dc7257ba60ef9838cac40acebc375eac530e7c8/detection">Virus Scan</a></li>
@@ -439,6 +439,14 @@ Note: Virus scans might contain False Positives.
             <li>DSi Compatible: Unknown</li>
             <li>Version: 1.45</li>
 			<li><a href="https://www.virustotal.com/#/file/e22c40e6bc5f95814580ef4f9f4b179df09c5ad0683d8fd52062519ac1180617/detection">Virus Scan</a></li>
+</ul>
+---------------------------------------
+<ul>
+            <li><a href="R4i_RTS_3DS.zip">R4i RTS 3DS</a></li>
+			<li><a href="http://r4ids.cn/">Homepage</a></li>
+            <li>DSi Compatible: Yes (3DS Compatible)</li>
+            <li>Version: 1.64</li>
+			<li><a href="https://www.virustotal.com/#/file/5e36a6389b2641bf2569d3e232c4ef3cdd452a5f7d5d8c93aae5a0bd56d678cd/detection">Virus Scan</a></li>
 </ul>
 ---------------------------------------
 
