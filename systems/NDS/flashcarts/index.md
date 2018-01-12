@@ -336,7 +336,7 @@ Note: Scans might contain False Positives.
 		<td><a href="http://r4-usas.com/">Website</a></td>
 		<td>Yes</td>
 		<td>3.9b</td>
-		<td>https://www.virustotal.com/#/file/87199364c910763689d0497ddec36d83f6169a1d613e831cb00980ab3162dc00/detection">Scan</a></td>
+		<td><a href="https://www.virustotal.com/#/file/87199364c910763689d0497ddec36d83f6169a1d613e831cb00980ab3162dc00/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="R4DS.zip">R4 DS</a></td>
