@@ -24,7 +24,7 @@ function searchFunction() {
 
 Note: Scans might contain False Positives.
 
-<input type="text" id="FlashInput" onkeyup="searchFunction()" placeholder="Search for Component/Part Number/Specification">
+<input type="text" id="FlashInput" onkeyup="searchFunction()" placeholder="Search for Flashcarts">
 
 <table id="FlashTable" class="display">
     <thead>
