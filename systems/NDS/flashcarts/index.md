@@ -297,102 +297,130 @@ Note: Scans might contain False Positives.
 		<td><a href="https://www.virustotal.com/#/file/eae83fdf02f738d256549156b59b7ffc55b1d999eee775bd70d179d1e20b4a14/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="MaxMediaPlayer.zip">Max Media Player</a></td>
+		<td><a href="http://us.codejunkies.com/mpds/index.htm">Website</a></td>
+		<td>N/A</td>
+		<td>1.22</td>
+		<td><a href="https://www.virustotal.com/#/file/525449834667955d61c9498d4cd66b865c28ef9f2edbcfaf11c28320185124a6/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="MK5.zip">MK5</a></td>
+		<td><a href="http://www.neoflash.com">Website</a></td>
+		<td>No</td>
+		<td>2.56</td>
+		<td><a href="https://www.virustotal.com/#/file/7b3ad8014471443a6501ff4de68f0222322dcc6324069c27cbf2cb6614e12472/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="N5.zip">N5</a></td>
+		<td><a href="http://www.dsn5.com/EN-N5/n5-en.htm">Website</a></td>
+		<td>N/A</td>
+		<td>1.32</td>
+		<td><a href="https://www.virustotal.com/#/file/fb2e9b0a72fc08bd06f53d53d28a8a5d7d2501eb8c7a70185c2cb1b73ae2b1d0/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="N5i.zip">N5i</a></td>
+		<td><a href="http://www.dsn5.com/EN-N5/n5-en.htm">Website</a></td>
+		<td>Yes</td>
+		<td>2.03</td>
+		<td><a href="https://www.virustotal.com/#/file/9506fefc273ef3f2c751adb332813fb1aca20b2b5c4b6f9365c513c87e069d6b/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="N-Card.zip">N-Card</a></td>
+		<td>N/A</td>
+		<td>No</td>
+		<td>v25</td>
+		<td><a href="https://www.virustotal.com/#/file/e88ae06f7ea692aae7814d2b5dc7257ba60ef9838cac40acebc375eac530e7c8/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="R43DS.zip">R4 3DS Upgrade SDHC Dual-Core RTS</a></td>
+		<td><a href="http://r4-usas.com/">Website</a></td>
+		<td>Yes</td>
+		<td>3.9b</td>
+		<td>https://www.virustotal.com/#/file/87199364c910763689d0497ddec36d83f6169a1d613e831cb00980ab3162dc00/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="R4DS.zip">R4 DS</a></td>
+		<td><a href="http://www.r4ds.com/">Website</a></td>
+		<td>No</td>
+		<td>1.62</td>
+		<td><a href="https://www.virustotal.com/#/file/5c4dc90c03ebd82af786deefbcbf80940dc21e1159379db8448d962de9de9c07/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="R4SDHCUpgrade.zip">R4 SDHC Upgrade</a></td>
+		<td><a href="http://www.r4i-sdhc.com/">Website</a></td>
+		<td>No</td>
+		<td>1.27b</td>
+		<td><a href="https://www.virustotal.com/#/file/6668835406235ba2b215db811f8b25616c554770e99fa178617b2dbb02a96e33/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="R4Ultra.zip">R4 Ultra</a></td>
+		<td><a href="http://www.r4ultra.com">Website</a></td>
+		<td>N/A</td>
+		<td>1.56</td>
+		<td><a href="https://www.virustotal.com/#/file/cc17c9d1156f2d6549be3dc1eb962276d495f8c7ef0e94b5f1b9aa885b555778/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="SuperR4i.zip">Super R4i</a></td>
+		<td><a href="http://www.super4i.com/">Website</a></td>
+		<td>Yes</td>
+		<td>1.20</td>
+		<td><a href="https://www.virustotal.com/#/file/d29fb6c767c7e0561625b8edc3ea7658548e1cf6294820aea416025365ea99ff/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="SuperCardDSONE.zip">SuperCard DSONE</a></td>
+		<td><a href="http://eng.supercard.sc/">Website</a></td>
+		<td>No</td>
+		<td>1.0</td>
+		<td><a href="https://www.virustotal.com/#/file/976d949f38d2e0eb04c59f9e1a63842a80257bda2971be86c22078c027b06607/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="SuperCardDSONE.zip">SuperCard DSONE v3</a></td>
+		<td><a href="http://eng.supercard.sc/">Website</a></td>
+		<td>No</td>
+		<td>1.0</td>
+		<td><a href="https://www.virustotal.com/#/file/976d949f38d2e0eb04c59f9e1a63842a80257bda2971be86c22078c027b06607/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="SuperCardDSONEi.zip">SuperCard DSONEi</a></td>
+		<td><a href="http://eng.supercard.sc/">Website</a></td>
+		<td>Yes</td>
+		<td>1.0|1.1|1.4.1</td>
+		<td><a href="https://www.virustotal.com/#/file/be4e5174942947c28823c57dcd9227361b9a6b8135c3d4357a3c171eaf619872/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="SuperCardDSTWO.zip">SuperCard DSTWO</a></td>
+		<td>N/A</td>
+		<td>Yes</td>
+		<td>1.30</td>
+		<td><a href="https://www.virustotal.com/#/file/61157adf51692dd680320c1e9e39516c894ee5c8ebee9d1a29eadd8bb06785a0/detection">Scan</a></td>
+	</tr>
+    <tr>
+	    <td><a href="TTiUpgrade.zip">TTi Upgrade</a></td>
+		<td><a href="http://www.nds-tti.com">Website</a></td>
+		<td>Yes</td>
+		<td>1.19</td>
+		<td><a href="https://www.virustotal.com/#/file/167bb060fe7588c1afd649aabd388489c71ccf2f8f3b55e25969fa01418e4f09/detection">Scan</a></td>
+	</tr>
+    <tr>
+	    <td><a href="U2DS.zip">U2DS</a></td>
+		<td><a href="http://www.u2ds.com/">Website</a></td>
+		<td>N/A</td>
+		<td>1.7c</td>
+		<td><a href="https://www.virustotal.com/#/file/2d971101b40188b980a443d1f82bfdd183e8af73ab2d60612994aba93462ac08/detection">Scan</a></td>
+	</tr>
+    <tr>
+	    <td><a href="UltraFlashpassEx.zip">Ultra Flashpass Ex</a></td>
+		<td><a href="http://www.ndsgba.net/">Website</a></td>
+		<td>N/A</td>
+		<td>1.45</td>
+		<td><a href="https://www.virustotal.com/#/file/e22c40e6bc5f95814580ef4f9f4b179df09c5ad0683d8fd52062519ac1180617/detection">Scan</a></td>
+	</tr>
+    <tr>
+	    <td><a href="R4i_RTS_3DS.zip">R4i RTS 3DS</a></td>
+		<td><a href="http://r4ids.cn/">Website</a></td>
+		<td>Yes</td>
+		<td>1.64</td>
+		<td><a href="https://www.virustotal.com/#/file/5e36a6389b2641bf2569d3e232c4ef3cdd452a5f7d5d8c93aae5a0bd56d678cd/detection">Scan</a></td>
 	</tr>
  </tbody>
 </table>
