@@ -108,32 +108,32 @@ Note: Scans might contain False Positives.
 		<td><a href="https://www.virustotal.com/#/file/53599e749ff0ab7dc3b4dad0511f11fe04eca27948c8410ded48a9b80f279284/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DSTT.zip">DSTT</a></td>
+		<td><a href="http://www.ndstt.com/">Website</a></td>
+		<td>Yes</td>
+		<td>N/A</td>
+		<td><a href="https://www.virustotal.com/#/file/5ff790beb2def9b2d6501aab620bd62b92157015044f2ddd0a429c2cf19685d9/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DSTTi.zip">DSTTi</a></td>
+		<td>><a href="http://www.ndstt.com/">Website</a></td>
+		<td>Yes</td>
+		<td>1.4.1</td>
+		<td><a href="https://www.virustotal.com/#/file/5ff790beb2def9b2d6501aab620bd62b92157015044f2ddd0a429c2cf19685d9/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DS-Xtreme.zip">DS-Xtreme</a></td>
+		<td><a href="http://www.ds-x.com/">Website</a></td>
+		<td>No</td>
+		<td>1.1.3</td>
+		<td><a href="https://www.virustotal.com/#/file/42da2af0402216452f76860014af0b332dfe51c48aafb4cb5a03c9601cc6ee76/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="E7.zip">E7</a></td>
+		<td>N/A</td>
+		<td>No</td>
+		<td>2.01</td>
+		<td><a href="https://www.virustotal.com/#/file/8177fb04f2a6eee76907f6a6e74355bd87a6e91e83b7f5585519036e20d8fc04/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td></td>
