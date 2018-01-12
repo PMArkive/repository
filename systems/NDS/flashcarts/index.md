@@ -116,7 +116,7 @@ Note: Scans might contain False Positives.
 	</tr>
     <tr>
 	    <td><a href="DSTTi.zip">DSTTi</a></td>
-		<td>><a href="http://www.ndstt.com/">Website</a></td>
+		<td><a href="http://www.ndstt.com/">Website</a></td>
 		<td>Yes</td>
 		<td>1.4.1</td>
 		<td><a href="https://www.virustotal.com/#/file/5ff790beb2def9b2d6501aab620bd62b92157015044f2ddd0a429c2cf19685d9/detection">Scan</a></td>
@@ -136,46 +136,46 @@ Note: Scans might contain False Positives.
 		<td><a href="https://www.virustotal.com/#/file/8177fb04f2a6eee76907f6a6e74355bd87a6e91e83b7f5585519036e20d8fc04/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="EDGE.zip">EDGE</a></td>
+		<td><a href="http://www.edge-ds.cn/">Website</a></td>
+		<td>No</td>
+		<td>1.11</td>
+		<td><a href="https://www.virustotal.com/#/file/6ea7ee0e636254a18cfb945933aaa380c265f7bd59d855ce9966e176b230d9e0/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="eWin2.zip">eWin2</a></td>
+		<td><a href="http://www.ewin2.net/">Website</a></td>
+		<td>No</td>
+		<td>1.96.8</td>
+		<td><a href="https://www.virustotal.com/#/file/ffd271657722f53e2cda71daaa093e14d8ef9f3d66808ec45837b7c2400ed8ec/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="EZ-FlashIV.zip">EZ-Flash IV</a></td>
+		<td><a href="http://www.ezflash.cn/">Website</a></td>
+		<td>No</td>
+		<td>2.05</td>
+		<td><a href="https://www.virustotal.com/#/file/8881506392478848b57c7726924ea8437c6b0cd5b51715577682b563333523c5/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="EZ-FlashV.zip">EZ-Flash V</a></td>
+		<td><a href="http://www.ezflash.cn/">Website</a></td>
+		<td>No</td>
+		<td>2.0 RC20</td>
+		<td><a href="https://www.virustotal.com/#/file/21284ae2b6d2601b7474023e58f16663961646bb063492d503b4d19ec8519c15/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="EZ-FlashV.zip">EZ-Flash V+</a></td>
+		<td><a href="http://www.ezflash.cn/">Website</a></td>
+		<td>No</td>
+		<td>2.0 RC20</td>
+		<td><a href="https://www.virustotal.com/#/file/21284ae2b6d2601b7474023e58f16663961646bb063492d503b4d19ec8519c15/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="EZ-FlashVi.zip">EZ-Flash Vi</a></td>
+		<td><a href="http://www.ezflash.cn/">Website</a></td>
+		<td>Yes (3DS < 4.0.0)</td>
+		<td>3.0 ob8|108a</td>
+		<td><a href="https://www.virustotal.com/#/file/5a4ca734c46325861d9f3b2b6efb975ad90de43295670347992d71575bef352c/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td></td>
