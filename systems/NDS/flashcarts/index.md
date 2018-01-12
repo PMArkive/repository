@@ -215,7 +215,7 @@ Note: Scans might contain False Positives.
     <tr>
 	    <td><a href="iEDGE.zip">iEDGE</a></td>
 		<td><a href="http://www.edge-ds.cn/">Website</a></td>
-		<td>< 1.4</td>
+		<td><1.4</td>
 		<td>1.11</td>
 		<td><a href="https://www.virustotal.com/#/file/3f46f0ca422de4220a9e62a553127650f7e5f58ce1fce7c0b9ff699458f9871b/detection">Scan</a></td>
 	</tr>
