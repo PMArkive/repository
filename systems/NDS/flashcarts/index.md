@@ -39,73 +39,73 @@ Note: Scans might contain False Positives.
     <tbody>
     <tr>
 	    <td><a href="AceKard.zip">AceKard</a></td>
-		<td><a href="http://www.acekard.com">http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>No</td>
 		<td>1.10</td>
 		<td><a href="https://www.virustotal.com/#/file/88b88e2615f4d20aec63919a9994c1ee940e33388de2bd36340671e1469e2bc1/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="Acekard2.zip">AceKard 2</a></td>
-		<td><a href="http://www.acekard.com">"http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>No</td>
 		<td>4.23</td>
 		<td><a href="https://www.virustotal.com/#/file/037ec6bb9f6f56a5bbeaed6aebee578bf14056c02b70fcfdcfdb92c5e69aaa14/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="Acekard21.zip">Acekard 2.1</a></td>
-		<td><a href="http://www.acekard.com">"http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>No</td>
 		<td>1.8.1</td>
 		<td><a href="https://www.virustotal.com/#/file/5765a29cfa045cce9b9d5db6ef201c4baf143cf02b067e4de31e12f13594642f/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="Acekard2i.zip">Acekard 2i</a></td>
-		<td><a href="http://www.acekard.com">"http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>Yes</td>
 		<td>1.4.1</td>
 		<td><a href="https://www.virustotal.com/#/file/6c7dbe833a0b7835ed4267968e675860ccba0b4d27b845d96902fdc48fa6a0e8/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="AcekardRPG.zip">Acekard RPG</a></td>
-		<td><a href="http://www.acekard.com">"http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>No</td>
 		<td>1.16</td>
 		<td><a href="https://www.virustotal.com/#/file/6a2c63cc41db41da15c9eb459f3c0f2f13e803c4d6dece4838d3d7b3b5eeb33f/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="Acekard+.zip">Acekard+</a></td>
-		<td><a href="http://www.acekard.com">"http://www.acekard.com</a></td>
+		<td><a href="http://www.acekard.com">Website</a></td>
 		<td>No</td>
 		<td>1.15</td>
 		<td><a href="https://www.virustotal.com/#/file/42b415daa454f0705e7ce14a662362130bfd5824c629149f58c4a0e74002b687/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td><a href="CycoloDSEvo.zip">CycloDS Evolution</a></td>
-		<td><a href="http://www.cyclopsds.com">ttp://www.cyclopsds.com</a></td>
+		<td><a href="http://www.cyclopsds.com">Website</a></td>
 		<td>No</td>
 		<td>2.3|1.59|B.4</td>
 		<td><a href="https://www.virustotal.com/#/file/ecc4a0fab6cdc9f0c8203a029ae6be5b690f606405d31fc1f33ce9602cb02d93/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DSFireLink.zip">DS Fire Link</a></td>
+		<td><a href="http://dsfirelink.com">Website</a></td>
+		<td>No</td>
+		<td>1.45</td>
+		<td><a href="https://www.virustotal.com/#/file/63ad22aec84e799ea78cf8e069127f8add4d69e83c9ff12cd40b2b29d8fb4f5c/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DSLink.zip">DS Link</a></td>
+		<td><a href="http://www.ds-link.net/">Website</a></td>
+		<td>No</td>
+		<td>2.32</td>
+		<td><a href="https://www.virustotal.com/#/file/e13c9b1c208aabbbefd0c79689d5985a1d0876aaf9b36baecb78ea7fc591ecc5/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="DSLinker.zip">DSLinker</a></td>
+		<td><a href="http://www.dslinker.com/">Website</a></td>
+		<td>No</td>
+		<td>1.45</td>
+		<td><a href="https://www.virustotal.com/#/file/53599e749ff0ab7dc3b4dad0511f11fe04eca27948c8410ded48a9b80f279284/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td></td>
