@@ -174,7 +174,7 @@ Note: Scans might contain False Positives.
 	    <td><a href="EZ-FlashVi.zip">EZ-Flash Vi</a></td>
 		<td><a href="http://www.ezflash.cn/">Website</a></td>
 		<td>Yes</td>
-		<td>3.0 ob8|108a</td>
+		<td>3.0ob8|108a</td>
 		<td><a href="https://www.virustotal.com/#/file/5a4ca734c46325861d9f3b2b6efb975ad90de43295670347992d71575bef352c/detection">Scan</a></td>
 	</tr>
     <tr>
@@ -215,86 +215,86 @@ Note: Scans might contain False Positives.
     <tr>
 	    <td><a href="iEDGE.zip">iEDGE</a></td>
 		<td><a href="http://www.edge-ds.cn/">Website</a></td>
-		<td>Yes(< 1.4)</td>
+		<td>< 1.4</td>
 		<td>1.11</td>
 		<td><a href="https://www.virustotal.com/#/file/3f46f0ca422de4220a9e62a553127650f7e5f58ce1fce7c0b9ff699458f9871b/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="iPlayer.zip">iPlayer</a></td>
+		<td><a href="http://www.dsiplayer.com/">Website</a></td>
+		<td>Yes</td>
+		<td>1.06|1.41</td>
+		<td><a href="https://www.virustotal.com/#/file/52920dbf0c2e29d41df0bc7b4531e5dd610719e1bf2653a89f7eb0777451500b/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="iSmartPremium.zip">iSmart Premium</a></td>
+		<td><a href="http://ismartds.com">Website</a></td>
+		<td>Yes</td>
+		<td>1.05</td>
+		<td><a href="https://www.virustotal.com/#/file/f2c01d507db8061890636191c02ba52d76bafbc4c07109b4797bd7b2a8dcf283/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="iTouch2.zip">iTouch2</a></td>
+		<td><a href="http://www.itouchds.com/">Website</a></td>
+		<td>Yes</td>
+		<td>3.8e</td>
+		<td><a href="https://www.virustotal.com/#/file/762836f15e02cdca4aa44a3b307c6e076c5e12387791222a67a487c30de076e1/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3DS.zip">M3 DS Real</a></td>
+		<td><a href="http://m3adapter.com">Website</a></td>
+		<td>No</td>
+		<td>1.49X|4.9</td>
+		<td><a href="https://www.virustotal.com/#/file/b4fd80b7a910d9ae86eb46ed8023baf4d985754ef1bedfe0d630f085db1fd1e9/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3DS.zip">M3 Perfect</a></td>
+		<td><a href="http://m3adapter.com">Website</a></td>
+		<td>No</td>
+		<td>1.49X|4.9</td>
+		<td><a href="https://www.virustotal.com/#/file/b4fd80b7a910d9ae86eb46ed8023baf4d985754ef1bedfe0d630f085db1fd1e9/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3Simply.zip">M3 Simply</a></td>
+		<td><a href="http://m3adapter.com">Website</a></td>
+		<td>N/A</td>
+		<td>1.62</td>
+		<td><a href="https://www.virustotal.com/#/file/2ff2c74ad99bea334ccb11a523d70bd5c380e8aa8ac6fee66365f89895f9eedc/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3iSDHC.zip">M3i SDHC</a></td>
+		<td><a href="http://m3isdhc.com/">Website</a></td>
+		<td>Yes</td>
+		<td>1.4</td>
+		<td><a href="https://www.virustotal.com/#/file/8ba574ecb302ede271cb32aa09a03154a5c9e8a3a9e5213e7cbca09665f4062d/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3iUpgrade.zip">M3i Upgrade</a></td>
+		<td>N/A</td>
+		<td>Yes</td>
+		<td>1.45</td>
+		<td><a href="https://www.virustotal.com/#/file/b2d8e7cf6c1730aaf124ab9741032267dbe25fea38053cbd6ed177c15f97bee0/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3iZero.zip">M3i Zero</a></td>
+		<td><a href="http://m3adapter.com">Website</a></td>
+		<td>Yes</td>
+		<td>4.5.0|1.49X|4.9</td>
+		<td><a href="https://www.virustotal.com/#/file/3abb9a4b7af96da4ad44cda5dd6880e8c4f16be8e9b944a1cf272db997e9be97/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="M3lUpgrade.zip">M3l Upgrade</a></td>
+		<td><a href="http://m3iupgrade.com/">Website</a></td>
+		<td>Yes</td>
+		<td>1.45</td>
+		<td><a href="https://www.virustotal.com/#/file/4ab30ab38876e94b5f387a53f8b7c2dd8154347a59dfa1af930f57a1a123b87f/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="MARS.zip">MARS</a></td>
+		<td>N/A</td>
+		<td>N/A</td>
+		<td>1.03</td>
+		<td><a href="https://www.virustotal.com/#/file/eae83fdf02f738d256549156b59b7ffc55b1d999eee775bd70d179d1e20b4a14/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td></td>
