@@ -31,7 +31,7 @@ Note: Scans might contain False Positives.
         <tr>
             <th>Name</th>
             <th>Website</th>
-			<th>DSi Compatible</th>
+			<th>DSi</th>
 			<th>Version</th>
 			<th>Scan</th>
         </tr>
