@@ -173,51 +173,51 @@ Note: Scans might contain False Positives.
     <tr>
 	    <td><a href="EZ-FlashVi.zip">EZ-Flash Vi</a></td>
 		<td><a href="http://www.ezflash.cn/">Website</a></td>
-		<td>Yes (3DS < 4.0.0)</td>
+		<td>Yes</td>
 		<td>3.0 ob8|108a</td>
 		<td><a href="https://www.virustotal.com/#/file/5a4ca734c46325861d9f3b2b6efb975ad90de43295670347992d71575bef352c/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="G6DSReal.zip">G6 DS Real</a></td>
+		<td><a href="http://www.g6flash.com/">Website</a></td>
+		<td>No</td>
+		<td>4.8f</td>
+		<td><a href="https://www.virustotal.com/#/file/ef4eff8926be19053d763601339fdeaf164133152fdac7b01bec08127315ee74/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="G6Flash.zip">G6 Flash</a></td>
+		<td><a href="http://www.g6flash.com/">Website</a></td>
+		<td>No</td>
+		<td>4.8|5.1</td>
+		<td><a href="https://www.virustotal.com/#/file/626e4ad774f4d62d617271971fa7667fceeda11a4cf82256af89a6e754c0338a/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="G6Flash.zip">G6 Lite</a></td>
+		<td><a href="http://www.g6flash.com/">Website</a></td>
+		<td>No</td>
+		<td>4.8|5.1</td>
+		<td><a href="https://www.virustotal.com/#/file/626e4ad774f4d62d617271971fa7667fceeda11a4cf82256af89a6e754c0338a/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="GamesNMusic.zip">Games'N'Music</a></td>
+		<td><a href="http://us.codejunkies.com/Products/NDS-Games-n-Music__EF000155.aspx">Website</a></td>
+		<td>N/A</td>
+		<td>N/A</td>
+		<td><a href="https://www.virustotal.com/#/file/95a60d70f0d05412afb27ee3f2068f212b5cd6c700e1cd2c0111003f4ad73d86/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="GEiDS.zip">GEi DS</a></td>
+		<td<a href="http://www.ge.ndsi.in/">Website</a>></td>
+		<td>Yes</td>
+		<td>4.2</td>
+		<td><a href="https://www.virustotal.com/#/file/025af37e5e6d1c5c65d069b753cd95f3cf55c1c263ac9a621e25c6dd9ec7ba21/detection">Scan</a></td>
 	</tr>
     <tr>
-	    <td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+	    <td><a href="iEDGE.zip">iEDGE</a></td>
+		<td><a href="http://www.edge-ds.cn/">Website</a></td>
+		<td>Yes(< 1.4)</td>
+		<td>1.11</td>
+		<td><a href="https://www.virustotal.com/#/file/3f46f0ca422de4220a9e62a553127650f7e5f58ce1fce7c0b9ff699458f9871b/detection">Scan</a></td>
 	</tr>
     <tr>
 	    <td></td>
